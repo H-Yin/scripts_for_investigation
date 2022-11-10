@@ -30,11 +30,13 @@ def parse_json(json, args):
     for hit in hits:
         hit = hit['info']
         if 'publisher' in hit:
-            conf['title'] = hit['title'].replace("&amp;", "&")
+            conf['title'] = hit['title']
+            #.replace("&amp;", "&").replace("&quot;", '"').replace("&apos;", "'")
             conf['venue'] = hit['venue']
+            conf['year'] = hit['year']
             continue
         doc = {}
-        doc['title'] = hit["title"].replace("&amp;", "&")
+        doc['title'] = hit["title"]
         doc['venue'] = hit['venue']
         doc['year'] = hit['year']
         doc['url'] = hit['ee']
@@ -75,7 +77,7 @@ TEMPLATE='''
 
 if __name__ == '__main__':
     args = parser.parse_args()
-    print(args)
+    print(args.bht)
     json = download_json(args)
     conf, docs = parse_json(json, args)
-    write_to_md(conf, docs, TEMPLATE, "res/%s.md" % conf['venue'])
+    write_to_md(conf, docs, TEMPLATE, "res/%s%s.md" % (conf['venue'], conf['year']))
