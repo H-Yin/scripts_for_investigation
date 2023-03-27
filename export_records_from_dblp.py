@@ -8,10 +8,13 @@ DOMAIN_LIST=[
     'dblp.org',
 ]
 
+<<<<<<< HEAD
 PROXY = {
     # 'https': 'https://10.0.100.9:7890'
 }
 
+=======
+>>>>>>> 3abed7203ece91abda900614b9c2976e7c904e63
 URL="https://%s/search/publ/api"
 
 parser = argparse.ArgumentParser(description='Demo of argparse')
@@ -39,7 +42,11 @@ def download_doc(args, f=0):
         'format': 'json'
     }
     for domain in DOMAIN_LIST:
+<<<<<<< HEAD
         response = requests.get(URL % domain, params=data, proxies=PROXY, timeout=2)
+=======
+        response = requests.get(URL % domain, params=data)
+>>>>>>> 3abed7203ece91abda900614b9c2976e7c904e63
         if response.status_code == 200:
             return response.json()
         elif response.status_code == 500:
