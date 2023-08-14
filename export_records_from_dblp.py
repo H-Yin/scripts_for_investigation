@@ -8,13 +8,11 @@ DOMAIN_LIST=[
     'dblp.org',
 ]
 
-<<<<<<< HEAD
 PROXY = {
+    'http': 'http://10.0.3.79:5555',
     # 'https': 'https://10.0.100.9:7890'
 }
 
-=======
->>>>>>> 3abed7203ece91abda900614b9c2976e7c904e63
 URL="https://%s/search/publ/api"
 
 parser = argparse.ArgumentParser(description='Demo of argparse')
@@ -41,26 +39,26 @@ def download_doc(args, f=0):
         'h': 500,
         'format': 'json'
     }
-    for domain in DOMAIN_LIST:
-<<<<<<< HEAD
-        response = requests.get(URL % domain, params=data, proxies=PROXY, timeout=2)
-=======
-        response = requests.get(URL % domain, params=data)
->>>>>>> 3abed7203ece91abda900614b9c2976e7c904e63
-        if response.status_code == 200:
-            return response.json()
-        elif response.status_code == 500:
-            print("ERROR: Server Internal Error")
-        else:
-            print("request error:\n", response.text)
+    for _ in range(3):
+        for domain in DOMAIN_LIST:
+            response = requests.get(URL % domain, params=data, proxies=PROXY, timeout=10, )
+            if response.status_code == 200:
+                return response.json()
+            elif response.status_code == 500:
+                print("ERROR: Server Internal Error")
+            else:
+                print("request error:\n", response.text)
     exit(-1)
 
 def pre_parse_doc(doc):
-    result = doc['result']
-    total = int(result['hits']['@total'])
-    first = int(result['hits']['@first'])
-    count = int(result['hits']['@sent'])
-    hits = result['hits']['hit']
+    try:
+        result = doc['result']
+        total = int(result['hits']['@total'])
+        first = int(result['hits']['@first'])
+        count = int(result['hits']['@sent'])
+        hits = result['hits']['hit']
+    except:
+        return None
     return total, first, count, hits
 
 def parse_doc(hits, args):
@@ -101,7 +99,7 @@ def parse_doc(hits, args):
             docs.append(doc)
         except:
             print(hit)
-    docs = sorted(docs, key=lambda x:(int(x['pages'].split("-")[0]), x['title']))
+    docs = sorted(docs, key=lambda x:(x['pages'].split("-")[0], x['title']))
     if len(conf) == 0:
         conf['title'] = ''
         conf['venue'] = ''
@@ -112,7 +110,7 @@ def write_to_md(conf, docs, template, filepath):
     lines = []
     for doc in docs:
         pages = '' if doc['pages'] == '0-0' else "%s." % doc['pages']
-        ref = "%s. %s in %s(%s' %s). %s %s" % (
+        ref = "%s. %s in %s(%s' %s). %s [paper](%s)" % (
             ", ".join(doc['authors']), doc['title'], conf['title'], doc['venue'], doc['year'][-2:],
             pages, doc['url']
         )
@@ -135,9 +133,12 @@ if __name__ == '__main__':
     doc_list = []
     while True:
         doc = download_doc(args, f=start)
-        with open("res/%s_%d.json"% (filename, start), 'w') as f:
+        with open("res/temp/%s_%d.json"% (filename, start), 'w') as f:
             f.write(json.dumps(doc))
-        total, first, count, hits = pre_parse_doc(doc)
+        temp = pre_parse_doc(doc)
+        if temp is None:
+            continue
+        total, first, count, hits = temp
         # print(first, count, len(hits))
         doc_list.extend(hits)
         start = first + count
