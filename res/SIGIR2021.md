@@ -844,7 +844,7 @@
 
 
 - **Deep Position-wise Interaction Network for CTR Prediction.**
-    > Jianqiang Huang, Ke Hu, Qingtao Tang, etc. Deep Position-wise Interaction Network for CTR Prediction. in SIGIR &apos;21: The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Virtual Event, Canada, July 11-15, 2021(SIGIR' 21). 1885-1889. [paper](https://doi.org/10.1145/3404835.3463117)
+    python
 
 
 - **Deep User Match Network for Click-Through Rate Prediction.**

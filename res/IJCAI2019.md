@@ -1,564 +1,4 @@
 
-- **Flexible Representative Democracy: An Introduction with Binary Issues.**
-    > Ben Abramowitz, Nicholas Mattei. Flexible Representative Democracy: An Introduction with Binary Issues. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3-10. [paper](https://doi.org/10.24963/ijcai.2019/1)
-
-
-- **Portioning Using Ordinal Preferences: Fairness and Efficiency.**
-    > Stéphane Airiau, Haris Aziz, Ioannis Caragiannis, etc. Portioning Using Ordinal Preferences: Fairness and Efficiency. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 11-17. [paper](https://doi.org/10.24963/ijcai.2019/2)
-
-
-- **An Efficient Algorithm for Skeptical Preferred Acceptance in Dynamic Argumentation Frameworks.**
-    > Gianvincenzo Alfano, Sergio Greco, Francesco Parisi. An Efficient Algorithm for Skeptical Preferred Acceptance in Dynamic Argumentation Frameworks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 18-24. [paper](https://doi.org/10.24963/ijcai.2019/3)
-
-
-- **Strategic Signaling for Selling Information Goods.**
-    > Shani Alkoby, David Sarne, Igal Milchtaich. Strategic Signaling for Selling Information Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 25-31. [paper](https://doi.org/10.24963/ijcai.2019/4)
-
-
-- **Probabilistic Strategy Logic.**
-    > Benjamin Aminof, Marta Kwiatkowska, Bastien Maubert, etc. Probabilistic Strategy Logic. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 32-38. [paper](https://doi.org/10.24963/ijcai.2019/5)
-
-
-- **Multi-Agent Pathfinding with Continuous Time.**
-    > Anton Andreychuk, Konstantin S. Yakovlev, Dor Atzmon, etc. Multi-Agent Pathfinding with Continuous Time. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 39-45. [paper](https://doi.org/10.24963/ijcai.2019/6)
-
-
-- **Weighted Maxmin Fair Share Allocation of Indivisible Chores.**
-    > Haris Aziz, Hau Chan, Bo Li. Weighted Maxmin Fair Share Allocation of Indivisible Chores. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 46-52. [paper](https://doi.org/10.24963/ijcai.2019/7)
-
-
-- **Fair Allocation of Indivisible Goods and Chores.**
-    > Haris Aziz, Ioannis Caragiannis, Ayumi Igarashi, etc. Fair Allocation of Indivisible Goods and Chores. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 53-59. [paper](https://doi.org/10.24963/ijcai.2019/8)
-
-
-- **Strategyproof and Approximately Maxmin Fair Share Allocation of Chores.**
-    > Haris Aziz, Bo Li, Xiaowei Wu. Strategyproof and Approximately Maxmin Fair Share Allocation of Chores. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 60-66. [paper](https://doi.org/10.24963/ijcai.2019/9)
-
-
-- **Stable and Envy-free Partitions in Hedonic Games.**
-    > Nathanaël Barrot, Makoto Yokoo. Stable and Envy-free Partitions in Hedonic Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 67-73. [paper](https://doi.org/10.24963/ijcai.2019/10)
-
-
-- **How Hard Is the Manipulative Design of Scoring Systems?.**
-    > Dorothea Baumeister, Tobias Hogrebe. How Hard Is the Manipulative Design of Scoring Systems?. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 74-80. [paper](https://doi.org/10.24963/ijcai.2019/11)
-
-
-- **The Price of Fairness for Indivisible Goods.**
-    > Xiaohui Bei, Xinhang Lu, Pasin Manurangsi, etc. The Price of Fairness for Indivisible Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 81-87. [paper](https://doi.org/10.24963/ijcai.2019/12)
-
-
-- **Strategy Logic with Simple Goals: Tractable Reasoning about Strategies.**
-    > Francesco Belardinelli, Wojciech Jamroga, Damian Kurpiewski, etc. Strategy Logic with Simple Goals: Tractable Reasoning about Strategies. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 88-94. [paper](https://doi.org/10.24963/ijcai.2019/13)
-
-
-- **Fairness Towards Groups of Agents in the Allocation of Indivisible Items.**
-    > Nawal Benabbou, Mithun Chakraborty, Edith Elkind, etc. Fairness Towards Groups of Agents in the Allocation of Indivisible Items. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 95-101. [paper](https://doi.org/10.24963/ijcai.2019/14)
-
-
-- **Optimality and Nash Stability in Additive Separable Generalized Group Activity Selection Problems.**
-    > Vittorio Bilò, Angelo Fanelli, Michele Flammini, etc. Optimality and Nash Stability in Additive Separable Generalized Group Activity Selection Problems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 102-108. [paper](https://doi.org/10.24963/ijcai.2019/15)
-
-
-- **An Experimental View on Committees Providing Justified Representation.**
-    > Robert Bredereck, Piotr Faliszewski, Andrzej Kaczmarczyk, etc. An Experimental View on Committees Providing Justified Representation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 109-115. [paper](https://doi.org/10.24963/ijcai.2019/16)
-
-
-- **A Contribution to the Critique of Liquid Democracy.**
-    > Ioannis Caragiannis, Evi Micha. A Contribution to the Critique of Liquid Democracy. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 116-122. [paper](https://doi.org/10.24963/ijcai.2019/17)
-
-
-- **Be a Leader or Become a Follower: The Strategy to Commit to with Multiple Leaders.**
-    > Matteo Castiglioni, Alberto Marchesi, Nicola Gatti. Be a Leader or Become a Follower: The Strategy to Commit to with Multiple Leaders. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 123-129. [paper](https://doi.org/10.24963/ijcai.2019/18)
-
-
-- **On the Problem of Assigning PhD Grants.**
-    > Katarína Cechlárová, Laurent Gourvès, Julien Lesca. On the Problem of Assigning PhD Grants. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 130-136. [paper](https://doi.org/10.24963/ijcai.2019/19)
-
-
-- **Maximin-Aware Allocations of Indivisible Goods.**
-    > Hau Chan, Jing Chen, Bo Li, etc. Maximin-Aware Allocations of Indivisible Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 137-143. [paper](https://doi.org/10.24963/ijcai.2019/20)
-
-
-- **Reachability and Coverage Planning for Connected Agents.**
-    > Tristan Charrier, Arthur Queffelec, Ocan Sankur, etc. Reachability and Coverage Planning for Connected Agents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 144-150. [paper](https://doi.org/10.24963/ijcai.2019/21)
-
-
-- **Approximately Maximizing the Broker&apos;s Profit in a Two-sided Market.**
-    > Jing Chen, Bo Li, Yingkai Li. Approximately Maximizing the Broker&apos;s Profit in a Two-sided Market. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 151-157. [paper](https://doi.org/10.24963/ijcai.2019/22)
-
-
-- **Election with Bribe-Effect Uncertainty: A Dichotomy Result.**
-    > Lin Chen, Lei Xu, Shouhuai Xu, etc. Election with Bribe-Effect Uncertainty: A Dichotomy Result. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 158-164. [paper](https://doi.org/10.24963/ijcai.2019/23)
-
-
-- **Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices.**
-    > Mengjing Chen, Weiran Shen, Pingzhong Tang, etc. Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 165-171. [paper](https://doi.org/10.24963/ijcai.2019/24)
-
-
-- **ATSIS: Achieving the Ad hoc Teamwork by Sub-task Inference and Selection.**
-    > Shuo Chen, Ewa Andrejczuk, Athirai Aravazhi Irissappane, etc. ATSIS: Achieving the Ad hoc Teamwork by Sub-task Inference and Selection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 172-179. [paper](https://doi.org/10.24963/ijcai.2019/25)
-
-
-- **Network Formation under Random Attack and Probabilistic Spread.**
-    > Yu Chen, Shahin Jabbari, Michael J. Kearns, etc. Network Formation under Random Attack and Probabilistic Spread. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 180-186. [paper](https://doi.org/10.24963/ijcai.2019/26)
-
-
-- **Cap-and-Trade Emissions Regulation: A Strategic Analysis.**
-    > Frank Cheng, Yagil Engel, Michael P. Wellman. Cap-and-Trade Emissions Regulation: A Strategic Analysis. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 187-193. [paper](https://doi.org/10.24963/ijcai.2019/27)
-
-
-- **A Value-based Trust Assessment Model for Multi-agent Systems.**
-    > Kinzang Chhogyal, Abhaya C. Nayak, Aditya Ghose, etc. A Value-based Trust Assessment Model for Multi-agent Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 194-200. [paper](https://doi.org/10.24963/ijcai.2019/28)
-
-
-- **Exploiting Social Influence to Control Elections Based on Scoring Rules.**
-    > Federico Corò, Emilio Cruciani, Gianlorenzo D&apos;Angelo, etc. Exploiting Social Influence to Control Elections Based on Scoring Rules. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 201-207. [paper](https://doi.org/10.24963/ijcai.2019/29)
-
-
-- **Civic Crowdfunding for Agents with Negative Valuations and Agents with Asymmetric Beliefs.**
-    > Sankarshan Damle, Moin Hussain Moti, Praphul Chandra, etc. Civic Crowdfunding for Agents with Negative Valuations and Agents with Asymmetric Beliefs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 208-214. [paper](https://doi.org/10.24963/ijcai.2019/30)
-
-
-- **Anytime Heuristic for Weighted Matching Through Altruism-Inspired Behavior.**
-    > Panayiotis Danassis, Aris Filos-Ratsikas, Boi Faltings. Anytime Heuristic for Weighted Matching Through Altruism-Inspired Behavior. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 215-222. [paper](https://doi.org/10.24963/ijcai.2019/31)
-
-
-- **AsymDPOP: Complete Inference for Asymmetric Distributed Constraint Optimization Problems.**
-    > Yanchen Deng, Ziyu Chen, Dingding Chen, etc. AsymDPOP: Complete Inference for Asymmetric Distributed Constraint Optimization Problems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 223-230. [paper](https://doi.org/10.24963/ijcai.2019/32)
-
-
-- **Preferred Deals in General Environments.**
-    > Yuan Deng, Sébastien Lahaie, Vahab S. Mirrokni. Preferred Deals in General Environments. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 231-237. [paper](https://doi.org/10.24963/ijcai.2019/33)
-
-
-- **A Parameterized Perspective on Protecting Elections.**
-    > Palash Dey, Neeldhara Misra, Swaprava Nath, etc. A Parameterized Perspective on Protecting Elections. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 238-244. [paper](https://doi.org/10.24963/ijcai.2019/34)
-
-
-- **Spotting Collective Behaviour of Online Frauds in Customer Reviews.**
-    > Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, etc. Spotting Collective Behaviour of Online Frauds in Customer Reviews. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 245-251. [paper](https://doi.org/10.24963/ijcai.2019/35)
-
-
-- **Equilibrium Characterization for Data Acquisition Games.**
-    > Jinshuo Dong, Hadi Elzayn, Shahin Jabbari, etc. Equilibrium Characterization for Data Acquisition Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 252-258. [paper](https://doi.org/10.24963/ijcai.2019/36)
-
-
-- **Protecting Elections by Recounting Ballots.**
-    > Edith Elkind, Jiarui Gan, Svetlana Obraztsova, etc. Protecting Elections by Recounting Ballots. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 259-265. [paper](https://doi.org/10.24963/ijcai.2019/37)
-
-
-- **Schelling Games on Graphs.**
-    > Edith Elkind, Jiarui Gan, Ayumi Igarashi, etc. Schelling Games on Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 266-272. [paper](https://doi.org/10.24963/ijcai.2019/38)
-
-
-- **Reallocating Multiple Facilities on the Line.**
-    > Dimitris Fotakis, Loukas Kavouras, Panagiotis Kostopanagiotis, etc. Reallocating Multiple Facilities on the Line. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 273-279. [paper](https://doi.org/10.24963/ijcai.2019/39)
-
-
-- **Equitable Allocations of Indivisible Goods.**
-    > Rupert Freeman, Sujoy Sikdar, Rohit Vaish, etc. Equitable Allocations of Indivisible Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 280-286. [paper](https://doi.org/10.24963/ijcai.2019/40)
-
-
-- **Average-case Analysis of the Assignment Problem with Independent Preferences.**
-    > Yansong Gao, Jie Zhang. Average-case Analysis of the Assignment Problem with Independent Preferences. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 287-293. [paper](https://doi.org/10.24963/ijcai.2019/41)
-
-
-- **Improving Nash Social Welfare Approximations.**
-    > Jugal Garg, Peter McGlaughlin. Improving Nash Social Welfare Approximations. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 294-300. [paper](https://doi.org/10.24963/ijcai.2019/42)
-
-
-- **On the Efficiency and Equilibria of Rich Ads.**
-    > MohammadAmin Ghiasi, MohammadTaghi Hajiaghayi, Sébastien Lahaie, etc. On the Efficiency and Equilibria of Rich Ads. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 301-307. [paper](https://doi.org/10.24963/ijcai.2019/43)
-
-
-- **Identifying vulnerabilities in trust and reputation systems.**
-    > Taha D. Günes, Long Tran-Thanh, Timothy J. Norman. Identifying vulnerabilities in trust and reputation systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 308-314. [paper](https://doi.org/10.24963/ijcai.2019/44)
-
-
-- **An Asymptotically Optimal VCG Redistribution Mechanism for the Public Project Problem.**
-    > Mingyu Guo. An Asymptotically Optimal VCG Redistribution Mechanism for the Public Project Problem. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 315-321. [paper](https://doi.org/10.24963/ijcai.2019/45)
-
-
-- **On Succinct Encodings for the Tournament Fixing Problem.**
-    > Sushmita Gupta, Saket Saurabh, Ramanujan Sridharan, etc. On Succinct Encodings for the Tournament Fixing Problem. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 322-328. [paper](https://doi.org/10.24963/ijcai.2019/46)
-
-
-- **On Computational Tractability for Rational Verification.**
-    > Julian Gutierrez, Muhammad Najib, Giuseppe Perelli, etc. On Computational Tractability for Rational Verification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 329-335. [paper](https://doi.org/10.24963/ijcai.2019/47)
-
-
-- **Swarm Engineering Through Quantitative Measurement of Swarm Robotic Principles in a 10, 000 Robot Swarm.**
-    > John Harwell, Maria L. Gini. Swarm Engineering Through Quantitative Measurement of Swarm Robotic Principles in a 10, 000 Robot Swarm. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 336-342. [paper](https://doi.org/10.24963/ijcai.2019/48)
-
-
-- **Achieving a Fairer Future by Changing the Past.**
-    > Jiafan He, Ariel D. Procaccia, Alexandros Psomas, etc. Achieving a Fairer Future by Changing the Past. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 343-349. [paper](https://doi.org/10.24963/ijcai.2019/49)
-
-
-- **Compact Representation of Value Function in Partially Observable Stochastic Games.**
-    > Karel Horák, Branislav Bosanský, Christopher Kiekintveld, etc. Compact Representation of Value Function in Partially Observable Stochastic Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 350-356. [paper](https://doi.org/10.24963/ijcai.2019/50)
-
-
-- **Explicitly Coordinated Policy Iteration.**
-    > Yujing Hu, Yingfeng Chen, Changjie Fan, etc. Explicitly Coordinated Policy Iteration. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 357-363. [paper](https://doi.org/10.24963/ijcai.2019/51)
-
-
-- **Robustness against Agent Failure in Hedonic Games.**
-    > Ayumi Igarashi, Kazunori Ota, Yuko Sakurai, etc. Robustness against Agent Failure in Hedonic Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 364-370. [paper](https://doi.org/10.24963/ijcai.2019/52)
-
-
-- **The Interplay of Emotions and Norms in Multiagent Systems.**
-    > Anup K. Kalia, Nirav Ajmeri, Kevin S. Chan, etc. The Interplay of Emotions and Norms in Multiagent Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 371-377. [paper](https://doi.org/10.24963/ijcai.2019/53)
-
-
-- **An Ordinal Banzhaf Index for Social Ranking.**
-    > Hossein Khani, Stefano Moretti, Meltem Öztürk. An Ordinal Banzhaf Index for Social Ranking. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 378-384. [paper](https://doi.org/10.24963/ijcai.2019/54)
-
-
-- **Multigoal Committee Selection.**
-    > Maciej Kocot, Anna Kolonko, Edith Elkind, etc. Multigoal Committee Selection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 385-391. [paper](https://doi.org/10.24963/ijcai.2019/55)
-
-
-- **Neural Networks for Predicting Human Interactions in Repeated Games.**
-    > Yoav Kolumbus, Gali Noti. Neural Networks for Predicting Human Interactions in Repeated Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 392-399. [paper](https://doi.org/10.24963/ijcai.2019/56)
-
-
-- **Almost Envy-Freeness in Group Resource Allocation.**
-    > Maria Kyropoulou, Warut Suksompong, Alexandros A. Voudouris. Almost Envy-Freeness in Group Resource Allocation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 400-406. [paper](https://doi.org/10.24963/ijcai.2019/57)
-
-
-- **A Quantitative Analysis of Multi-Winner Rules.**
-    > Martin Lackner, Piotr Skowron. A Quantitative Analysis of Multi-Winner Rules. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 407-413. [paper](https://doi.org/10.24963/ijcai.2019/58)
-
-
-- **Correlating Preferences and Attributes: Nearly Single-Crossing Profiles.**
-    > Foram Lakhani, Dominik Peters, Edith Elkind. Correlating Preferences and Attributes: Nearly Single-Crossing Profiles. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 414-420. [paper](https://doi.org/10.24963/ijcai.2019/59)
-
-
-- **Automated Negotiation with Gaussian Process-based Utility Models.**
-    > Haralambie Leahu, Michael Kaisers, Tim Baarslag. Automated Negotiation with Gaussian Process-based Utility Models. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 421-427. [paper](https://doi.org/10.24963/ijcai.2019/60)
-
-
-- **Temporal Information Design in Contests.**
-    > Priel Levy, David Sarne, Yonatan Aumann. Temporal Information Design in Contests. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 428-434. [paper](https://doi.org/10.24963/ijcai.2019/61)
-
-
-- **Diffusion and Auction on Graphs.**
-    > Bin Li, Dong Hao, Dengji Zhao, etc. Diffusion and Auction on Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 435-441. [paper](https://doi.org/10.24963/ijcai.2019/62)
-
-
-- **Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search.**
-    > Jiaoyang Li, Ariel Felner, Eli Boyarski, etc. Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 442-449. [paper](https://doi.org/10.24963/ijcai.2019/63)
-
-
-- **Integrating Decision Sharing with Prediction in Decentralized Planning for Multi-Agent Coordination under Uncertainty.**
-    > Minglong Li, Wenjing Yang, Zhongxuan Cai, etc. Integrating Decision Sharing with Prediction in Decentralized Planning for Multi-Agent Coordination under Uncertainty. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 450-456. [paper](https://doi.org/10.24963/ijcai.2019/64)
-
-
-- **Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns.**
-    > Yong Liu, Yujing Hu, Yang Gao, etc. Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 457-463. [paper](https://doi.org/10.24963/ijcai.2019/65)
-
-
-- **Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent.**
-    > Edward Lockhart, Marc Lanctot, Julien Pérolat, etc. Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 464-470. [paper](https://doi.org/10.24963/ijcai.2019/66)
-
-
-- **Computational Aspects of Equilibria in Discrete Preference Games.**
-    > Phani Raj Lolakapuri, Umang Bhaskar, Ramasuri Narayanam, etc. Computational Aspects of Equilibria in Discrete Preference Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 471-477. [paper](https://doi.org/10.24963/ijcai.2019/67)
-
-
-- **Multi-Robot Planning Under Uncertain Travel Times and Safety Constraints.**
-    > Masoumeh Mansouri, Bruno Lacerda, Nick Hawes, etc. Multi-Robot Planning Under Uncertain Travel Times and Safety Constraints. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 478-484. [paper](https://doi.org/10.24963/ijcai.2019/68)
-
-
-- **Leadership in Congestion Games: Multiple User Classes and Non-Singleton Actions.**
-    > Alberto Marchesi, Matteo Castiglioni, Nicola Gatti. Leadership in Congestion Games: Multiple User Classes and Non-Singleton Actions. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 485-491. [paper](https://doi.org/10.24963/ijcai.2019/69)
-
-
-- **Graphical One-Sided Markets.**
-    > Sagar Massand, Sunil Simon. Graphical One-Sided Markets. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 492-498. [paper](https://doi.org/10.24963/ijcai.2019/70)
-
-
-- **Reachability Games in Dynamic Epistemic Logic.**
-    > Bastien Maubert, Sophie Pinchinat, François Schwarzentruber. Reachability Games in Dynamic Epistemic Logic. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 499-505. [paper](https://doi.org/10.24963/ijcai.2019/71)
-
-
-- **FaRM: Fair Reward Mechanism for Information Aggregation in Spontaneous Localized Settings.**
-    > Moin Hussain Moti, Dimitris Chatzopoulos, Pan Hui, etc. FaRM: Fair Reward Mechanism for Information Aggregation in Spontaneous Localized Settings. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 506-512. [paper](https://doi.org/10.24963/ijcai.2019/72)
-
-
-- **Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.**
-    > Aadesh Neupane, Michael A. Goodrich. Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 513-520. [paper](https://doi.org/10.24963/ijcai.2019/73)
-
-
-- **A Probabilistic Logic for Resource-Bounded Multi-Agent Systems.**
-    > Hoang Nga Nguyen, Abdur Rakib. A Probabilistic Logic for Resource-Bounded Multi-Agent Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 521-527. [paper](https://doi.org/10.24963/ijcai.2019/74)
-
-
-- **Imitative Attacker Deception in Stackelberg Security Games.**
-    > Thanh Nguyen, Haifeng Xu. Imitative Attacker Deception in Stackelberg Security Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 528-534. [paper](https://doi.org/10.24963/ijcai.2019/75)
-
-
-- **Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding.**
-    > Keisuke Okumura, Manao Machida, Xavier Défago, etc. Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 535-542. [paper](https://doi.org/10.24963/ijcai.2019/76)
-
-
-- **Approval-Based Elections and Distortion of Voting Rules.**
-    > Grzegorz Pierczynski, Piotr Skowron. Approval-Based Elections and Distortion of Voting Rules. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 543-549. [paper](https://doi.org/10.24963/ijcai.2019/77)
-
-
-- **Ad Hoc Teamwork With Behavior Switching Agents.**
-    > Manish Ravula, Shani Alkoby, Peter Stone. Ad Hoc Teamwork With Behavior Switching Agents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 550-556. [paper](https://doi.org/10.24963/ijcai.2019/78)
-
-
-- **Ridesharing with Driver Location Preferences.**
-    > Duncan Rheingans-Yoo, Scott Duke Kominers, Hongyao Ma, etc. Ridesharing with Driver Location Preferences. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 557-564. [paper](https://doi.org/10.24963/ijcai.2019/79)
-
-
-- **Multi-Population Congestion Games With Incomplete Information.**
-    > Charlotte Roman, Paolo Turrini. Multi-Population Congestion Games With Incomplete Information. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 565-571. [paper](https://doi.org/10.24963/ijcai.2019/80)
-
-
-- **Sybil-Resilient Reality-Aware Social Choice.**
-    > Gal Shahaf, Ehud Shapiro, Nimrod Talmon. Sybil-Resilient Reality-Aware Social Choice. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 572-579. [paper](https://doi.org/10.24963/ijcai.2019/81)
-
-
-- **Preferences Single-Peaked on a Tree: Sampling and Tree Recognition.**
-    > Jakub Sliwinski, Edith Elkind. Preferences Single-Peaked on a Tree: Sampling and Tree Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 580-586. [paper](https://doi.org/10.24963/ijcai.2019/82)
-
-
-- **Model-Free Model Reconciliation.**
-    > Sarath Sreedharan, Alberto Olmo Hernandez, Aditya Prasad Mishra, etc. Model-Free Model Reconciliation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 587-594. [paper](https://doi.org/10.24963/ijcai.2019/83)
-
-
-- **Aggregating Incomplete Pairwise Preferences by Weight.**
-    > Zoi Terzopoulou, Ulle Endriss. Aggregating Incomplete Pairwise Preferences by Weight. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 595-601. [paper](https://doi.org/10.24963/ijcai.2019/84)
-
-
-- **A Regularized Opponent Model with Maximum Entropy Objective.**
-    > Zheng Tian, Ying Wen, Zhichen Gong, etc. A Regularized Opponent Model with Maximum Entropy Objective. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 602-608. [paper](https://doi.org/10.24963/ijcai.2019/85)
-
-
-- **Exploring the Task Cooperation in Multi-goal Visual Navigation.**
-    > Yuechen Wu, Zhenhuan Rao, Wei Zhang, etc. Exploring the Task Cooperation in Multi-goal Visual Navigation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 609-615. [paper](https://doi.org/10.24963/ijcai.2019/86)
-
-
-- **On Strategyproof Conference Peer Review.**
-    > Yichong Xu, Han Zhao, Xiaofei Shi, etc. On Strategyproof Conference Peer Review. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 616-622. [paper](https://doi.org/10.24963/ijcai.2019/87)
-
-
-- **Towards Efficient Detection and Optimal Response against Sophisticated Opponents.**
-    > Tianpei Yang, Jianye Hao, Zhaopeng Meng, etc. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 623-629. [paper](https://doi.org/10.24963/ijcai.2019/88)
-
-
-- **Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework.**
-    > Yaodong Yang, Jianye Hao, Yan Zheng, etc. Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 630-636. [paper](https://doi.org/10.24963/ijcai.2019/89)
-
-
-- **Complexity of Manipulating and Controlling Approval-Based Multiwinner Voting.**
-    > Yongjie Yang. Complexity of Manipulating and Controlling Approval-Based Multiwinner Voting. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 637-643. [paper](https://doi.org/10.24963/ijcai.2019/90)
-
-
-- **On the Tree Representations of Dichotomous Preferences.**
-    > Yongjie Yang. On the Tree Representations of Dichotomous Preferences. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 644-650. [paper](https://doi.org/10.24963/ijcai.2019/91)
-
-
-- **The Price of Governance: A Middle Ground Solution to Coordination in Organizational Control.**
-    > Chao Yu, Guozhen Tan. The Price of Governance: A Middle Ground Solution to Coordination in Organizational Control. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 651-657. [paper](https://doi.org/10.24963/ijcai.2019/92)
-
-
-- **Decentralized Optimization with Edge Sampling.**
-    > Chi Zhang, Qianxiao Li, Peilin Zhao. Decentralized Optimization with Edge Sampling. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 658-664. [paper](https://doi.org/10.24963/ijcai.2019/93)
-
-
-- **Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy.**
-    > Pengzhan Zhou, Xin Wei, Cong Wang, etc. Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 665-671. [paper](https://doi.org/10.24963/ijcai.2019/94)
-
-
-- **CoSegNet: Image Co-segmentation using a Conditional Siamese Convolutional Network.**
-    > Sayan Banerjee, Avik Hati, Subhasis Chaudhuri, etc. CoSegNet: Image Co-segmentation using a Conditional Siamese Convolutional Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 673-679. [paper](https://doi.org/10.24963/ijcai.2019/95)
-
-
-- **Multi-Margin based Decorrelation Learning for Heterogeneous Face Recognition.**
-    > Bing Cao, Nannan Wang, Xinbo Gao, etc. Multi-Margin based Decorrelation Learning for Heterogeneous Face Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 680-686. [paper](https://doi.org/10.24963/ijcai.2019/96)
-
-
-- **Generalized Zero-Shot Vehicle Detection in Remote Sensing Imagery via Coarse-to-Fine Framework.**
-    > Hong Chen, Yongtan Luo, Liujuan Cao, etc. Generalized Zero-Shot Vehicle Detection in Remote Sensing Imagery via Coarse-to-Fine Framework. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 687-693. [paper](https://doi.org/10.24963/ijcai.2019/97)
-
-
-- **Structure-Aware Residual Pyramid Network for Monocular Depth Estimation.**
-    > Xiaotian Chen, Xuejin Chen, Zheng-Jun Zha. Structure-Aware Residual Pyramid Network for Monocular Depth Estimation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 694-700. [paper](https://doi.org/10.24963/ijcai.2019/98)
-
-
-- **A Deep Bi-directional Attention Network for Human Motion Recovery.**
-    > Qiongjie Cui, Huaijiang Sun, Yupeng Li, etc. A Deep Bi-directional Attention Network for Human Motion Recovery. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 701-707. [paper](https://doi.org/10.24963/ijcai.2019/99)
-
-
-- **On Retrospecting Human Dynamics with Attention.**
-    > Minjing Dong, Chang Xu. On Retrospecting Human Dynamics with Attention. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 708-714. [paper](https://doi.org/10.24963/ijcai.2019/100)
-
-
-- **Learning to Draw Text in Natural Images with Conditional Adversarial Networks.**
-    > Shancheng Fang, Hongtao Xie, Jianjun Chen, etc. Learning to Draw Text in Natural Images with Conditional Adversarial Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 715-722. [paper](https://doi.org/10.24963/ijcai.2019/101)
-
-
-- **Beyond Product Quantization: Deep Progressive Quantization for Image Retrieval.**
-    > Lianli Gao, Xiaosu Zhu, Jingkuan Song, etc. Beyond Product Quantization: Deep Progressive Quantization for Image Retrieval. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 723-729. [paper](https://doi.org/10.24963/ijcai.2019/102)
-
-
-- **ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs.**
-    > Amir Gholaminejad, Kurt Keutzer, George Biros. ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 730-736. [paper](https://doi.org/10.24963/ijcai.2019/103)
-
-
-- **Asynchronous Stochastic Frank-Wolfe Algorithms for Non-Convex Optimization.**
-    > Bin Gu, Wenhan Xian, Heng Huang. Asynchronous Stochastic Frank-Wolfe Algorithms for Non-Convex Optimization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 737-743. [paper](https://doi.org/10.24963/ijcai.2019/104)
-
-
-- **Dense Temporal Convolution Network for Sign Language Translation.**
-    > Dan Guo, Shuo Wang, Qi Tian, etc. Dense Temporal Convolution Network for Sign Language Translation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 744-750. [paper](https://doi.org/10.24963/ijcai.2019/105)
-
-
-- **Connectionist Temporal Modeling of Video and Language: a Joint Model for Translation and Sign Labeling.**
-    > Dan Guo, Shengeng Tang, Meng Wang. Connectionist Temporal Modeling of Video and Language: a Joint Model for Translation and Sign Labeling. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 751-757. [paper](https://doi.org/10.24963/ijcai.2019/106)
-
-
-- **3DViewGraph: Learning Global Features for 3D Shapes from A Graph of Unordered Views with Attention.**
-    > Zhizhong Han, Xiyang Wang, Chi-Man Vong, etc. 3DViewGraph: Learning Global Features for 3D Shapes from A Graph of Unordered Views with Attention. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 758-765. [paper](https://doi.org/10.24963/ijcai.2019/107)
-
-
-- **Parts4Feature: Learning 3D Global Features from Generally Semantic Parts in Multiple Views.**
-    > Zhizhong Han, Xinhai Liu, Yu-Shen Liu, etc. Parts4Feature: Learning 3D Global Features from Generally Semantic Parts in Multiple Views. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 766-773. [paper](https://doi.org/10.24963/ijcai.2019/108)
-
-
-- **MAT-Net: Medial Axis Transform Network for 3D Object Recognition.**
-    > Jianwei Hu, Bin Wang, Lihui Qian, etc. MAT-Net: Medial Axis Transform Network for 3D Object Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 774-781. [paper](https://doi.org/10.24963/ijcai.2019/109)
-
-
-- **Dynamic Feature Fusion for Semantic Edge Detection.**
-    > Yuan Hu, Yunpeng Chen, Xiang Li, etc. Dynamic Feature Fusion for Semantic Edge Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 782-788. [paper](https://doi.org/10.24963/ijcai.2019/110)
-
-
-- **Multi-Level Visual-Semantic Alignments with Relation-Wise Dual Attention Network for Image and Text Matching.**
-    > Zhibin Hu, Yongsheng Luo, Jiong Lin, etc. Multi-Level Visual-Semantic Alignments with Relation-Wise Dual Attention Network for Image and Text Matching. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 789-795. [paper](https://doi.org/10.24963/ijcai.2019/111)
-
-
-- **Learning Unsupervised Visual Grounding Through Semantic Self-Supervision.**
-    > Syed Ashar Javed, Shreyas Saxena, Vineet Gandhi. Learning Unsupervised Visual Grounding Through Semantic Self-Supervision. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 796-802. [paper](https://doi.org/10.24963/ijcai.2019/112)
-
-
-- **Supervised Set-to-Set Hashing in Visual Recognition.**
-    > I-Hong Jhuo. Supervised Set-to-Set Hashing in Visual Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 803-810. [paper](https://doi.org/10.24963/ijcai.2019/113)
-
-
-- **Generative Image Inpainting with Submanifold Alignment.**
-    > Ang Li, Jianzhong Qi, Rui Zhang, etc. Generative Image Inpainting with Submanifold Alignment. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 811-817. [paper](https://doi.org/10.24963/ijcai.2019/114)
-
-
-- **Detecting Robust Co-Saliency with Recurrent Co-Attention Neural Network.**
-    > Bo Li, Zhengxing Sun, Lv Tang, etc. Detecting Robust Co-Saliency with Recurrent Co-Attention Neural Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 818-825. [paper](https://doi.org/10.24963/ijcai.2019/115)
-
-
-- **Variation Generalized Feature Learning via Intra-view Variation Adaptation.**
-    > Jiawei Li, Mang Ye, Andy Jinhua Ma, etc. Variation Generalized Feature Learning via Intra-view Variation Adaptation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 826-832. [paper](https://doi.org/10.24963/ijcai.2019/116)
-
-
-- **Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation.**
-    > Qiaozhe Li, Xin Zhao, Ran He, etc. Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 833-839. [paper](https://doi.org/10.24963/ijcai.2019/117)
-
-
-- **Rethinking Loss Design for Large-scale 3D Shape Retrieval.**
-    > Zhaoqun Li, Cheng Xu, Biao Leng. Rethinking Loss Design for Large-scale 3D Shape Retrieval. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 840-846. [paper](https://doi.org/10.24963/ijcai.2019/118)
-
-
-- **Attribute-Aware Convolutional Neural Networks for Facial Beauty Prediction.**
-    > Luojun Lin, Lingyu Liang, Lianwen Jin, etc. Attribute-Aware Convolutional Neural Networks for Facial Beauty Prediction. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 847-853. [paper](https://doi.org/10.24963/ijcai.2019/119)
-
-
-- **Rectified Binary Convolutional Networks for Enhancing the Performance of 1-bit DCNNs.**
-    > Chunlei Liu, Wenrui Ding, Xin Xia, etc. Rectified Binary Convolutional Networks for Enhancing the Performance of 1-bit DCNNs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 854-860. [paper](https://doi.org/10.24963/ijcai.2019/120)
-
-
-- **Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion.**
-    > Dongnan Liu, Donghao Zhang, Yang Song, etc. Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 861-868. [paper](https://doi.org/10.24963/ijcai.2019/121)
-
-
-- **Densely Connected Attention Flow for Visual Question Answering.**
-    > Fei Liu, Jing Liu, Zhiwei Fang, etc. Densely Connected Attention Flow for Visual Question Answering. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 869-875. [paper](https://doi.org/10.24963/ijcai.2019/122)
-
-
-- **Unsupervised Learning of Scene Flow Estimation Fusing with Local Rigidity.**
-    > Liang Liu, Guangyao Zhai, Wenlong Ye, etc. Unsupervised Learning of Scene Flow Estimation Fusing with Local Rigidity. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 876-882. [paper](https://doi.org/10.24963/ijcai.2019/123)
-
-
-- **Resolution-invariant Person Re-Identification.**
-    > Shunan Mao, Shiliang Zhang, Ming Yang. Resolution-invariant Person Re-Identification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 883-889. [paper](https://doi.org/10.24963/ijcai.2019/124)
-
-
-- **Low Shot Box Correction for Weakly Supervised Object Detection.**
-    > Tianxiang Pan, Bin Wang, Guiguang Ding, etc. Low Shot Box Correction for Weakly Supervised Object Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 890-896. [paper](https://doi.org/10.24963/ijcai.2019/125)
-
-
-- **DBDNet: Learning Bi-directional Dynamics for Early Action Prediction.**
-    > Guoliang Pang, Xionghui Wang, Jianfang Hu, etc. DBDNet: Learning Bi-directional Dynamics for Early Action Prediction. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 897-903. [paper](https://doi.org/10.24963/ijcai.2019/126)
-
-
-- **Deep Light-field-driven Saliency Detection from a Single View.**
-    > Yongri Piao, Zhengkun Rong, Miao Zhang, etc. Deep Light-field-driven Saliency Detection from a Single View. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 904-911. [paper](https://doi.org/10.24963/ijcai.2019/127)
-
-
-- **Deep Recurrent Quantization for Generating Sequential Binary Codes.**
-    > Jingkuan Song, Xiaosu Zhu, Lianli Gao, etc. Deep Recurrent Quantization for Generating Sequential Binary Codes. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 912-918. [paper](https://doi.org/10.24963/ijcai.2019/128)
-
-
-- **Talking Face Generation by Conditional Recurrent Adversarial Network.**
-    > Yang Song, Jingwen Zhu, Dawei Li, etc. Talking Face Generation by Conditional Recurrent Adversarial Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 919-925. [paper](https://doi.org/10.24963/ijcai.2019/129)
-
-
-- **Hallucinating Optical Flow Features for Video Classification.**
-    > Yongyi Tang, Lin Ma, Lianqiang Zhou. Hallucinating Optical Flow Features for Video Classification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 926-932. [paper](https://doi.org/10.24963/ijcai.2019/130)
-
-
-- **Color-Sensitive Person Re-Identification.**
-    > Guan&apos;an Wang, Yang Yang, Jian Cheng, etc. Color-Sensitive Person Re-Identification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 933-939. [paper](https://doi.org/10.24963/ijcai.2019/131)
-
-
-- **Convolutional Auto-encoding of Sentence Topics for Image Paragraph Generation.**
-    > Jing Wang, Yingwei Pan, Ting Yao, etc. Convolutional Auto-encoding of Sentence Topics for Image Paragraph Generation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 940-946. [paper](https://doi.org/10.24963/ijcai.2019/132)
-
-
-- **DSRN: A Deep Scale Relationship Network for Scene Text Detection.**
-    > Yuxin Wang, Hongtao Xie, Zilong Fu, etc. DSRN: A Deep Scale Relationship Network for Scene Text Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 947-953. [paper](https://doi.org/10.24963/ijcai.2019/133)
-
-
-- **Transferable Adversarial Attacks for Image and Video Object Detection.**
-    > Xingxing Wei, Siyuan Liang, Ning Chen, etc. Transferable Adversarial Attacks for Image and Video Object Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 954-960. [paper](https://doi.org/10.24963/ijcai.2019/134)
-
-
-- **Video Interactive Captioning with Human Prompts.**
-    > Aming Wu, Yahong Han, Yi Yang. Video Interactive Captioning with Human Prompts. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 961-967. [paper](https://doi.org/10.24963/ijcai.2019/135)
-
-
-- **Mutually Reinforced Spatio-Temporal Convolutional Tube for Human Action Recognition.**
-    > Haoze Wu, Jiawei Liu, Zheng-Jun Zha, etc. Mutually Reinforced Spatio-Temporal Convolutional Tube for Human Action Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 968-974. [paper](https://doi.org/10.24963/ijcai.2019/136)
-
-
-- **Densely Supervised Hierarchical Policy-Value Network for Image Paragraph Generation.**
-    > Siying Wu, Zheng-Jun Zha, Zilei Wang, etc. Densely Supervised Hierarchical Policy-Value Network for Image Paragraph Generation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 975-981. [paper](https://doi.org/10.24963/ijcai.2019/137)
-
-
-- **Graph Convolutional Network Hashing for Cross-Modal Retrieval.**
-    > Ruiqing Xu, Chao Li, Junchi Yan, etc. Graph Convolutional Network Hashing for Cross-Modal Retrieval. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 982-988. [paper](https://doi.org/10.24963/ijcai.2019/138)
-
-
-- **MSR: Multi-Scale Shape Regression for Scene Text Detection.**
-    > Chuhui Xue, Shijian Lu, Wei Zhang. MSR: Multi-Scale Shape Regression for Scene Text Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 989-995. [paper](https://doi.org/10.24963/ijcai.2019/139)
-
-
-- **Dynamically Visual Disambiguation of Keyword-based Image Search.**
-    > Yazhou Yao, Zeren Sun, Fumin Shen, etc. Dynamically Visual Disambiguation of Keyword-based Image Search. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 996-1002. [paper](https://doi.org/10.24963/ijcai.2019/140)
-
-
 - **High Performance Gesture Recognition via Effective and Efficient Temporal Modeling.**
     > Yang Yi, Feng Ni, Yuexin Ma, etc. High Performance Gesture Recognition via Effective and Efficient Temporal Modeling. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1003-1009. [paper](https://doi.org/10.24963/ijcai.2019/141)
 
@@ -569,6 +9,10 @@
 
 - **Pose-preserving Cross Spectral Face Hallucination.**
     > Junchi Yu, Jie Cao, Yi Li, etc. Pose-preserving Cross Spectral Face Hallucination. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1018-1024. [paper](https://doi.org/10.24963/ijcai.2019/143)
+
+
+- **Optimality and Nash Stability in Additive Separable Generalized Group Activity Selection Problems.**
+    > Vittorio Bilò, Angelo Fanelli, Michele Flammini, etc. Optimality and Nash Stability in Additive Separable Generalized Group Activity Selection Problems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 102-108. [paper](https://doi.org/10.24963/ijcai.2019/15)
 
 
 - **Generative Visual Dialogue System via Weighted Likelihood Estimation.**
@@ -607,8 +51,16 @@
     > Ferdinando Fioretto, Terrence W. K. Mak, Pascal Van Hentenryck. Privacy-Preserving Obfuscation of Critical Infrastructure Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1086-1092. [paper](https://doi.org/10.24963/ijcai.2019/152)
 
 
+- **An Experimental View on Committees Providing Justified Representation.**
+    > Robert Bredereck, Piotr Faliszewski, Andrzej Kaczmarczyk, etc. An Experimental View on Committees Providing Justified Representation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 109-115. [paper](https://doi.org/10.24963/ijcai.2019/16)
+
+
 - **Solving the Satisfiability Problem of Modal Logic S5 Guided by Graph Coloring.**
     > Pei Huang, Minghao Liu, Ping Wang, etc. Solving the Satisfiability Problem of Modal Logic S5 Guided by Graph Coloring. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1093-1100. [paper](https://doi.org/10.24963/ijcai.2019/153)
+
+
+- **Portioning Using Ordinal Preferences: Fairness and Efficiency.**
+    > Stéphane Airiau, Haris Aziz, Ioannis Caragiannis, etc. Portioning Using Ordinal Preferences: Fairness and Efficiency. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 11-17. [paper](https://doi.org/10.24963/ijcai.2019/2)
 
 
 - **DoubleLex Revisited and Beyond.**
@@ -641,6 +93,10 @@
 
 - **Constraint-Based Scheduling with Complex Setup Operations: An Iterative Two-Layer Approach.**
     > Adriana Pacheco, Cédric Pralet, Stéphanie Roussel. Constraint-Based Scheduling with Complex Setup Operations: An Iterative Two-Layer Approach. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1155-1161. [paper](https://doi.org/10.24963/ijcai.2019/161)
+
+
+- **A Contribution to the Critique of Liquid Democracy.**
+    > Ioannis Caragiannis, Evi Micha. A Contribution to the Critique of Liquid Democracy. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 116-122. [paper](https://doi.org/10.24963/ijcai.2019/17)
 
 
 - **Phase Transition Behavior of Cardinality and XOR Constraints.**
@@ -683,6 +139,10 @@
     > Victoria G. Crawford. An Efficient Evolutionary Algorithm for Minimum Cost Submodular Cover. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1227-1233. [paper](https://doi.org/10.24963/ijcai.2019/171)
 
 
+- **Be a Leader or Become a Follower: The Strategy to Commit to with Multiple Leaders.**
+    > Matteo Castiglioni, Alberto Marchesi, Nicola Gatti. Be a Leader or Become a Follower: The Strategy to Commit to with Multiple Leaders. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 123-129. [paper](https://doi.org/10.24963/ijcai.2019/18)
+
+
 - **An Evolution Strategy with Progressive Episode Lengths for Playing Games.**
     > Lior Fuks, Noor H. Awad, Frank Hutter, etc. An Evolution Strategy with Progressive Episode Lengths for Playing Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1234-1240. [paper](https://doi.org/10.24963/ijcai.2019/172)
 
@@ -719,6 +179,10 @@
     > Chuan Luo, Holger H. Hoos, Shaowei Cai, etc. Local Search with Efficient Automatic Configuration for Minimum Vertex Cover. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1297-1304. [paper](https://doi.org/10.24963/ijcai.2019/180)
 
 
+- **On the Problem of Assigning PhD Grants.**
+    > Katarína Cechlárová, Laurent Gourvès, Julien Lesca. On the Problem of Assigning PhD Grants. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 130-136. [paper](https://doi.org/10.24963/ijcai.2019/19)
+
+
 - **Learning Deep Decentralized Policy Network by Collective Rewards for Real-Time Combat Game.**
     > Peixi Peng, Junliang Xing, Lili Cao, etc. Learning Deep Decentralized Policy Network by Collective Rewards for Real-Time Combat Game. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1305-1311. [paper](https://doi.org/10.24963/ijcai.2019/181)
 
@@ -753,6 +217,10 @@
 
 - **STCA: Spatio-Temporal Credit Assignment with Delayed Feedback in Deep Spiking Neural Networks.**
     > Pengjie Gu, Rong Xiao, Gang Pan, etc. STCA: Spatio-Temporal Credit Assignment with Delayed Feedback in Deep Spiking Neural Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1366-1372. [paper](https://doi.org/10.24963/ijcai.2019/189)
+
+
+- **Maximin-Aware Allocations of Indivisible Goods.**
+    > Hau Chan, Jing Chen, Bo Li, etc. Maximin-Aware Allocations of Indivisible Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 137-143. [paper](https://doi.org/10.24963/ijcai.2019/20)
 
 
 - **Dynamic Item Block and Prediction Enhancing Block for Sequential Recommendation.**
@@ -795,6 +263,10 @@
     > Yongkai Wu, Lu Zhang, Xintao Wu. Counterfactual Fairness: Unidentification, Bound and Algorithm. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1438-1444. [paper](https://doi.org/10.24963/ijcai.2019/199)
 
 
+- **Reachability and Coverage Planning for Connected Agents.**
+    > Tristan Charrier, Arthur Queffelec, Ocan Sankur, etc. Reachability and Coverage Planning for Connected Agents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 144-150. [paper](https://doi.org/10.24963/ijcai.2019/21)
+
+
 - **Fast and Accurate Classification with a Multi-Spike Learning Algorithm for Spiking Neurons.**
     > Rong Xiao, Qiang Yu, Rui Yan, etc. Fast and Accurate Classification with a Multi-Spike Learning Algorithm for Spiking Neurons. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1445-1451. [paper](https://doi.org/10.24963/ijcai.2019/200)
 
@@ -835,6 +307,10 @@
     > Theofanis I. Aravanis, Pavlos Peppas, Mary-Anne Williams. Observations on Darwiche and Pearl&apos;s Approach for Iterated Belief Revision. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1509-1515. [paper](https://doi.org/10.24963/ijcai.2019/209)
 
 
+- **Approximately Maximizing the Broker&apos;s Profit in a Two-sided Market.**
+    > Jing Chen, Bo Li, Yingkai Li. Approximately Maximizing the Broker&apos;s Profit in a Two-sided Market. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 151-157. [paper](https://doi.org/10.24963/ijcai.2019/22)
+
+
 - **Do You Need Infinite Time?.**
     > Alessandro Artale, Andrea Mazzullo, Ana Ozaki. Do You Need Infinite Time?. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1516-1522. [paper](https://doi.org/10.24963/ijcai.2019/210)
 
@@ -869,6 +345,10 @@
 
 - **Ontology Approximation in Horn Description Logics.**
     > Anneke Bötcher, Carsten Lutz, Frank Wolter. Ontology Approximation in Horn Description Logics. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1574-1580. [paper](https://doi.org/10.24963/ijcai.2019/218)
+
+
+- **Election with Bribe-Effect Uncertainty: A Dichotomy Result.**
+    > Lin Chen, Lei Xu, Shouhuai Xu, etc. Election with Bribe-Effect Uncertainty: A Dichotomy Result. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 158-164. [paper](https://doi.org/10.24963/ijcai.2019/23)
 
 
 - **Oblivious and Semi-Oblivious Boundedness for Existential Rules.**
@@ -911,6 +391,10 @@
     > Gianluca Cima, Maurizio Lenzerini, Antonella Poggi. Semantic Characterization of Data Services through Ontologies. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1647-1653. [paper](https://doi.org/10.24963/ijcai.2019/228)
 
 
+- **Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices.**
+    > Mengjing Chen, Weiran Shen, Pingzhong Tang, etc. Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 165-171. [paper](https://doi.org/10.24963/ijcai.2019/24)
+
+
 - **Measuring the Likelihood of Numerical Constraints.**
     > Marco Console, Matthias F. J. Hofer, Leonid Libkin. Measuring the Likelihood of Numerical Constraints. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1654-1660. [paper](https://doi.org/10.24963/ijcai.2019/229)
 
@@ -949,6 +433,10 @@
 
 - **On Finite and Unrestricted Query Entailment beyond SQ with Number Restrictions on Transitive Roles.**
     > Tomasz Gogacz, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, etc. On Finite and Unrestricted Query Entailment beyond SQ with Number Restrictions on Transitive Roles. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1719-1725. [paper](https://doi.org/10.24963/ijcai.2019/238)
+
+
+- **ATSIS: Achieving the Ad hoc Teamwork by Sub-task Inference and Selection.**
+    > Shuo Chen, Ewa Andrejczuk, Athirai Aravazhi Irissappane, etc. ATSIS: Achieving the Ad hoc Teamwork by Sub-task Inference and Selection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 172-179. [paper](https://doi.org/10.24963/ijcai.2019/25)
 
 
 - **Belief Revision Operators with Varying Attitudes Towards Initial Beliefs.**
@@ -991,6 +479,14 @@
     > Ang Li, Judea Pearl. Unit Selection Based on Counterfactual Logic. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1793-1799. [paper](https://doi.org/10.24963/ijcai.2019/248)
 
 
+- **An Efficient Algorithm for Skeptical Preferred Acceptance in Dynamic Argumentation Frameworks.**
+    > Gianvincenzo Alfano, Sergio Greco, Francesco Parisi. An Efficient Algorithm for Skeptical Preferred Acceptance in Dynamic Argumentation Frameworks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 18-24. [paper](https://doi.org/10.24963/ijcai.2019/3)
+
+
+- **Network Formation under Random Attack and Probabilistic Spread.**
+    > Yu Chen, Shahin Jabbari, Michael J. Kearns, etc. Network Formation under Random Attack and Probabilistic Spread. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 180-186. [paper](https://doi.org/10.24963/ijcai.2019/26)
+
+
 - **Story Ending Prediction by Transferable BERT.**
     > Zhongyang Li, Xiao Ding, Ting Liu. Story Ending Prediction by Transferable BERT. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1800-1806. [paper](https://doi.org/10.24963/ijcai.2019/249)
 
@@ -1029,6 +525,10 @@
 
 - **What Has Been Said? Identifying the Change Formula in a Belief Revision Scenario.**
     > Nicolas Schwind, Katsumi Inoue, Sébastien Konieczny, etc. What Has Been Said? Identifying the Change Formula in a Belief Revision Scenario. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1865-1871. [paper](https://doi.org/10.24963/ijcai.2019/258)
+
+
+- **Cap-and-Trade Emissions Regulation: A Strategic Analysis.**
+    > Frank Cheng, Yagil Engel, Michael P. Wellman. Cap-and-Trade Emissions Regulation: A Strategic Analysis. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 187-193. [paper](https://doi.org/10.24963/ijcai.2019/27)
 
 
 - **Estimating Causal Effects of Tone in Online Debates.**
@@ -1071,6 +571,10 @@
     > Shihui Yang, Jidong Tian, Honglun Zhang, etc. TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1935-1942. [paper](https://doi.org/10.24963/ijcai.2019/268)
 
 
+- **A Value-based Trust Assessment Model for Multi-agent Systems.**
+    > Kinzang Chhogyal, Abhaya C. Nayak, Aditya Ghose, etc. A Value-based Trust Assessment Model for Multi-agent Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 194-200. [paper](https://doi.org/10.24963/ijcai.2019/28)
+
+
 - **Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs.**
     > Qiannan Zhu, Xiaofei Zhou, Jia Wu, etc. Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 1943-1949. [paper](https://doi.org/10.24963/ijcai.2019/269)
 
@@ -1111,6 +615,10 @@
     > Alessandro Betti, Marco Gori, Stefano Melacci. Motion Invariance in Visual Environments. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2009-2015. [paper](https://doi.org/10.24963/ijcai.2019/278)
 
 
+- **Exploiting Social Influence to Control Elections Based on Scoring Rules.**
+    > Federico Corò, Emilio Cruciani, Gianlorenzo D&apos;Angelo, etc. Exploiting Social Influence to Control Elections Based on Scoring Rules. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 201-207. [paper](https://doi.org/10.24963/ijcai.2019/29)
+
+
 - **Optimal Exploitation of Clustering and History Information in Multi-armed Bandit.**
     > Djallel Bouneffouf, Srinivasan Parthasarathy, Horst Samulowitz, etc. Optimal Exploitation of Clustering and History Information in Multi-armed Bandit. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2016-2022. [paper](https://doi.org/10.24963/ijcai.2019/279)
 
@@ -1145,6 +653,10 @@
 
 - **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data.**
     > Haipeng Chen, Sushil Jajodia, Jing Liu, etc. FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2074-2080. [paper](https://doi.org/10.24963/ijcai.2019/287)
+
+
+- **Civic Crowdfunding for Agents with Negative Valuations and Agents with Asymmetric Beliefs.**
+    > Sankarshan Damle, Moin Hussain Moti, Praphul Chandra, etc. Civic Crowdfunding for Agents with Negative Valuations and Agents with Asymmetric Beliefs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 208-214. [paper](https://doi.org/10.24963/ijcai.2019/30)
 
 
 - **Theoretical Investigation of Generalization Bound for Residual Networks.**
@@ -1185,6 +697,10 @@
 
 - **Variational Graph Embedding and Clustering with Laplacian Eigenmaps.**
     > Zitai Chen, Chuan Chen, Zong Zhang, etc. Variational Graph Embedding and Clustering with Laplacian Eigenmaps. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2144-2150. [paper](https://doi.org/10.24963/ijcai.2019/297)
+
+
+- **Anytime Heuristic for Weighted Matching Through Altruism-Inspired Behavior.**
+    > Panayiotis Danassis, Aris Filos-Ratsikas, Boi Faltings. Anytime Heuristic for Weighted Matching Through Altruism-Inspired Behavior. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 215-222. [paper](https://doi.org/10.24963/ijcai.2019/31)
 
 
 - **Deep Active Learning for Anchor User Prediction.**
@@ -1229,6 +745,10 @@
 
 - **Marginal Posterior Sampling for Slate Bandits.**
     > Maria Dimakopoulou, Nikos Vlassis, Tony Jebara. Marginal Posterior Sampling for Slate Bandits. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2223-2229. [paper](https://doi.org/10.24963/ijcai.2019/308)
+
+
+- **AsymDPOP: Complete Inference for Asymmetric Distributed Constraint Optimization Problems.**
+    > Yanchen Deng, Ziyu Chen, Dingding Chen, etc. AsymDPOP: Complete Inference for Asymmetric Distributed Constraint Optimization Problems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 223-230. [paper](https://doi.org/10.24963/ijcai.2019/32)
 
 
 - **Reinforced Negative Sampling for Recommendation with Exposure Data.**
@@ -1279,6 +799,10 @@
     > Francesco Foglino, Christiano Coletto Christakou, Ricardo Luna Gutierrez, etc. Curriculum Learning for Cumulative Return Maximization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2308-2314. [paper](https://doi.org/10.24963/ijcai.2019/320)
 
 
+- **Preferred Deals in General Environments.**
+    > Yuan Deng, Sébastien Lahaie, Vahab S. Mirrokni. Preferred Deals in General Environments. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 231-237. [paper](https://doi.org/10.24963/ijcai.2019/33)
+
+
 - **Advocacy Learning: Learning through Competition and Class-Conditional Representations.**
     > Ian Fox, Jenna Wiens. Advocacy Learning: Learning through Competition and Class-Conditional Representations. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2315-2321. [paper](https://doi.org/10.24963/ijcai.2019/321)
 
@@ -1317,6 +841,10 @@
 
 - **Efficient Regularization Parameter Selection for Latent Variable Graphical Models via Bi-Level Optimization.**
     > Joachim Giesen, Frank Nussbaum, Christopher Schneider. Efficient Regularization Parameter Selection for Latent Variable Graphical Models via Bi-Level Optimization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2378-2384. [paper](https://doi.org/10.24963/ijcai.2019/330)
+
+
+- **A Parameterized Perspective on Protecting Elections.**
+    > Palash Dey, Neeldhara Misra, Swaprava Nath, etc. A Parameterized Perspective on Protecting Elections. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 238-244. [paper](https://doi.org/10.24963/ijcai.2019/34)
 
 
 - **Using Natural Language for Reward Shaping in Reinforcement Learning.**
@@ -1359,6 +887,10 @@
     > Jiyeon Han, Kyowoon Lee, Anh Tong, etc. Confirmatory Bayesian Online Change Point Detection in the Covariance Structure of Gaussian Processes. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2449-2455. [paper](https://doi.org/10.24963/ijcai.2019/340)
 
 
+- **Spotting Collective Behaviour of Online Frauds in Customer Reviews.**
+    > Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, etc. Spotting Collective Behaviour of Online Frauds in Customer Reviews. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 245-251. [paper](https://doi.org/10.24963/ijcai.2019/35)
+
+
 - **Attribute Aware Pooling for Pedestrian Attribute Recognition.**
     > Kai Han, Yunhe Wang, Han Shu, etc. Attribute Aware Pooling for Pedestrian Attribute Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2456-2462. [paper](https://doi.org/10.24963/ijcai.2019/341)
 
@@ -1387,12 +919,20 @@
     > Ryohei Hisano. Learning Topic Models by Neighborhood Aggregation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2498-2505. [paper](https://doi.org/10.24963/ijcai.2019/347)
 
 
+- **Strategic Signaling for Selling Information Goods.**
+    > Shani Alkoby, David Sarne, Igal Milchtaich. Strategic Signaling for Selling Information Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 25-31. [paper](https://doi.org/10.24963/ijcai.2019/4)
+
+
 - **Group-based Learning of Disentangled Representations with Generalizability for Novel Contents.**
     > Haruo Hosoya. Group-based Learning of Disentangled Representations with Generalizability for Novel Contents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2506-2513. [paper](https://doi.org/10.24963/ijcai.2019/348)
 
 
 - **Robust Learning from Noisy Side-information by Semidefinite Programming.**
     > En-Liang Hu, Quanming Yao. Robust Learning from Noisy Side-information by Semidefinite Programming. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2514-2520. [paper](https://doi.org/10.24963/ijcai.2019/349)
+
+
+- **Equilibrium Characterization for Data Acquisition Games.**
+    > Jinshuo Dong, Hadi Elzayn, Shahin Jabbari, etc. Equilibrium Characterization for Data Acquisition Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 252-258. [paper](https://doi.org/10.24963/ijcai.2019/36)
 
 
 - **Hybrid Item-Item Recommendation via Semi-Parametric Embedding.**
@@ -1435,6 +975,10 @@
     > Tsuyoshi Idé, Rudy Raymond, Dzung T. Phan. Efficient Protocol for Collaborative Dictionary Learning in Decentralized Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2585-2591. [paper](https://doi.org/10.24963/ijcai.2019/359)
 
 
+- **Protecting Elections by Recounting Ballots.**
+    > Edith Elkind, Jiarui Gan, Svetlana Obraztsova, etc. Protecting Elections by Recounting Ballots. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 259-265. [paper](https://doi.org/10.24963/ijcai.2019/37)
+
+
 - **SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets.**
     > Eugene Ie, Vihan Jain, Jing Wang, etc. SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2592-2599. [paper](https://doi.org/10.24963/ijcai.2019/360)
 
@@ -1475,6 +1019,10 @@
     > Xiaodong Jiang, Pengsheng Ji, Sheng Li. CensNet: Convolution with Edge-Node Switching in Graph Neural Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2656-2662. [paper](https://doi.org/10.24963/ijcai.2019/369)
 
 
+- **Schelling Games on Graphs.**
+    > Edith Elkind, Jiarui Gan, Ayumi Igarashi, etc. Schelling Games on Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 266-272. [paper](https://doi.org/10.24963/ijcai.2019/38)
+
+
 - **Network-Specific Variational Auto-Encoder for Embedding in Attribute Networks.**
     > Di Jin, Bingyi Li, Pengfei Jiao, etc. Network-Specific Variational Auto-Encoder for Embedding in Attribute Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2663-2669. [paper](https://doi.org/10.24963/ijcai.2019/370)
 
@@ -1511,6 +1059,10 @@
     > Tung Kieu, Bin Yang, Chenjuan Guo, etc. Outlier Detection for Time Series with Recurrent Autoencoder Ensembles. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2725-2732. [paper](https://doi.org/10.24963/ijcai.2019/378)
 
 
+- **Reallocating Multiple Facilities on the Line.**
+    > Dimitris Fotakis, Loukas Kavouras, Panagiotis Kostopanagiotis, etc. Reallocating Multiple Facilities on the Line. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 273-279. [paper](https://doi.org/10.24963/ijcai.2019/39)
+
+
 - **DeepMellow: Removing the Need for a Target Network in Deep Q-Learning.**
     > Seungchan Kim, Kavosh Asadi, Michael L. Littman, etc. DeepMellow: Removing the Need for a Target Network in Deep Q-Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2733-2739. [paper](https://doi.org/10.24963/ijcai.2019/379)
 
@@ -1545,6 +1097,10 @@
 
 - **Meta Reinforcement Learning with Task Embedding and Shared Policy.**
     > Lin Lan, Zhenguo Li, Xiaohong Guan, etc. Meta Reinforcement Learning with Task Embedding and Shared Policy. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2794-2800. [paper](https://doi.org/10.24963/ijcai.2019/387)
+
+
+- **Equitable Allocations of Indivisible Goods.**
+    > Rupert Freeman, Sujoy Sikdar, Rohit Vaish, etc. Equitable Allocations of Indivisible Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 280-286. [paper](https://doi.org/10.24963/ijcai.2019/40)
 
 
 - **The Dangers of Post-hoc Interpretability: Unjustified Counterfactual Explanations.**
@@ -1587,6 +1143,10 @@
     > Chenliang Li, Xichuan Niu, Xiangyang Luo, etc. A Review-Driven Neural Model for Sequential Recommendation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2866-2872. [paper](https://doi.org/10.24963/ijcai.2019/397)
 
 
+- **Average-case Analysis of the Assignment Problem with Independent Preferences.**
+    > Yansong Gao, Jie Zhang. Average-case Analysis of the Assignment Problem with Independent Preferences. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 287-293. [paper](https://doi.org/10.24963/ijcai.2019/41)
+
+
 - **Hierarchical Representation Learning for Bipartite Graphs.**
     > Chong Li, Kunyang Jia, Dan Shen, etc. Hierarchical Representation Learning for Bipartite Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2873-2879. [paper](https://doi.org/10.24963/ijcai.2019/398)
 
@@ -1627,6 +1187,10 @@
     > Yu Li, Ying Wang, Tingting Zhang, etc. Learning Network Embedding with Community Structural Information. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2937-2943. [paper](https://doi.org/10.24963/ijcai.2019/407)
 
 
+- **Improving Nash Social Welfare Approximations.**
+    > Jugal Garg, Peter McGlaughlin. Improving Nash Social Welfare Approximations. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 294-300. [paper](https://doi.org/10.24963/ijcai.2019/42)
+
+
 - **ARMIN: Towards a More Efficient and Light-weight Recurrent Memory Network.**
     > Zhangheng Li, Jia-Xing Zhong, Jingjia Huang, etc. ARMIN: Towards a More Efficient and Light-weight Recurrent Memory Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2944-2951. [paper](https://doi.org/10.24963/ijcai.2019/408)
 
@@ -1659,12 +1223,20 @@
     > Chihuang Liu, Joseph F. JáJá. Feature Prioritization and Regularization Improve Standard Accuracy and Adversarial Robustness. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 2994-3000. [paper](https://doi.org/10.24963/ijcai.2019/415)
 
 
+- **Flexible Representative Democracy: An Introduction with Binary Issues.**
+    > Ben Abramowitz, Nicholas Mattei. Flexible Representative Democracy: An Introduction with Binary Issues. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3-10. [paper](https://doi.org/10.24963/ijcai.2019/1)
+
+
 - **Learning Instance-wise Sparsity for Accelerating Deep Models.**
     > Chuanjian Liu, Yunhe Wang, Kai Han, etc. Learning Instance-wise Sparsity for Accelerating Deep Models. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3001-3007. [paper](https://doi.org/10.24963/ijcai.2019/416)
 
 
 - **Learning Robust Distance Metric with Side Information via Ratio Minimization of Orthogonally Constrained L21-Norm Distances.**
     > Kai Liu, Lodewijk Brand, Hua Wang, etc. Learning Robust Distance Metric with Side Information via Ratio Minimization of Orthogonally Constrained L21-Norm Distances. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3008-3014. [paper](https://doi.org/10.24963/ijcai.2019/417)
+
+
+- **On the Efficiency and Equilibria of Rich Ads.**
+    > MohammadAmin Ghiasi, MohammadTaghi Hajiaghayi, Sébastien Lahaie, etc. On the Efficiency and Equilibria of Rich Ads. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 301-307. [paper](https://doi.org/10.24963/ijcai.2019/43)
 
 
 - **Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph.**
@@ -1701,6 +1273,10 @@
 
 - **Parametric Manifold Learning of Gaussian Mixture Models.**
     > Ziquan Liu, Lei Yu, Janet H. Hsiao, etc. Parametric Manifold Learning of Gaussian Mixture Models. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3073-3079. [paper](https://doi.org/10.24963/ijcai.2019/426)
+
+
+- **Identifying vulnerabilities in trust and reputation systems.**
+    > Taha D. Günes, Long Tran-Thanh, Timothy J. Norman. Identifying vulnerabilities in trust and reputation systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 308-314. [paper](https://doi.org/10.24963/ijcai.2019/44)
 
 
 - **Multi-Objective Generalized Linear Bandits.**
@@ -1743,6 +1319,10 @@
     > Katherine Metcalf, David Leake. Unsupervised Hierarchical Temporal Abstraction by Simultaneously Learning Expectations and Representations. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3144-3150. [paper](https://doi.org/10.24963/ijcai.2019/436)
 
 
+- **An Asymptotically Optimal VCG Redistribution Mechanism for the Public Project Problem.**
+    > Mingyu Guo. An Asymptotically Optimal VCG Redistribution Mechanism for the Public Project Problem. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 315-321. [paper](https://doi.org/10.24963/ijcai.2019/45)
+
+
 - **Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems.**
     > Fei Mi, Minlie Huang, Jiyong Zhang, etc. Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3151-3157. [paper](https://doi.org/10.24963/ijcai.2019/437)
 
@@ -1771,6 +1351,10 @@
     > Jun Hao Alvin Ng, Ronald P. A. Petrick. Incremental Learning of Planning Actions in Model-Based Reinforcement Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3195-3201. [paper](https://doi.org/10.24963/ijcai.2019/443)
 
 
+- **Probabilistic Strategy Logic.**
+    > Benjamin Aminof, Marta Kwiatkowska, Bastien Maubert, etc. Probabilistic Strategy Logic. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 32-38. [paper](https://doi.org/10.24963/ijcai.2019/5)
+
+
 - **Group LASSO with Asymmetric Structure Estimation for Multi-Task Learning.**
     > Saullo H. G. Oliveira, André R. Gonçalves, Fernando J. Von Zuben. Group LASSO with Asymmetric Structure Estimation for Multi-Task Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3202-3208. [paper](https://doi.org/10.24963/ijcai.2019/444)
 
@@ -1781,6 +1365,10 @@
 
 - **Indirect Trust is Simple to Establish.**
     > Elham Parhizkar, Mohammad Hossein Nikravan, Sandra Zilles. Indirect Trust is Simple to Establish. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3216-3222. [paper](https://doi.org/10.24963/ijcai.2019/446)
+
+
+- **On Succinct Encodings for the Tournament Fixing Problem.**
+    > Sushmita Gupta, Saket Saurabh, Ramanujan Sridharan, etc. On Succinct Encodings for the Tournament Fixing Problem. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 322-328. [paper](https://doi.org/10.24963/ijcai.2019/46)
 
 
 - **Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks.**
@@ -1823,6 +1411,10 @@
     > Tahleen A. Rahman, Bartlomiej Surma, Michael Backes, etc. Fairwalk: Towards Fair Graph Embedding. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3289-3295. [paper](https://doi.org/10.24963/ijcai.2019/456)
 
 
+- **On Computational Tractability for Rational Verification.**
+    > Julian Gutierrez, Muhammad Najib, Giuseppe Perelli, etc. On Computational Tractability for Rational Verification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 329-335. [paper](https://doi.org/10.24963/ijcai.2019/47)
+
+
 - **Automated Machine Learning with Monte-Carlo Tree Search.**
     > Herilalaina Rakotoarison, Marc Schoenauer, Michèle Sebag. Automated Machine Learning with Monte-Carlo Tree Search. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3296-3303. [paper](https://doi.org/10.24963/ijcai.2019/457)
 
@@ -1857,6 +1449,10 @@
 
 - **A Degeneracy Framework for Scalable Graph Autoencoders.**
     > Guillaume Salha, Romain Hennequin, Viet-Anh Tran, etc. A Degeneracy Framework for Scalable Graph Autoencoders. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3353-3359. [paper](https://doi.org/10.24963/ijcai.2019/465)
+
+
+- **Swarm Engineering Through Quantitative Measurement of Swarm Robotic Principles in a 10, 000 Robot Swarm.**
+    > John Harwell, Maria L. Gini. Swarm Engineering Through Quantitative Measurement of Swarm Robotic Principles in a 10, 000 Robot Swarm. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 336-342. [paper](https://doi.org/10.24963/ijcai.2019/48)
 
 
 - **Deterministic Routing between Layout Abstractions for Multi-Scale Classification of Visually Rich Documents.**
@@ -1899,6 +1495,10 @@
     > Wenjie Shi, Shiji Song, Cheng Wu. Soft Policy Gradient Method for Maximum Entropy Deep Reinforcement Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3425-3431. [paper](https://doi.org/10.24963/ijcai.2019/475)
 
 
+- **Achieving a Fairer Future by Changing the Past.**
+    > Jiafan He, Ariel D. Procaccia, Alexandros Psomas, etc. Achieving a Fairer Future by Changing the Past. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 343-349. [paper](https://doi.org/10.24963/ijcai.2019/49)
+
+
 - **Gradient Boosting with Piece-Wise Linear Regression Trees.**
     > Yu Shi, Jian Li, Zhize Li. Gradient Boosting with Piece-Wise Linear Regression Trees. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3432-3438. [paper](https://doi.org/10.24963/ijcai.2019/476)
 
@@ -1937,6 +1537,10 @@
 
 - **Fast and Robust Multi-View Multi-Task Learning via Group Sparsity.**
     > Lu Sun, Canh Hao Nguyen, Hiroshi Mamitsuka. Fast and Robust Multi-View Multi-Task Learning via Group Sparsity. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3499-3505. [paper](https://doi.org/10.24963/ijcai.2019/485)
+
+
+- **Compact Representation of Value Function in Partially Observable Stochastic Games.**
+    > Karel Horák, Branislav Bosanský, Christopher Kiekintveld, etc. Compact Representation of Value Function in Partially Observable Stochastic Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 350-356. [paper](https://doi.org/10.24963/ijcai.2019/50)
 
 
 - **Multiplicative Sparse Feature Decomposition for Efficient Multi-View Multi-Task Learning.**
@@ -1979,6 +1583,10 @@
     > Bing Tian, Yong Zhang, Jin Wang, etc. Hierarchical Inter-Attention Network for Document Classification with Multi-Task Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3569-3575. [paper](https://doi.org/10.24963/ijcai.2019/495)
 
 
+- **Explicitly Coordinated Policy Iteration.**
+    > Yujing Hu, Yingfeng Chen, Changjie Fan, etc. Explicitly Coordinated Policy Iteration. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 357-363. [paper](https://doi.org/10.24963/ijcai.2019/51)
+
+
 - **Image Captioning with Compositional Neural Module Networks.**
     > Junjiao Tian, Jean Oh. Image Captioning with Compositional Neural Module Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3576-3584. [paper](https://doi.org/10.24963/ijcai.2019/496)
 
@@ -2013,6 +1621,10 @@
 
 - **Interpolation Consistency Training for Semi-supervised Learning.**
     > Vikas Verma, Alex Lamb, Juho Kannala, etc. Interpolation Consistency Training for Semi-supervised Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3635-3641. [paper](https://doi.org/10.24963/ijcai.2019/504)
+
+
+- **Robustness against Agent Failure in Hedonic Games.**
+    > Ayumi Igarashi, Kazunori Ota, Yuko Sakurai, etc. Robustness against Agent Failure in Hedonic Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 364-370. [paper](https://doi.org/10.24963/ijcai.2019/52)
 
 
 - **Sharing Experience in Multitask Reinforcement Learning.**
@@ -2055,6 +1667,10 @@
     > Jia Wang, Tong Sun, Benyuan Liu, etc. CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3705-3711. [paper](https://doi.org/10.24963/ijcai.2019/514)
 
 
+- **The Interplay of Emotions and Norms in Multiagent Systems.**
+    > Anup K. Kalia, Nirav Ajmeri, Kevin S. Chan, etc. The Interplay of Emotions and Norms in Multiagent Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 371-377. [paper](https://doi.org/10.24963/ijcai.2019/53)
+
+
 - **Classification with Label Distribution Learning.**
     > Jing Wang, Xin Geng. Classification with Label Distribution Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3712-3718. [paper](https://doi.org/10.24963/ijcai.2019/515)
 
@@ -2093,6 +1709,10 @@
 
 - **Multi-view Clustering via Late Fusion Alignment Maximization.**
     > Siwei Wang, Xinwang Liu, En Zhu, etc. Multi-view Clustering via Late Fusion Alignment Maximization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3778-3784. [paper](https://doi.org/10.24963/ijcai.2019/524)
+
+
+- **An Ordinal Banzhaf Index for Social Ranking.**
+    > Hossein Khani, Stefano Moretti, Meltem Öztürk. An Ordinal Banzhaf Index for Social Ranking. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 378-384. [paper](https://doi.org/10.24963/ijcai.2019/54)
 
 
 - **COP: Customized Deep Model Compression via Regularized Correlation-Based Filter-Level Pruning.**
@@ -2135,6 +1755,10 @@
     > Jun Wen, Nenggan Zheng, Junsong Yuan, etc. Bayesian Uncertainty Matching for Unsupervised Domain Adaptation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3849-3855. [paper](https://doi.org/10.24963/ijcai.2019/534)
 
 
+- **Multigoal Committee Selection.**
+    > Maciej Kocot, Anna Kolonko, Edith Elkind, etc. Multigoal Committee Selection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 385-391. [paper](https://doi.org/10.24963/ijcai.2019/55)
+
+
 - **RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering.**
     > Qingsong Wen, Jingkun Gao, Xiaomin Song, etc. RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3856-3862. [paper](https://doi.org/10.24963/ijcai.2019/535)
 
@@ -2163,6 +1787,10 @@
     > Yongji Wu, Defu Lian, Shuowei Jin, etc. Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3898-3904. [paper](https://doi.org/10.24963/ijcai.2019/541)
 
 
+- **Multi-Agent Pathfinding with Continuous Time.**
+    > Anton Andreychuk, Konstantin S. Yakovlev, Dor Atzmon, etc. Multi-Agent Pathfinding with Continuous Time. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 39-45. [paper](https://doi.org/10.24963/ijcai.2019/6)
+
+
 - **BPAM: Recommendation Based on BP Neural Network with Attention Mechanism.**
     > Wu-Dong Xi, Ling Huang, Chang-Dong Wang, etc. BPAM: Recommendation Based on BP Neural Network with Attention Mechanism. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3905-3911. [paper](https://doi.org/10.24963/ijcai.2019/542)
 
@@ -2173,6 +1801,10 @@
 
 - **Reparameterizable Subset Sampling via Continuous Relaxations.**
     > Sang Michael Xie, Stefano Ermon. Reparameterizable Subset Sampling via Continuous Relaxations. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3919-3925. [paper](https://doi.org/10.24963/ijcai.2019/544)
+
+
+- **Neural Networks for Predicting Human Interactions in Repeated Games.**
+    > Yoav Kolumbus, Gali Noti. Neural Networks for Predicting Human Interactions in Repeated Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 392-399. [paper](https://doi.org/10.24963/ijcai.2019/56)
 
 
 - **CFM: Convolutional Factorization Machines for Context-Aware Recommendation.**
@@ -2219,6 +1851,10 @@
     > Xinyi Xu, Huanhuan Cao, Yanhua Yang, etc. Zero-shot Metric Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 3996-4002. [paper](https://doi.org/10.24963/ijcai.2019/555)
 
 
+- **Almost Envy-Freeness in Group Resource Allocation.**
+    > Maria Kyropoulou, Warut Suksompong, Alexandros A. Voudouris. Almost Envy-Freeness in Group Resource Allocation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 400-406. [paper](https://doi.org/10.24963/ijcai.2019/57)
+
+
 - **On the Convergence of (Stochastic) Gradient Descent with Extrapolation for Non-Convex Minimization.**
     > Yi Xu, Zhuoning Yuan, Sen Yang, etc. On the Convergence of (Stochastic) Gradient Descent with Extrapolation for Non-Convex Minimization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4003-4009. [paper](https://doi.org/10.24963/ijcai.2019/556)
 
@@ -2253,6 +1889,10 @@
 
 - **Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology.**
     > Liang Yang, Zhiyang Chen, Junhua Gu, etc. Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4062-4069. [paper](https://doi.org/10.24963/ijcai.2019/564)
+
+
+- **A Quantitative Analysis of Multi-Winner Rules.**
+    > Martin Lackner, Piotr Skowron. A Quantitative Analysis of Multi-Winner Rules. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 407-413. [paper](https://doi.org/10.24963/ijcai.2019/58)
 
 
 - **Masked Graph Convolutional Network.**
@@ -2295,6 +1935,10 @@
     > Rui Ye, Xin Li, Yujie Fang, etc. A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4135-4141. [paper](https://doi.org/10.24963/ijcai.2019/574)
 
 
+- **Correlating Preferences and Attributes: Nearly Single-Crossing Profiles.**
+    > Foram Lakhani, Dominik Peters, Edith Elkind. Correlating Preferences and Attributes: Nearly Single-Crossing Profiles. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 414-420. [paper](https://doi.org/10.24963/ijcai.2019/59)
+
+
 - **Distributed Collaborative Feature Selection Based on Intermediate Representation.**
     > Xiucai Ye, Hongmin Li, Akira Imakura, etc. Distributed Collaborative Feature Selection Based on Intermediate Representation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4142-4149. [paper](https://doi.org/10.24963/ijcai.2019/575)
 
@@ -2333,6 +1977,10 @@
 
 - **VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders.**
     > Xianwen Yu, Xiaoning Zhang, Yang Cao, etc. VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4206-4212. [paper](https://doi.org/10.24963/ijcai.2019/584)
+
+
+- **Automated Negotiation with Gaussian Process-based Utility Models.**
+    > Haralambie Leahu, Michael Kaisers, Tim Baarslag. Automated Negotiation with Gaussian Process-based Utility Models. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 421-427. [paper](https://doi.org/10.24963/ijcai.2019/60)
 
 
 - **Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation.**
@@ -2375,6 +2023,10 @@
     > Jie Zhang, Yuxiao Dong, Yan Wang, etc. ProNE: Fast and Scalable Network Representation Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4278-4284. [paper](https://doi.org/10.24963/ijcai.2019/594)
 
 
+- **Temporal Information Design in Contests.**
+    > Priel Levy, David Sarne, Yonatan Aumann. Temporal Information Design in Contests. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 428-434. [paper](https://doi.org/10.24963/ijcai.2019/61)
+
+
 - **Towards Robust ResNet: A Small Step but a Giant Leap.**
     > Jingfeng Zhang, Bo Han, Laura Wynter, etc. Towards Robust ResNet: A Small Step but a Giant Leap. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4285-4291. [paper](https://doi.org/10.24963/ijcai.2019/595)
 
@@ -2415,6 +2067,10 @@
     > Yikai Zhang, Hui Qu, Chao Chen, etc. Taming the Noisy Gradient: Train Deep Neural Networks with Small Batch Sizes. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4348-4354. [paper](https://doi.org/10.24963/ijcai.2019/604)
 
 
+- **Diffusion and Auction on Graphs.**
+    > Bin Li, Dong Hao, Dengji Zhao, etc. Diffusion and Auction on Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 435-441. [paper](https://doi.org/10.24963/ijcai.2019/62)
+
+
 - **Accelerated Inference Framework of Sparse Neural Network Based on Nested Bitmask Structure.**
     > Yipeng Zhang, Bo Du, Lefei Zhang, etc. Accelerated Inference Framework of Sparse Neural Network Based on Nested Bitmask Structure. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4355-4361. [paper](https://doi.org/10.24963/ijcai.2019/605)
 
@@ -2453,6 +2109,10 @@
 
 - **AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN.**
     > Li Zheng, Zhenpeng Li, Jian Li, etc. AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4419-4425. [paper](https://doi.org/10.24963/ijcai.2019/614)
+
+
+- **Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search.**
+    > Jiaoyang Li, Ariel Felner, Eli Boyarski, etc. Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 442-449. [paper](https://doi.org/10.24963/ijcai.2019/63)
 
 
 - **Metadata-driven Task Relation Discovery for Multi-task Learning.**
@@ -2499,6 +2159,10 @@
     > Matthieu Zimmer, Paul Weng. Exploiting the Sign of the Advantage Function to Learn Deterministic Policies in Continuous Domains. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4496-4502. [paper](https://doi.org/10.24963/ijcai.2019/625)
 
 
+- **Integrating Decision Sharing with Prediction in Decentralized Planning for Multi-Agent Coordination under Uncertainty.**
+    > Minglong Li, Wenjing Yang, Zhongxuan Cai, etc. Integrating Decision Sharing with Prediction in Decentralized Planning for Multi-Agent Coordination under Uncertainty. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 450-456. [paper](https://doi.org/10.24963/ijcai.2019/64)
+
+
 - **Predicting the Visual Focus of Attention in Multi-Person Discussion Videos.**
     > Chongyang Bai, Srijan Kumar, Jure Leskovec, etc. Predicting the Visual Focus of Attention in Multi-Person Discussion Videos. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4504-4510. [paper](https://doi.org/10.24963/ijcai.2019/626)
 
@@ -2539,6 +2203,10 @@
     > Wei Qiu, Haipeng Chen, Bo An. Dynamic Electronic Toll Collection via Multi-Agent Deep Reinforcement Learning with Edge-Based Graph Convolutional Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4568-4574. [paper](https://doi.org/10.24963/ijcai.2019/635)
 
 
+- **Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns.**
+    > Yong Liu, Yujing Hu, Yang Gao, etc. Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 457-463. [paper](https://doi.org/10.24963/ijcai.2019/65)
+
+
 - **FireCast: Leveraging Deep Learning to Predict Wildfire Spread.**
     > David Radke, Anna Hessler, Dan Ellsworth. FireCast: Leveraging Deep Learning to Predict Wildfire Spread. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4575-4581. [paper](https://doi.org/10.24963/ijcai.2019/636)
 
@@ -2553,6 +2221,10 @@
 
 - **Scaling Fine-grained Modularity Clustering for Massive Graphs.**
     > Hiroaki Shiokawa, Toshiyuki Amagasa, Hiroyuki Kitagawa. Scaling Fine-grained Modularity Clustering for Massive Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4597-4604. [paper](https://doi.org/10.24963/ijcai.2019/639)
+
+
+- **Weighted Maxmin Fair Share Allocation of Indivisible Chores.**
+    > Haris Aziz, Hau Chan, Bo Li. Weighted Maxmin Fair Share Allocation of Indivisible Chores. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 46-52. [paper](https://doi.org/10.24963/ijcai.2019/7)
 
 
 - **Node Embedding over Temporal Graphs.**
@@ -2573,6 +2245,10 @@
 
 - **Disparity-preserved Deep Cross-platform Association for Cross-platform Video Recommendation.**
     > Shengze Yu, Xin Wang, Wenwu Zhu, etc. Disparity-preserved Deep Cross-platform Association for Cross-platform Video Recommendation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4635-4641. [paper](https://doi.org/10.24963/ijcai.2019/644)
+
+
+- **Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent.**
+    > Edward Lockhart, Marc Lanctot, Julien Pérolat, etc. Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 464-470. [paper](https://doi.org/10.24963/ijcai.2019/66)
 
 
 - **Predicting dominance in multi-person videos.**
@@ -2609,6 +2285,10 @@
 
 - **Multiple Policy Value Monte Carlo Tree Search.**
     > Li-Cheng Lan, Wei Li, Ting-Han Wei, etc. Multiple Policy Value Monte Carlo Tree Search. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4704-4710. [paper](https://doi.org/10.24963/ijcai.2019/653)
+
+
+- **Computational Aspects of Equilibria in Discrete Preference Games.**
+    > Phani Raj Lolakapuri, Umang Bhaskar, Ramasuri Narayanam, etc. Computational Aspects of Equilibria in Discrete Preference Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 471-477. [paper](https://doi.org/10.24963/ijcai.2019/67)
 
 
 - **Robustra: Training Provable Robust Neural Networks over Reference Adversarial Space.**
@@ -2651,6 +2331,10 @@
     > Tamir Tassa, Tal Grinshpoun, Avishay Yanai. A Privacy Preserving Collusion Secure DCOP Algorithm. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4774-4780. [paper](https://doi.org/10.24963/ijcai.2019/663)
 
 
+- **Multi-Robot Planning Under Uncertain Travel Times and Safety Constraints.**
+    > Masoumeh Mansouri, Bruno Lacerda, Nick Hawes, etc. Multi-Robot Planning Under Uncertain Travel Times and Safety Constraints. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 478-484. [paper](https://doi.org/10.24963/ijcai.2019/68)
+
+
 - **Two-Stage Generative Models of Simulating Training Data at The Voxel Level for Large-Scale Microscopy Bioimage Segmentation.**
     > Deli Wang, Ting Zhao, Nenggan Zheng, etc. Two-Stage Generative Models of Simulating Training Data at The Voxel Level for Large-Scale Microscopy Bioimage Segmentation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4781-4787. [paper](https://doi.org/10.24963/ijcai.2019/664)
 
@@ -2689,6 +2373,10 @@
 
 - **Temporal Pyramid Pooling Convolutional Neural Network for Cover Song Identification.**
     > Zhesong Yu, Xiaoshuo Xu, Xiaoou Chen, etc. Temporal Pyramid Pooling Convolutional Neural Network for Cover Song Identification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4846-4852. [paper](https://doi.org/10.24963/ijcai.2019/673)
+
+
+- **Leadership in Congestion Games: Multiple User Classes and Non-Singleton Actions.**
+    > Alberto Marchesi, Matteo Castiglioni, Nicola Gatti. Leadership in Congestion Games: Multiple User Classes and Non-Singleton Actions. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 485-491. [paper](https://doi.org/10.24963/ijcai.2019/69)
 
 
 - **Data Poisoning Attack against Knowledge Graph Embedding.**
@@ -2731,6 +2419,10 @@
     > Chaotao Chen, Jinhua Peng, Fan Wang, etc. Generating Multiple Diverse Responses with Multi-Mapping and Posterior Mapping Selection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4918-4924. [paper](https://doi.org/10.24963/ijcai.2019/683)
 
 
+- **Graphical One-Sided Markets.**
+    > Sagar Massand, Sunil Simon. Graphical One-Sided Markets. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 492-498. [paper](https://doi.org/10.24963/ijcai.2019/70)
+
+
 - **Sentiment-Controllable Chinese Poetry Generation.**
     > Huimin Chen, Xiaoyuan Yi, Maosong Sun, etc. Sentiment-Controllable Chinese Poetry Generation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4925-4931. [paper](https://doi.org/10.24963/ijcai.2019/684)
 
@@ -2771,6 +2463,10 @@
     > Dan Guo, Hui Wang, Meng Wang. Dual Visual Attention Network for Visual Dialog. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4989-4995. [paper](https://doi.org/10.24963/ijcai.2019/693)
 
 
+- **Reachability Games in Dynamic Epistemic Logic.**
+    > Bastien Maubert, Sophie Pinchinat, François Schwarzentruber. Reachability Games in Dynamic Epistemic Logic. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 499-505. [paper](https://doi.org/10.24963/ijcai.2019/71)
+
+
 - **AmazonQA: A Review-Based Question Answering Task.**
     > Mansi Gupta, Nitish Kulkarni, Raghuveer Chanda, etc. AmazonQA: A Review-Based Question Answering Task. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 4996-5002. [paper](https://doi.org/10.24963/ijcai.2019/694)
 
@@ -2805,6 +2501,10 @@
 
 - **Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks.**
     > Jing Li, Deheng Ye, Shuo Shang. Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5053-5059. [paper](https://doi.org/10.24963/ijcai.2019/702)
+
+
+- **FaRM: Fair Reward Mechanism for Information Aggregation in Spontaneous Localized Settings.**
+    > Moin Hussain Moti, Dimitris Chatzopoulos, Pan Hui, etc. FaRM: Fair Reward Mechanism for Information Aggregation in Spontaneous Localized Settings. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 506-512. [paper](https://doi.org/10.24963/ijcai.2019/72)
 
 
 - **Towards Discriminative Representation Learning for Speech Emotion Recognition.**
@@ -2845,6 +2545,10 @@
 
 - **Unsupervised Neural Aspect Extraction with Sememes.**
     > Ling Luo, Xiang Ao, Yan Song, etc. Unsupervised Neural Aspect Extraction with Sememes. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5123-5129. [paper](https://doi.org/10.24963/ijcai.2019/712)
+
+
+- **Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.**
+    > Aadesh Neupane, Michael A. Goodrich. Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 513-520. [paper](https://doi.org/10.24963/ijcai.2019/73)
 
 
 - **Randomized Greedy Search for Structured Prediction: Amortized Inference and Learning.**
@@ -2891,6 +2595,10 @@
     > Gray Stanton, Athirai Aravazhi Irissappane. GANs for Semi-Supervised Opinion Spam Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5204-5210. [paper](https://doi.org/10.24963/ijcai.2019/723)
 
 
+- **A Probabilistic Logic for Resource-Bounded Multi-Agent Systems.**
+    > Hoang Nga Nguyen, Abdur Rakib. A Probabilistic Logic for Resource-Bounded Multi-Agent Systems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 521-527. [paper](https://doi.org/10.24963/ijcai.2019/74)
+
+
 - **PRoFET: Predicting the Risk of Firms from Event Transcripts.**
     > Christoph Kilian Theil, Samuel Broscheit, Heiner Stuckenschmidt. PRoFET: Predicting the Risk of Firms from Event Transcripts. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5211-5217. [paper](https://doi.org/10.24963/ijcai.2019/724)
 
@@ -2931,6 +2639,10 @@
     > Yuting Wu, Xiao Liu, Yansong Feng, etc. Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5278-5284. [paper](https://doi.org/10.24963/ijcai.2019/733)
 
 
+- **Imitative Attacker Deception in Stackelberg Security Games.**
+    > Thanh Nguyen, Haifeng Xu. Imitative Attacker Deception in Stackelberg Security Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 528-534. [paper](https://doi.org/10.24963/ijcai.2019/75)
+
+
 - **RTHN: A RNN-Transformer Hierarchical Network for Emotion Cause Extraction.**
     > Rui Xia, Mengran Zhang, Zixiang Ding. RTHN: A RNN-Transformer Hierarchical Network for Emotion Cause Extraction. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5285-5291. [paper](https://doi.org/10.24963/ijcai.2019/734)
 
@@ -2941,6 +2653,10 @@
 
 - **A Goal-Driven Tree-Structured Neural Model for Math Word Problems.**
     > Zhipeng Xie, Shichao Sun. A Goal-Driven Tree-Structured Neural Model for Math Word Problems. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5299-5305. [paper](https://doi.org/10.24963/ijcai.2019/736)
+
+
+- **Fair Allocation of Indivisible Goods and Chores.**
+    > Haris Aziz, Ioannis Caragiannis, Ayumi Igarashi, etc. Fair Allocation of Indivisible Goods and Chores. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 53-59. [paper](https://doi.org/10.24963/ijcai.2019/8)
 
 
 - **Dual-View Variational Autoencoders for Semi-Supervised Text Matching.**
@@ -2969,6 +2685,10 @@
 
 - **Knowledge-enhanced Hierarchical Attention for Community Question Answering with Multi-task and Adaptive Learning.**
     > Min Yang, Lei Chen, Xiaojun Chen, etc. Knowledge-enhanced Hierarchical Attention for Community Question Answering with Multi-task and Adaptive Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5349-5355. [paper](https://doi.org/10.24963/ijcai.2019/743)
+
+
+- **Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding.**
+    > Keisuke Okumura, Manao Machida, Xavier Défago, etc. Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 535-542. [paper](https://doi.org/10.24963/ijcai.2019/76)
 
 
 - **Knowledgeable Storyteller: A Commonsense-Driven Generative Model for Visual Storytelling.**
@@ -3015,6 +2735,10 @@
     > Qingheng Zhang, Zequn Sun, Wei Hu, etc. Multi-view Knowledge Graph Embedding for Entity Alignment. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5429-5435. [paper](https://doi.org/10.24963/ijcai.2019/754)
 
 
+- **Approval-Based Elections and Distortion of Voting Rules.**
+    > Grzegorz Pierczynski, Piotr Skowron. Approval-Based Elections and Distortion of Voting Rules. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 543-549. [paper](https://doi.org/10.24963/ijcai.2019/77)
+
+
 - **Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis.**
     > Yazhou Zhang, Qiuchi Li, Dawei Song, etc. Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5436-5442. [paper](https://doi.org/10.24963/ijcai.2019/755)
 
@@ -3049,6 +2773,10 @@
 
 - **Earliest-Completion Scheduling of Contract Algorithms with End Guarantees.**
     > Spyros Angelopoulos, Shendan Jin. Earliest-Completion Scheduling of Contract Algorithms with End Guarantees. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5493-5499. [paper](https://doi.org/10.24963/ijcai.2019/763)
+
+
+- **Ad Hoc Teamwork With Behavior Switching Agents.**
+    > Manish Ravula, Shani Alkoby, Peter Stone. Ad Hoc Teamwork With Behavior Switching Agents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 550-556. [paper](https://doi.org/10.24963/ijcai.2019/78)
 
 
 - **Finding Optimal Solutions in HTN Planning - A SAT-based Approach.**
@@ -3091,6 +2819,10 @@
     > Enrico H. Gerding, Alvaro Perez-Diaz, Haris Aziz, etc. Fair Online Allocation of Perishable Goods and its Application to Electric Vehicle Charging. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5569-5575. [paper](https://doi.org/10.24963/ijcai.2019/773)
 
 
+- **Ridesharing with Driver Location Preferences.**
+    > Duncan Rheingans-Yoo, Scott Duke Kominers, Hongyao Ma, etc. Ridesharing with Driver Location Preferences. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 557-564. [paper](https://doi.org/10.24963/ijcai.2019/79)
+
+
 - **Dynamic logic of parallel propositional assignments and its applications to planning.**
     > Andreas Herzig, Frédéric Maris, Julien Vianey. Dynamic logic of parallel propositional assignments and its applications to planning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5576-5582. [paper](https://doi.org/10.24963/ijcai.2019/774)
 
@@ -3131,6 +2863,10 @@
     > Álvaro Torralba, Silvan Sievers. Merge-and-Shrink Task Reformulation for Classical Planning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5644-5652. [paper](https://doi.org/10.24963/ijcai.2019/783)
 
 
+- **Multi-Population Congestion Games With Incomplete Information.**
+    > Charlotte Roman, Paolo Turrini. Multi-Population Congestion Games With Incomplete Information. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 565-571. [paper](https://doi.org/10.24963/ijcai.2019/80)
+
+
 - **Steady-State Policy Synthesis for Verifiable Control.**
     > Alvaro Velasquez. Steady-State Policy Synthesis for Verifiable Control. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5653-5661. [paper](https://doi.org/10.24963/ijcai.2019/784)
 
@@ -3165,6 +2901,10 @@
 
 - **Thompson Sampling on Symmetric Alpha-Stable Bandits.**
     > Abhimanyu Dubey, Alex Pentland. Thompson Sampling on Symmetric Alpha-Stable Bandits. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5715-5721. [paper](https://doi.org/10.24963/ijcai.2019/792)
+
+
+- **Sybil-Resilient Reality-Aware Social Choice.**
+    > Gal Shahaf, Ehud Shapiro, Nimrod Talmon. Sybil-Resilient Reality-Aware Social Choice. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 572-579. [paper](https://doi.org/10.24963/ijcai.2019/81)
 
 
 - **On Constrained Open-World Probabilistic Databases.**
@@ -3211,6 +2951,10 @@
     > Saumya Bhatnagar, Akshat Kumar, Hoong Chuin Lau. Decision Making for Improving Maritime Traffic Safety Using Constraint Programming. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5794-5800. [paper](https://doi.org/10.24963/ijcai.2019/803)
 
 
+- **Preferences Single-Peaked on a Tree: Sampling and Tree Recognition.**
+    > Jakub Sliwinski, Edith Elkind. Preferences Single-Peaked on a Tree: Sampling and Tree Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 580-586. [paper](https://doi.org/10.24963/ijcai.2019/82)
+
+
 - **Evaluating the Interpretability of the Knowledge Compilation Map: Communicating Logical Statements Effectively.**
     > Serena Booth, Christian Muise, Julie Shah. Evaluating the Interpretability of the Knowledge Compilation Map: Communicating Logical Statements Effectively. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5801-5807. [paper](https://doi.org/10.24963/ijcai.2019/804)
 
@@ -3249,6 +2993,10 @@
 
 - **Improving Customer Satisfaction in Bike Sharing Systems through Dynamic Repositioning.**
     > Supriyo Ghosh, Jing Yu Koh, Patrick Jaillet. Improving Customer Satisfaction in Bike Sharing Systems through Dynamic Repositioning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5864-5870. [paper](https://doi.org/10.24963/ijcai.2019/813)
+
+
+- **Model-Free Model Reconciliation.**
+    > Sarath Sreedharan, Alberto Olmo Hernandez, Aditya Prasad Mishra, etc. Model-Free Model Reconciliation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 587-594. [paper](https://doi.org/10.24963/ijcai.2019/83)
 
 
 - **mdfa: Multi-Differential Fairness Auditor for Black Box Classifiers.**
@@ -3295,6 +3043,10 @@
     > Wenjie Ruan, Min Wu, Youcheng Sun, etc. Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5944-5952. [paper](https://doi.org/10.24963/ijcai.2019/824)
 
 
+- **Aggregating Incomplete Pairwise Preferences by Weight.**
+    > Zoi Terzopoulou, Ulle Endriss. Aggregating Incomplete Pairwise Preferences by Weight. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 595-601. [paper](https://doi.org/10.24963/ijcai.2019/84)
+
+
 - **Pre-training of Graph Augmented Transformers for Medication Recommendation.**
     > Junyuan Shang, Tengfei Ma, Cao Xiao, etc. Pre-training of Graph Augmented Transformers for Medication Recommendation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5953-5959. [paper](https://doi.org/10.24963/ijcai.2019/825)
 
@@ -3323,12 +3075,20 @@
     > Alan Tsang, Bryan Wilder, Eric Rice, etc. Group-Fairness in Influence Maximization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 5997-6005. [paper](https://doi.org/10.24963/ijcai.2019/831)
 
 
+- **Strategyproof and Approximately Maxmin Fair Share Allocation of Chores.**
+    > Haris Aziz, Bo Li, Xiaowei Wu. Strategyproof and Approximately Maxmin Fair Share Allocation of Chores. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 60-66. [paper](https://doi.org/10.24963/ijcai.2019/9)
+
+
 - **Failure-Scenario Maker for Rule-Based Agent using Multi-agent Adversarial Reinforcement Learning and its Application to Autonomous Driving.**
     > Akifumi Wachi. Failure-Scenario Maker for Rule-Based Agent using Multi-agent Adversarial Reinforcement Learning and its Application to Autonomous Driving. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6006-6012. [paper](https://doi.org/10.24963/ijcai.2019/832)
 
 
 - **Protecting Neural Networks with Hierarchical Random Switching: Towards Better Robustness-Accuracy Trade-off for Stochastic Defenses.**
     > Xiao Wang, Siyue Wang, Pin-Yu Chen, etc. Protecting Neural Networks with Hierarchical Random Switching: Towards Better Robustness-Accuracy Trade-off for Stochastic Defenses. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6013-6019. [paper](https://doi.org/10.24963/ijcai.2019/833)
+
+
+- **A Regularized Opponent Model with Maximum Entropy Objective.**
+    > Zheng Tian, Ying Wen, Zhichen Gong, etc. A Regularized Opponent Model with Maximum Entropy Objective. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 602-608. [paper](https://doi.org/10.24963/ijcai.2019/85)
 
 
 - **Who Should Pay the Cost: A Game-theoretic Model for Government Subsidized Investments to Improve National Cybersecurity.**
@@ -3369,6 +3129,10 @@
 
 - **A Comparative Study of Distributional and Symbolic Paradigms for Relational Learning.**
     > Sebastijan Dumancic, Alberto García-Durán, Mathias Niepert. A Comparative Study of Distributional and Symbolic Paradigms for Relational Learning. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6088-6094. [paper](https://doi.org/10.24963/ijcai.2019/843)
+
+
+- **Exploring the Task Cooperation in Multi-goal Visual Navigation.**
+    > Yuechen Wu, Zhenhuan Rao, Wei Zhang, etc. Exploring the Task Cooperation in Multi-goal Visual Navigation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 609-615. [paper](https://doi.org/10.24963/ijcai.2019/86)
 
 
 - **Learning Hierarchical Symbolic Representations to Support Interactive Task Learning and Knowledge Transfer.**
@@ -3413,6 +3177,10 @@
 
 - **A Dual Approach to Verify and Train Deep Networks.**
     > Sven Gowal, Krishnamurthy Dvijotham, Robert Stanforth, etc. A Dual Approach to Verify and Train Deep Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6156-6160. [paper](https://doi.org/10.24963/ijcai.2019/854)
+
+
+- **On Strategyproof Conference Peer Review.**
+    > Yichong Xu, Han Zhao, Xiaofei Shi, etc. On Strategyproof Conference Peer Review. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 616-622. [paper](https://doi.org/10.24963/ijcai.2019/87)
 
 
 - **The Provable Virtue of Laziness in Motion Planning.**
@@ -3471,6 +3239,10 @@
     > Harold Soh, Pan Shu, Min Chen, etc. Trust Dynamics and Transfer across Human-Robot Interaction Tasks: Bayesian and Neural Computational Models. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6226-6230. [paper](https://doi.org/10.24963/ijcai.2019/868)
 
 
+- **Towards Efficient Detection and Optimal Response against Sophisticated Opponents.**
+    > Tianpei Yang, Jianye Hao, Zhaopeng Meng, etc. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 623-629. [paper](https://doi.org/10.24963/ijcai.2019/88)
+
+
 - **Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning - Extended Abtract.**
     > Marc Toussaint, Kelsey R. Allen, Kevin A. Smith, etc. Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning - Extended Abtract. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6231-6235. [paper](https://doi.org/10.24963/ijcai.2019/869)
 
@@ -3509,6 +3281,10 @@
 
 - **Learning and Inference for Structured Prediction: A Unifying Perspective.**
     > Aryan Deshwal, Janardhan Rao Doppa, Dan Roth. Learning and Inference for Structured Prediction: A Unifying Perspective. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6291-6299. [paper](https://doi.org/10.24963/ijcai.2019/878)
+
+
+- **Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework.**
+    > Yaodong Yang, Jianye Hao, Yan Zheng, etc. Large-Scale Home Energy Management Using Entropy-Based Collective Multiagent Deep Reinforcement Learning Framework. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 630-636. [paper](https://doi.org/10.24963/ijcai.2019/89)
 
 
 - **Automated Essay Scoring: A Survey of the State of the Art.**
@@ -3553,6 +3329,10 @@
 
 - **Shielded Base Contraction (Extended Abstract).**
     > Marco Garapa, Eduardo Fermé, Maurício D. Luís Reis. Shielded Base Contraction (Extended Abstract). in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6367-6371. [paper](https://doi.org/10.24963/ijcai.2019/889)
+
+
+- **Complexity of Manipulating and Controlling Approval-Based Multiwinner Voting.**
+    > Yongjie Yang. Complexity of Manipulating and Controlling Approval-Based Multiwinner Voting. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 637-643. [paper](https://doi.org/10.24963/ijcai.2019/90)
 
 
 - **Implicitly Coordinated Multi-Agent Path Finding under Destination Uncertainty: Success Guarantees and Computational Complexity (Extended Abstract).**
@@ -3629,6 +3409,10 @@
 
 - **A Unified Mathematical Approach for Foraging and Construction Systems in a 1, 000, 000 Robot Swarm.**
     > John Harwell. A Unified Mathematical Approach for Foraging and Construction Systems in a 1, 000, 000 Robot Swarm. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6438-6439. [paper](https://doi.org/10.24963/ijcai.2019/908)
+
+
+- **On the Tree Representations of Dichotomous Preferences.**
+    > Yongjie Yang. On the Tree Representations of Dichotomous Preferences. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 644-650. [paper](https://doi.org/10.24963/ijcai.2019/91)
 
 
 - **Can Meta-Interpretive Learning outperform Deep Reinforcement Learning of Evaluable Game strategies?.**
@@ -3755,6 +3539,10 @@
     > Kaize Ding, Jundong Li, Shivam Dhar, etc. InterSpot: Interactive Spammer Detection in Social Media. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6509-6511. [paper](https://doi.org/10.24963/ijcai.2019/939)
 
 
+- **The Price of Governance: A Middle Ground Solution to Coordination in Organizational Control.**
+    > Chao Yu, Guozhen Tan. The Price of Governance: A Middle Ground Solution to Coordination in Organizational Control. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 651-657. [paper](https://doi.org/10.24963/ijcai.2019/92)
+
+
 - **Embodied Conversational AI Agents in a Multi-modal Multi-agent Competitive Dialogue.**
     > Rahul R. Divekar, Xiangyang Mou, Lisha Chen, etc. Embodied Conversational AI Agents in a Multi-modal Multi-agent Competitive Dialogue. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6512-6514. [paper](https://doi.org/10.24963/ijcai.2019/940)
 
@@ -3847,6 +3635,10 @@
     > Anxiang Zeng, Han Yu, Xin Gao, etc. An Online Intelligent Visual Interaction System. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6578-6580. [paper](https://doi.org/10.24963/ijcai.2019/962)
 
 
+- **Decentralized Optimization with Edge Sampling.**
+    > Chi Zhang, Qianxiao Li, Peilin Zhao. Decentralized Optimization with Edge Sampling. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 658-664. [paper](https://doi.org/10.24963/ijcai.2019/93)
+
+
 - **DeepRec: An Open-source Toolkit for Deep Learning based Recommendation.**
     > Shuai Zhang, Yi Tay, Lina Yao, etc. DeepRec: An Open-source Toolkit for Deep Learning based Recommendation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6581-6583. [paper](https://doi.org/10.24963/ijcai.2019/963)
 
@@ -3857,3 +3649,211 @@
 
 - **Intelligent Decision Support for Improving Power Management.**
     > Yongqing Zheng, Han Yu, Kun Zhang, etc. Intelligent Decision Support for Improving Power Management. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 6587-6589. [paper](https://doi.org/10.24963/ijcai.2019/965)
+
+
+- **Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy.**
+    > Pengzhan Zhou, Xin Wei, Cong Wang, etc. Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 665-671. [paper](https://doi.org/10.24963/ijcai.2019/94)
+
+
+- **Stable and Envy-free Partitions in Hedonic Games.**
+    > Nathanaël Barrot, Makoto Yokoo. Stable and Envy-free Partitions in Hedonic Games. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 67-73. [paper](https://doi.org/10.24963/ijcai.2019/10)
+
+
+- **CoSegNet: Image Co-segmentation using a Conditional Siamese Convolutional Network.**
+    > Sayan Banerjee, Avik Hati, Subhasis Chaudhuri, etc. CoSegNet: Image Co-segmentation using a Conditional Siamese Convolutional Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 673-679. [paper](https://doi.org/10.24963/ijcai.2019/95)
+
+
+- **Multi-Margin based Decorrelation Learning for Heterogeneous Face Recognition.**
+    > Bing Cao, Nannan Wang, Xinbo Gao, etc. Multi-Margin based Decorrelation Learning for Heterogeneous Face Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 680-686. [paper](https://doi.org/10.24963/ijcai.2019/96)
+
+
+- **Generalized Zero-Shot Vehicle Detection in Remote Sensing Imagery via Coarse-to-Fine Framework.**
+    > Hong Chen, Yongtan Luo, Liujuan Cao, etc. Generalized Zero-Shot Vehicle Detection in Remote Sensing Imagery via Coarse-to-Fine Framework. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 687-693. [paper](https://doi.org/10.24963/ijcai.2019/97)
+
+
+- **Structure-Aware Residual Pyramid Network for Monocular Depth Estimation.**
+    > Xiaotian Chen, Xuejin Chen, Zheng-Jun Zha. Structure-Aware Residual Pyramid Network for Monocular Depth Estimation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 694-700. [paper](https://doi.org/10.24963/ijcai.2019/98)
+
+
+- **A Deep Bi-directional Attention Network for Human Motion Recovery.**
+    > Qiongjie Cui, Huaijiang Sun, Yupeng Li, etc. A Deep Bi-directional Attention Network for Human Motion Recovery. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 701-707. [paper](https://doi.org/10.24963/ijcai.2019/99)
+
+
+- **On Retrospecting Human Dynamics with Attention.**
+    > Minjing Dong, Chang Xu. On Retrospecting Human Dynamics with Attention. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 708-714. [paper](https://doi.org/10.24963/ijcai.2019/100)
+
+
+- **Learning to Draw Text in Natural Images with Conditional Adversarial Networks.**
+    > Shancheng Fang, Hongtao Xie, Jianjun Chen, etc. Learning to Draw Text in Natural Images with Conditional Adversarial Networks. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 715-722. [paper](https://doi.org/10.24963/ijcai.2019/101)
+
+
+- **Beyond Product Quantization: Deep Progressive Quantization for Image Retrieval.**
+    > Lianli Gao, Xiaosu Zhu, Jingkuan Song, etc. Beyond Product Quantization: Deep Progressive Quantization for Image Retrieval. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 723-729. [paper](https://doi.org/10.24963/ijcai.2019/102)
+
+
+- **ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs.**
+    > Amir Gholaminejad, Kurt Keutzer, George Biros. ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 730-736. [paper](https://doi.org/10.24963/ijcai.2019/103)
+
+
+- **Asynchronous Stochastic Frank-Wolfe Algorithms for Non-Convex Optimization.**
+    > Bin Gu, Wenhan Xian, Heng Huang. Asynchronous Stochastic Frank-Wolfe Algorithms for Non-Convex Optimization. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 737-743. [paper](https://doi.org/10.24963/ijcai.2019/104)
+
+
+- **How Hard Is the Manipulative Design of Scoring Systems?.**
+    > Dorothea Baumeister, Tobias Hogrebe. How Hard Is the Manipulative Design of Scoring Systems?. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 74-80. [paper](https://doi.org/10.24963/ijcai.2019/11)
+
+
+- **Dense Temporal Convolution Network for Sign Language Translation.**
+    > Dan Guo, Shuo Wang, Qi Tian, etc. Dense Temporal Convolution Network for Sign Language Translation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 744-750. [paper](https://doi.org/10.24963/ijcai.2019/105)
+
+
+- **Connectionist Temporal Modeling of Video and Language: a Joint Model for Translation and Sign Labeling.**
+    > Dan Guo, Shengeng Tang, Meng Wang. Connectionist Temporal Modeling of Video and Language: a Joint Model for Translation and Sign Labeling. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 751-757. [paper](https://doi.org/10.24963/ijcai.2019/106)
+
+
+- **3DViewGraph: Learning Global Features for 3D Shapes from A Graph of Unordered Views with Attention.**
+    > Zhizhong Han, Xiyang Wang, Chi-Man Vong, etc. 3DViewGraph: Learning Global Features for 3D Shapes from A Graph of Unordered Views with Attention. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 758-765. [paper](https://doi.org/10.24963/ijcai.2019/107)
+
+
+- **Parts4Feature: Learning 3D Global Features from Generally Semantic Parts in Multiple Views.**
+    > Zhizhong Han, Xinhai Liu, Yu-Shen Liu, etc. Parts4Feature: Learning 3D Global Features from Generally Semantic Parts in Multiple Views. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 766-773. [paper](https://doi.org/10.24963/ijcai.2019/108)
+
+
+- **MAT-Net: Medial Axis Transform Network for 3D Object Recognition.**
+    > Jianwei Hu, Bin Wang, Lihui Qian, etc. MAT-Net: Medial Axis Transform Network for 3D Object Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 774-781. [paper](https://doi.org/10.24963/ijcai.2019/109)
+
+
+- **Dynamic Feature Fusion for Semantic Edge Detection.**
+    > Yuan Hu, Yunpeng Chen, Xiang Li, etc. Dynamic Feature Fusion for Semantic Edge Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 782-788. [paper](https://doi.org/10.24963/ijcai.2019/110)
+
+
+- **Multi-Level Visual-Semantic Alignments with Relation-Wise Dual Attention Network for Image and Text Matching.**
+    > Zhibin Hu, Yongsheng Luo, Jiong Lin, etc. Multi-Level Visual-Semantic Alignments with Relation-Wise Dual Attention Network for Image and Text Matching. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 789-795. [paper](https://doi.org/10.24963/ijcai.2019/111)
+
+
+- **Learning Unsupervised Visual Grounding Through Semantic Self-Supervision.**
+    > Syed Ashar Javed, Shreyas Saxena, Vineet Gandhi. Learning Unsupervised Visual Grounding Through Semantic Self-Supervision. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 796-802. [paper](https://doi.org/10.24963/ijcai.2019/112)
+
+
+- **Supervised Set-to-Set Hashing in Visual Recognition.**
+    > I-Hong Jhuo. Supervised Set-to-Set Hashing in Visual Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 803-810. [paper](https://doi.org/10.24963/ijcai.2019/113)
+
+
+- **The Price of Fairness for Indivisible Goods.**
+    > Xiaohui Bei, Xinhang Lu, Pasin Manurangsi, etc. The Price of Fairness for Indivisible Goods. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 81-87. [paper](https://doi.org/10.24963/ijcai.2019/12)
+
+
+- **Generative Image Inpainting with Submanifold Alignment.**
+    > Ang Li, Jianzhong Qi, Rui Zhang, etc. Generative Image Inpainting with Submanifold Alignment. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 811-817. [paper](https://doi.org/10.24963/ijcai.2019/114)
+
+
+- **Detecting Robust Co-Saliency with Recurrent Co-Attention Neural Network.**
+    > Bo Li, Zhengxing Sun, Lv Tang, etc. Detecting Robust Co-Saliency with Recurrent Co-Attention Neural Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 818-825. [paper](https://doi.org/10.24963/ijcai.2019/115)
+
+
+- **Variation Generalized Feature Learning via Intra-view Variation Adaptation.**
+    > Jiawei Li, Mang Ye, Andy Jinhua Ma, etc. Variation Generalized Feature Learning via Intra-view Variation Adaptation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 826-832. [paper](https://doi.org/10.24963/ijcai.2019/116)
+
+
+- **Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation.**
+    > Qiaozhe Li, Xin Zhao, Ran He, etc. Pedestrian Attribute Recognition by Joint Visual-semantic Reasoning and Knowledge Distillation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 833-839. [paper](https://doi.org/10.24963/ijcai.2019/117)
+
+
+- **Rethinking Loss Design for Large-scale 3D Shape Retrieval.**
+    > Zhaoqun Li, Cheng Xu, Biao Leng. Rethinking Loss Design for Large-scale 3D Shape Retrieval. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 840-846. [paper](https://doi.org/10.24963/ijcai.2019/118)
+
+
+- **Attribute-Aware Convolutional Neural Networks for Facial Beauty Prediction.**
+    > Luojun Lin, Lingyu Liang, Lianwen Jin, etc. Attribute-Aware Convolutional Neural Networks for Facial Beauty Prediction. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 847-853. [paper](https://doi.org/10.24963/ijcai.2019/119)
+
+
+- **Rectified Binary Convolutional Networks for Enhancing the Performance of 1-bit DCNNs.**
+    > Chunlei Liu, Wenrui Ding, Xin Xia, etc. Rectified Binary Convolutional Networks for Enhancing the Performance of 1-bit DCNNs. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 854-860. [paper](https://doi.org/10.24963/ijcai.2019/120)
+
+
+- **Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion.**
+    > Dongnan Liu, Donghao Zhang, Yang Song, etc. Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 861-868. [paper](https://doi.org/10.24963/ijcai.2019/121)
+
+
+- **Densely Connected Attention Flow for Visual Question Answering.**
+    > Fei Liu, Jing Liu, Zhiwei Fang, etc. Densely Connected Attention Flow for Visual Question Answering. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 869-875. [paper](https://doi.org/10.24963/ijcai.2019/122)
+
+
+- **Unsupervised Learning of Scene Flow Estimation Fusing with Local Rigidity.**
+    > Liang Liu, Guangyao Zhai, Wenlong Ye, etc. Unsupervised Learning of Scene Flow Estimation Fusing with Local Rigidity. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 876-882. [paper](https://doi.org/10.24963/ijcai.2019/123)
+
+
+- **Strategy Logic with Simple Goals: Tractable Reasoning about Strategies.**
+    > Francesco Belardinelli, Wojciech Jamroga, Damian Kurpiewski, etc. Strategy Logic with Simple Goals: Tractable Reasoning about Strategies. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 88-94. [paper](https://doi.org/10.24963/ijcai.2019/13)
+
+
+- **Resolution-invariant Person Re-Identification.**
+    > Shunan Mao, Shiliang Zhang, Ming Yang. Resolution-invariant Person Re-Identification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 883-889. [paper](https://doi.org/10.24963/ijcai.2019/124)
+
+
+- **Low Shot Box Correction for Weakly Supervised Object Detection.**
+    > Tianxiang Pan, Bin Wang, Guiguang Ding, etc. Low Shot Box Correction for Weakly Supervised Object Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 890-896. [paper](https://doi.org/10.24963/ijcai.2019/125)
+
+
+- **DBDNet: Learning Bi-directional Dynamics for Early Action Prediction.**
+    > Guoliang Pang, Xionghui Wang, Jianfang Hu, etc. DBDNet: Learning Bi-directional Dynamics for Early Action Prediction. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 897-903. [paper](https://doi.org/10.24963/ijcai.2019/126)
+
+
+- **Deep Light-field-driven Saliency Detection from a Single View.**
+    > Yongri Piao, Zhengkun Rong, Miao Zhang, etc. Deep Light-field-driven Saliency Detection from a Single View. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 904-911. [paper](https://doi.org/10.24963/ijcai.2019/127)
+
+
+- **Deep Recurrent Quantization for Generating Sequential Binary Codes.**
+    > Jingkuan Song, Xiaosu Zhu, Lianli Gao, etc. Deep Recurrent Quantization for Generating Sequential Binary Codes. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 912-918. [paper](https://doi.org/10.24963/ijcai.2019/128)
+
+
+- **Talking Face Generation by Conditional Recurrent Adversarial Network.**
+    > Yang Song, Jingwen Zhu, Dawei Li, etc. Talking Face Generation by Conditional Recurrent Adversarial Network. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 919-925. [paper](https://doi.org/10.24963/ijcai.2019/129)
+
+
+- **Hallucinating Optical Flow Features for Video Classification.**
+    > Yongyi Tang, Lin Ma, Lianqiang Zhou. Hallucinating Optical Flow Features for Video Classification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 926-932. [paper](https://doi.org/10.24963/ijcai.2019/130)
+
+
+- **Color-Sensitive Person Re-Identification.**
+    > Guan&apos;an Wang, Yang Yang, Jian Cheng, etc. Color-Sensitive Person Re-Identification. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 933-939. [paper](https://doi.org/10.24963/ijcai.2019/131)
+
+
+- **Convolutional Auto-encoding of Sentence Topics for Image Paragraph Generation.**
+    > Jing Wang, Yingwei Pan, Ting Yao, etc. Convolutional Auto-encoding of Sentence Topics for Image Paragraph Generation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 940-946. [paper](https://doi.org/10.24963/ijcai.2019/132)
+
+
+- **DSRN: A Deep Scale Relationship Network for Scene Text Detection.**
+    > Yuxin Wang, Hongtao Xie, Zilong Fu, etc. DSRN: A Deep Scale Relationship Network for Scene Text Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 947-953. [paper](https://doi.org/10.24963/ijcai.2019/133)
+
+
+- **Fairness Towards Groups of Agents in the Allocation of Indivisible Items.**
+    > Nawal Benabbou, Mithun Chakraborty, Edith Elkind, etc. Fairness Towards Groups of Agents in the Allocation of Indivisible Items. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 95-101. [paper](https://doi.org/10.24963/ijcai.2019/14)
+
+
+- **Transferable Adversarial Attacks for Image and Video Object Detection.**
+    > Xingxing Wei, Siyuan Liang, Ning Chen, etc. Transferable Adversarial Attacks for Image and Video Object Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 954-960. [paper](https://doi.org/10.24963/ijcai.2019/134)
+
+
+- **Video Interactive Captioning with Human Prompts.**
+    > Aming Wu, Yahong Han, Yi Yang. Video Interactive Captioning with Human Prompts. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 961-967. [paper](https://doi.org/10.24963/ijcai.2019/135)
+
+
+- **Mutually Reinforced Spatio-Temporal Convolutional Tube for Human Action Recognition.**
+    > Haoze Wu, Jiawei Liu, Zheng-Jun Zha, etc. Mutually Reinforced Spatio-Temporal Convolutional Tube for Human Action Recognition. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 968-974. [paper](https://doi.org/10.24963/ijcai.2019/136)
+
+
+- **Densely Supervised Hierarchical Policy-Value Network for Image Paragraph Generation.**
+    > Siying Wu, Zheng-Jun Zha, Zilei Wang, etc. Densely Supervised Hierarchical Policy-Value Network for Image Paragraph Generation. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 975-981. [paper](https://doi.org/10.24963/ijcai.2019/137)
+
+
+- **Graph Convolutional Network Hashing for Cross-Modal Retrieval.**
+    > Ruiqing Xu, Chao Li, Junchi Yan, etc. Graph Convolutional Network Hashing for Cross-Modal Retrieval. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 982-988. [paper](https://doi.org/10.24963/ijcai.2019/138)
+
+
+- **MSR: Multi-Scale Shape Regression for Scene Text Detection.**
+    > Chuhui Xue, Shijian Lu, Wei Zhang. MSR: Multi-Scale Shape Regression for Scene Text Detection. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 989-995. [paper](https://doi.org/10.24963/ijcai.2019/139)
+
+
+- **Dynamically Visual Disambiguation of Keyword-based Image Search.**
+    > Yazhou Yao, Zeren Sun, Fumin Shen, etc. Dynamically Visual Disambiguation of Keyword-based Image Search. in Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019(IJCAI' 19). 996-1002. [paper](https://doi.org/10.24963/ijcai.2019/140)

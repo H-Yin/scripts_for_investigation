@@ -2,41 +2,43 @@ import json
 import argparse
 import requests
 
-DOMAIN_LIST=[
+DOMAIN_LIST = [
     'dblp.uni-trier.de',
     'dblp.dagstuhl.de',
     'dblp.org',
 ]
 
 PROXY = {
-    'http': 'http://10.0.3.79:5555',
+    # 'http': 'http://10.0.3.79:5555',
     # 'https': 'https://10.0.100.9:7890'
 }
 
-URL="https://%s/search/publ/api"
+URL = "https://%s/search/publ/api"
 
 parser = argparse.ArgumentParser(description='Demo of argparse')
 parser.add_argument('--bht', type=str, help='bth key')
 parser.add_argument('--conf', type=str, help='conference')
 parser.add_argument('--year', type=str, help='year')
 
+
 def parse_args():
-    args = parser.parse_args()
-    if args.bht is None:
-        if args.conf is not None and args.year is not None:
-            args.bht = 'db/conf/%s/%s%s.bht' % (args.conf, args.conf, args.year)
+    cliArgs = parser.parse_args()
+    if cliArgs.bht is None:
+        if cliArgs.conf is not None and cliArgs.year is not None:
+            cliArgs.bht = 'db/conf/%s/%s%s.bht' % (cliArgs.conf, cliArgs.conf, cliArgs.year)
         else:
             print("ERROR: One of '--bht <bht>' and '--conf <conf> --year <year>' must be specified.")
             parser.print_help()
             exit(-1)
-    return args
+    return cliArgs
+
 
 def download_doc(args, f=0):
     assert len(args.bht) > 0
     data = {
-        'q': 'toc:%s:' % args.bht,
-        'f': f,
-        'h': 500,
+        'q'     : 'toc:%s:' % args.bht,
+        'f'     : f,
+        'h'     : 500,
         'format': 'json'
     }
     for _ in range(3):
@@ -50,42 +52,42 @@ def download_doc(args, f=0):
                 print("request error:\n", response.text)
     exit(-1)
 
+
 def pre_parse_doc(doc):
-    try:
-        result = doc['result']
-        total = int(result['hits']['@total'])
-        first = int(result['hits']['@first'])
-        count = int(result['hits']['@sent'])
-        hits = result['hits']['hit']
-    except:
-        return None
+    result = doc['result']
+    total = int(result['hits']['@total'])
+    first = int(result['hits']['@first'])
+    count = int(result['hits']['@sent'])
+    hits = result['hits']['hit']
     return total, first, count, hits
 
-def parse_doc(hits, args):
-    conf = {}
+
+def parse_doc(hits):
+    docConf = {}
     docs = []
     for hit in hits:
         try:
             hit = hit['info']
             if hit['type'] == 'Editorship' or 'publisher' in hit:
-                conf['title'] = hit['title']
+                docConf['title'] = hit['title']
                 if 'venue' not in hit:
-                    conf['venue'] = hit['key'].split("/")[1].upper()
+                    docConf['venue'] = hit['key'].split("/")[1].upper()
                 else:
-                    conf['venue'] = hit['venue'][0] if type(hit['venue']) == list else hit['venue']
-                conf['year'] = hit['year']
+                    docConf['venue'] = hit['venue'][0] if isinstance(hit['venue'], list) else hit['venue']
+                docConf['year'] = hit['year']
                 continue
 
-            doc = {}
-            doc['title'] = hit["title"]
-            doc['venue'] = hit['venue']
-            doc['year'] = hit['year']
-            doc['url'] = hit['ee']
-            doc['pages'] = hit['pages'] if 'pages' in hit else '0-0'
-            doc['authors'] = []
+            oneDoc = {
+                'title': hit["title"],
+                'venue': hit['venue'],
+                'year': hit['year'],
+                'url': hit['ee'],
+                'pages': hit['pages'] if 'pages' in hit else '0-0',
+                'authors': []
+            }
             if 'authors' in hit:
                 authors = hit['authors']['author']
-                if type(authors) == dict:
+                if isinstance(authors, dict):
                     authors = [authors]
                 for au in authors[:3]:
                     words = au['text'].split()
@@ -93,37 +95,38 @@ def parse_doc(hits, args):
                         author = " ".join(words[:-1])
                     else:
                         author = " ".join(words)
-                    doc['authors'].append(author)
+                    oneDoc['authors'].append(author)
                 if len(authors) > 3:
-                    doc['authors'].append("etc")
-            docs.append(doc)
-        except:
-            print(hit)
-    docs = sorted(docs, key=lambda x:(x['pages'].split("-")[0], x['title']))
-    if len(conf) == 0:
-        conf['title'] = ''
-        conf['venue'] = ''
-        conf['year'] = ''
-    return conf, docs
+                    oneDoc['authors'].append("et al")
+            docs.append(oneDoc)
+        except Exception as e:
+            print(hit, e)
+    docs = sorted(docs, key=lambda x: (x['pages'].split("-")[0], x['title']))
+    if len(docConf) == 0:
+        docConf['title'] = ''
+        docConf['venue'] = ''
+        docConf['year'] = ''
+    return docConf, docs
 
-def write_to_md(conf, docs, template, filepath):
+
+def write_to_md(docConf, docs, template, filepath):
     lines = []
-    for doc in docs:
-        pages = '' if doc['pages'] == '0-0' else "%s." % doc['pages']
+    for oneDoc in docs:
+        pages = '' if oneDoc['pages'] == '0-0' else "%s." % oneDoc['pages']
         ref = "%s. %s in %s(%s' %s). %s [paper](%s)" % (
-            ", ".join(doc['authors']), doc['title'], conf['title'], doc['venue'], doc['year'][-2:],
-            pages, doc['url']
+            ", ".join(oneDoc['authors']), oneDoc['title'], docConf['title'], oneDoc['venue'], oneDoc['year'][-2:],
+            pages, oneDoc['url']
         )
-        lines.append(template.format(title=doc['title'], ref=ref))
+        lines.append(template.format(title=oneDoc['title'], ref=ref))
 
-    with open(filepath, 'w') as f:
-        f.write("\n".join(lines))
+    with open(filepath, 'w', encoding='utf-8') as mdFile:
+        mdFile.write("\n".join(lines))
 
-TEMPLATE='''
+
+TEMPLATE = '''
 - **{title}**
     > {ref}
 '''
-
 
 if __name__ == '__main__':
     args = parse_args()
@@ -133,7 +136,7 @@ if __name__ == '__main__':
     doc_list = []
     while True:
         doc = download_doc(args, f=start)
-        with open("res/temp/%s_%d.json"% (filename, start), 'w') as f:
+        with open("res/temp/%s_%d.json" % (filename, start), 'w') as f:
             f.write(json.dumps(doc))
         temp = pre_parse_doc(doc)
         if temp is None:
@@ -144,6 +147,6 @@ if __name__ == '__main__':
         start = first + count
         if start >= total:
             break
-    conf, items = parse_doc(doc_list, args)
+    conf, items = parse_doc(doc_list)
     print(len(doc_list), len(items))
     write_to_md(conf, items, TEMPLATE, "res/%s.md" % filename)

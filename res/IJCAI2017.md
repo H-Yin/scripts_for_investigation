@@ -1,562 +1,10 @@
 
-- **Swift Logic for Big Data and Knowledge Graphs.**
-    > Luigi Bellomarini, Georg Gottlob, Andreas Pieris, etc. Swift Logic for Big Data and Knowledge Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2-10. [paper](https://doi.org/10.24963/ijcai.2017/1)
-
-
-- **Deep Learning at Alibaba.**
-    > Rong Jin. Deep Learning at Alibaba. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 11-16. [paper](https://doi.org/10.24963/ijcai.2017/2)
-
-
-- **From Automation to Autonomous Systems: A Legal Phenomenology with Problems of Accountability.**
-    > Ugo Pagallo. From Automation to Autonomous Systems: A Legal Phenomenology with Problems of Accountability. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 17-23. [paper](https://doi.org/10.24963/ijcai.2017/3)
-
-
-- **Super-Human AI for Strategic Reasoning: Beating Top Pros in Heads-Up No-Limit Texas Hold&apos;em.**
-    > Tuomas Sandholm. Super-Human AI for Strategic Reasoning: Beating Top Pros in Heads-Up No-Limit Texas Hold&apos;em. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 24-25. [paper](https://doi.org/10.24963/ijcai.2017/4)
-
-
-- **Proactive and Reactive Coordination of Non-dedicated Agent Teams Operating in Uncertain Environments.**
-    > Pritee Agrawal, Pradeep Varakantham. Proactive and Reactive Coordination of Non-dedicated Agent Teams Operating in Uncertain Environments. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 28-34. [paper](https://doi.org/10.24963/ijcai.2017/5)
-
-
-- **Diverse Weighted Bipartite b-Matching.**
-    > Faez Ahmed, John P. Dickerson, Mark D. Fuge. Diverse Weighted Bipartite b-Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 35-41. [paper](https://doi.org/10.24963/ijcai.2017/6)
-
-
-- **Pure Nash Equilibria in Online Fair Division.**
-    > Martin Aleksandrov, Toby Walsh. Pure Nash Equilibria in Online Fair Division. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 42-48. [paper](https://doi.org/10.24963/ijcai.2017/7)
-
-
-- **Efficient Computation of Extensions for Dynamic Abstract Argumentation Frameworks: An Incremental Approach.**
-    > Gianvincenzo Alfano, Sergio Greco, Francesco Parisi. Efficient Computation of Extensions for Dynamic Abstract Argumentation Frameworks: An Incremental Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 49-55. [paper](https://doi.org/10.24963/ijcai.2017/8)
-
-
-- **Acceptability Semantics for Weighted Argumentation Frameworks.**
-    > Leila Amgoud, Jonathan Ben-Naim, Dragan Doder, etc. Acceptability Semantics for Weighted Argumentation Frameworks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 56-62. [paper](https://doi.org/10.24963/ijcai.2017/9)
-
-
-- **Measuring the Intensity of Attacks in Argumentation Graphs with Shapley Value.**
-    > Leila Amgoud, Jonathan Ben-Naim, Srdjan Vesic. Measuring the Intensity of Attacks in Argumentation Graphs with Shapley Value. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 63-69. [paper](https://doi.org/10.24963/ijcai.2017/10)
-
-
-- **An Abstraction-Refinement Methodology for Reasoning about Network Games.**
-    > Guy Avni, Shibashis Guha, Orna Kupferman. An Abstraction-Refinement Methodology for Reasoning about Network Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 70-76. [paper](https://doi.org/10.24963/ijcai.2017/11)
-
-
-- **Pareto Optimal Allocation under Uncertain Preferences.**
-    > Haris Aziz, Ronald de Haan, Baharak Rastegari. Pareto Optimal Allocation under Uncertain Preferences. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 77-83. [paper](https://doi.org/10.24963/ijcai.2017/12)
-
-
-- **The Condorcet Principle for Multiwinner Elections: From Shortlisting to Proportionality.**
-    > Haris Aziz, Edith Elkind, Piotr Faliszewski, etc. The Condorcet Principle for Multiwinner Elections: From Shortlisting to Proportionality. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 84-90. [paper](https://doi.org/10.24963/ijcai.2017/13)
-
-
-- **Verification of Broadcasting Multi-Agent Systems against an Epistemic Strategy Logic.**
-    > Francesco Belardinelli, Alessio Lomuscio, Aniello Murano, etc. Verification of Broadcasting Multi-Agent Systems against an Epistemic Strategy Logic. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 91-97. [paper](https://doi.org/10.24963/ijcai.2017/14)
-
-
-- **Parameterised Verification of Data-aware Multi-Agent Systems.**
-    > Francesco Belardinelli, Panagiotis Kouvaros, Alessio Lomuscio. Parameterised Verification of Data-aware Multi-Agent Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 98-104. [paper](https://doi.org/10.24963/ijcai.2017/15)
-
-
-- **Equilibria in Ordinal Games: A Framework based on Possibility Theory.**
-    > Nahla Ben Amor, Hélène Fargier, Régis Sabbadin. Equilibria in Ordinal Games: A Framework based on Possibility Theory. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 105-111. [paper](https://doi.org/10.24963/ijcai.2017/16)
-
-
-- **Aggressive, Tense or Shy? Identifying Personality Traits from Crowd Videos.**
-    > Aniket Bera, Tanmay Randhavane, Dinesh Manocha. Aggressive, Tense or Shy? Identifying Personality Traits from Crowd Videos. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 112-118. [paper](https://doi.org/10.24963/ijcai.2017/17)
-
-
-- **Computing Bayes-Nash Equilibria in Combinatorial Auctions with Continuous Value and Action Spaces.**
-    > Vitor Bosshard, Benedikt Bünz, Benjamin Lubin, etc. Computing Bayes-Nash Equilibria in Combinatorial Auctions with Continuous Value and Action Spaces. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 119-127. [paper](https://doi.org/10.24963/ijcai.2017/18)
-
-
-- **Voting by sequential elimination with few voters.**
-    > Sylvain Bouveret, Yann Chevaleyre, François Durand, etc. Voting by sequential elimination with few voters. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 128-134. [paper](https://doi.org/10.24963/ijcai.2017/19)
-
-
-- **Fair Division of a Graph.**
-    > Sylvain Bouveret, Katarína Cechlárová, Edith Elkind, etc. Fair Division of a Graph. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 135-141. [paper](https://doi.org/10.24963/ijcai.2017/20)
-
-
-- **Bounding the Inefficiency of Compromise.**
-    > Ioannis Caragiannis, Panagiotis Kanellopoulos, Alexandros A. Voudouris. Bounding the Inefficiency of Compromise. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 142-148. [paper](https://doi.org/10.24963/ijcai.2017/21)
-
-
-- **Learning a Ground Truth Ranking Using Noisy Approval Votes.**
-    > Ioannis Caragiannis, Evi Micha. Learning a Ground Truth Ranking Using Noisy Approval Votes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 149-155. [paper](https://doi.org/10.24963/ijcai.2017/22)
-
-
-- **Plan Explanations as Model Reconciliation: Moving Beyond Explanation as Soliloquy.**
-    > Tathagata Chakraborti, Sarath Sreedharan, Yu Zhang, etc. Plan Explanations as Model Reconciliation: Moving Beyond Explanation as Soliloquy. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 156-163. [paper](https://doi.org/10.24963/ijcai.2017/23)
-
-
-- **Coordinated Versus Decentralized Exploration In Multi-Agent Multi-Armed Bandits.**
-    > Mithun Chakraborty, Kai Yee Phoebe Chua, Sanmay Das, etc. Coordinated Versus Decentralized Exploration In Multi-Agent Multi-Armed Bandits. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 164-170. [paper](https://doi.org/10.24963/ijcai.2017/24)
-
-
-- **Pessimistic Leader-Follower Equilibria with Multiple Followers.**
-    > Stefano Coniglio, Nicola Gatti, Alberto Marchesi. Pessimistic Leader-Follower Equilibria with Multiple Followers. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 171-177. [paper](https://doi.org/10.24963/ijcai.2017/25)
-
-
-- **No Pizza for You: Value-based Plan Selection in BDI Agents.**
-    > Stephen Cranefield, Michael Winikoff, Virginia Dignum, etc. No Pizza for You: Value-based Plan Selection in BDI Agents. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 178-184. [paper](https://doi.org/10.24963/ijcai.2017/26)
-
-
-- **Interaction-based ontology alignment repair with expansion and relaxation.**
-    > Jérôme Euzenat. Interaction-based ontology alignment repair with expansion and relaxation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 185-191. [paper](https://doi.org/10.24963/ijcai.2017/27)
-
-
-- **Multiwinner Rules on Paths From k-Borda to Chamberlin-Courant.**
-    > Piotr Faliszewski, Piotr Skowron, Arkadii Slinko, etc. Multiwinner Rules on Paths From k-Borda to Chamberlin-Courant. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 192-198. [paper](https://doi.org/10.24963/ijcai.2017/28)
-
-
-- **Operation Frames and Clubs in Kidney Exchange.**
-    > Gabriele Farina, John P. Dickerson, Tuomas Sandholm. Operation Frames and Clubs in Kidney Exchange. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 199-205. [paper](https://doi.org/10.24963/ijcai.2017/29)
-
-
-- **A Novel Symbolic Approach to Verifying Epistemic Properties of Programs.**
-    > Nikos Gorogiannis, Franco Raimondi, Ioana Boureanu. A Novel Symbolic Approach to Verifying Epistemic Properties of Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 206-212. [paper](https://doi.org/10.24963/ijcai.2017/30)
-
-
-- **Object Allocation via Swaps along a Social Network.**
-    > Laurent Gourvès, Julien Lesca, Anaëlle Wilczynski. Object Allocation via Swaps along a Social Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 213-219. [paper](https://doi.org/10.24963/ijcai.2017/31)
-
-
-- **The Off-Switch Game.**
-    > Dylan Hadfield-Menell, Anca D. Dragan, Pieter Abbeel, etc. The Off-Switch Game. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 220-227. [paper](https://doi.org/10.24963/ijcai.2017/32)
-
-
-- **Optimal Posted-Price Mechanism in Microtask Crowdsourcing.**
-    > Zehong Hu, Jie Zhang. Optimal Posted-Price Mechanism in Microtask Crowdsourcing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 228-234. [paper](https://doi.org/10.24963/ijcai.2017/33)
-
-
-- **Online Roommate Allocation Problem.**
-    > Guangda Huzhang, Xin Huang, Shengyu Zhang, etc. Online Roommate Allocation Problem. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 235-241. [paper](https://doi.org/10.24963/ijcai.2017/34)
-
-
-- **Near-Feasible Stable Matchings with Budget Constraints.**
-    > Yasushi Kawase, Atsushi Iwasaki. Near-Feasible Stable Matchings with Budget Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 242-248. [paper](https://doi.org/10.24963/ijcai.2017/35)
-
-
-- **A Bayesian Approach to Argument-Based Reasoning for Attack Estimation.**
-    > Hiroyuki Kido, Keishi Okamoto. A Bayesian Approach to Argument-Based Reasoning for Attack Estimation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 249-255. [paper](https://doi.org/10.24963/ijcai.2017/36)
-
-
-- **Tosca: Operationalizing Commitments Over Information Protocols.**
-    > Thomas C. King, Akin Günay, Amit K. Chopra, etc. Tosca: Operationalizing Commitments Over Information Protocols. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 256-264. [paper](https://doi.org/10.24963/ijcai.2017/37)
-
-
-- **Omniscient Debugging for Cognitive Agent Programs.**
-    > Vincent J. Koeman, Koen V. Hindriks, Catholijn M. Jonker. Omniscient Debugging for Cognitive Agent Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 265-272. [paper](https://doi.org/10.24963/ijcai.2017/38)
-
-
-- **Convergence and Quality of Iterative Voting Under Non-Scoring Rules.**
-    > Aaron Koolyk, Tyrone Strangway, Omer Lev, etc. Convergence and Quality of Iterative Voting Under Non-Scoring Rules. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 273-279. [paper](https://doi.org/10.24963/ijcai.2017/39)
-
-
-- **Constraint-Based Symmetry Detection in General Game Playing.**
-    > Frédéric Koriche, Sylvain Lagrue, Éric Piette, etc. Constraint-Based Symmetry Detection in General Game Playing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 280-287. [paper](https://doi.org/10.24963/ijcai.2017/40)
-
-
-- **Verifying Fault-tolerance in Parameterised Multi-Agent Systems.**
-    > Panagiotis Kouvaros, Alessio Lomuscio. Verifying Fault-tolerance in Parameterised Multi-Agent Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 288-294. [paper](https://doi.org/10.24963/ijcai.2017/41)
-
-
-- **Smoothing Method for Approximate Extensive-Form Perfect Equilibrium.**
-    > Christian Kroer, Gabriele Farina, Tuomas Sandholm. Smoothing Method for Approximate Extensive-Form Perfect Equilibrium. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 295-301. [paper](https://doi.org/10.24963/ijcai.2017/42)
-
-
-- **Contest Design with Uncertain Performance and Costly Participation.**
-    > Priel Levy, David Sarne, Igor Rochlin. Contest Design with Uncertain Performance and Costly Participation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 302-309. [paper](https://doi.org/10.24963/ijcai.2017/43)
-
-
-- **Representativeness-aware Aspect Analysis for Brand Monitoring in Social Media.**
-    > Lizi Liao, Xiangnan He, Zhaochun Ren, etc. Representativeness-aware Aspect Analysis for Brand Monitoring in Social Media. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 310-316. [paper](https://doi.org/10.24963/ijcai.2017/44)
-
-
-- **Crowd Learning: Improving Online Decision Making Using Crowdsourced Data.**
-    > Yang Liu, Mingyan Liu. Crowd Learning: Improving Online Decision Making Using Crowdsourced Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 317-323. [paper](https://doi.org/10.24963/ijcai.2017/45)
-
-
-- **Recognizing Top-Monotonic Preference Profiles in Polynomial Time.**
-    > Krzysztof Magiera, Piotr Faliszewski. Recognizing Top-Monotonic Preference Profiles in Polynomial Time. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 324-330. [paper](https://doi.org/10.24963/ijcai.2017/46)
-
-
-- **Probability Bounds for Overlapping Coalition Formation.**
-    > Michail Mamakos, Georgios Chalkiadakis. Probability Bounds for Overlapping Coalition Formation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 331-337. [paper](https://doi.org/10.24963/ijcai.2017/47)
-
-
-- **Computing an Approximately Optimal Agreeable Set of Items.**
-    > Pasin Manurangsi, Warut Suksompong. Computing an Approximately Optimal Agreeable Set of Items. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 338-344. [paper](https://doi.org/10.24963/ijcai.2017/48)
-
-
-- **Mechanisms for Online Organ Matching.**
-    > Nicholas Mattei, Abdallah Saffidine, Toby Walsh. Mechanisms for Online Organ Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 345-351. [paper](https://doi.org/10.24963/ijcai.2017/49)
-
-
-- **Deterministic, Strategyproof, and Fair Cake Cutting.**
-    > Vijay Menon, Kate Larson. Deterministic, Strategyproof, and Fair Cake Cutting. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 352-358. [paper](https://doi.org/10.24963/ijcai.2017/50)
-
-
-- **Core Stability in Hedonic Games among Friends and Enemies: Impact of Neutrals.**
-    > Kazunori Ohta, Nathanaël Barrot, Anisse Ismaili, etc. Core Stability in Hedonic Games among Friends and Enemies: Impact of Neutrals. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 359-365. [paper](https://doi.org/10.24963/ijcai.2017/51)
-
-
-- **Multiple-Profile Prediction-of-Use Games.**
-    > Andrew Perrault, Craig Boutilier. Multiple-Profile Prediction-of-Use Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 366-373. [paper](https://doi.org/10.24963/ijcai.2017/52)
-
-
-- **Enhancing Sustainability of Complex Epidemiological Models through a Generic Multilevel Agent-based Approach.**
-    > Sébastien Picault, Yu-Lin Huang, Vianney Sicard, etc. Enhancing Sustainability of Complex Epidemiological Models through a Generic Multilevel Agent-based Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 374-380. [paper](https://doi.org/10.24963/ijcai.2017/53)
-
-
-- **Don&apos;t Bury your Head in Warnings: A Game-Theoretic Approach for Intelligent Allocation of Cyber-security Alerts.**
-    > Aaron Schlenker, Haifeng Xu, Mina Guirguis, etc. Don&apos;t Bury your Head in Warnings: A Game-Theoretic Approach for Intelligent Allocation of Cyber-security Alerts. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 381-387. [paper](https://doi.org/10.24963/ijcai.2017/54)
-
-
-- **Posted Pricing sans Discrimination.**
-    > Shreyas Sekar. Posted Pricing sans Discrimination. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 388-394. [paper](https://doi.org/10.24963/ijcai.2017/55)
-
-
-- **Why You Should Charge Your Friends for Borrowing Your Stuff.**
-    > Kijung Shin, Euiwoong Lee, Dhivya Eswaran, etc. Why You Should Charge Your Friends for Borrowing Your Stuff. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 395-401. [paper](https://doi.org/10.24963/ijcai.2017/56)
-
-
-- **Synchronisation Games on Hypergraphs.**
-    > Sunil Simon, Dominik Wojtczak. Synchronisation Games on Hypergraphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 402-408. [paper](https://doi.org/10.24963/ijcai.2017/57)
-
-
-- **Proportional Rankings.**
-    > Piotr Skowron, Martin Lackner, Markus Brill, etc. Proportional Rankings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 409-415. [paper](https://doi.org/10.24963/ijcai.2017/58)
-
-
-- **Attachment Centrality for Weighted Graphs.**
-    > Jadwiga Sosnowska, Oskar Skibski. Attachment Centrality for Weighted Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 416-422. [paper](https://doi.org/10.24963/ijcai.2017/59)
-
-
-- **Online Optimization of Video-Ad Allocation.**
-    > Hanna Sumita, Yasushi Kawase, Sumio Fujita, etc. Online Optimization of Video-Ad Allocation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 423-429. [paper](https://doi.org/10.24963/ijcai.2017/60)
-
-
-- **On the Power and Limitations of Deception in Multi-Robot Adversarial Patrolling.**
-    > Noga Talmor, Noa Agmon. On the Power and Limitations of Deception in Multi-Robot Adversarial Patrolling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 430-436. [paper](https://doi.org/10.24963/ijcai.2017/61)
-
-
-- **Manipulating Gale-Shapley Algorithm: Preserving Stability and Remaining Inconspicuous.**
-    > Rohit Vaish, Dinesh Garg. Manipulating Gale-Shapley Algorithm: Preserving Stability and Remaining Inconspicuous. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 437-443. [paper](https://doi.org/10.24963/ijcai.2017/62)
-
-
-- **Multi-Agent Planning with Baseline Regret Minimization.**
-    > Feng Wu, Shlomo Zilberstein, Xiaoping Chen. Multi-Agent Planning with Baseline Regret Minimization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 444-450. [paper](https://doi.org/10.24963/ijcai.2017/63)
-
-
-- **Score Aggregation via Spectral Method.**
-    > Mingyu Xiao, Yuqing Wang. Score Aggregation via Spectral Method. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 451-457. [paper](https://doi.org/10.24963/ijcai.2017/64)
-
-
-- **Agent Design Consistency Checking via Planning.**
-    > Nitin Yadav, John Thangarajah, Sebastian Sardiña. Agent Design Consistency Checking via Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 458-464. [paper](https://doi.org/10.24963/ijcai.2017/65)
-
-
-- **How to Form Winning Coalitions in Mixed Human-Computer Settings.**
-    > Yair Zick, Kobi Gal, Yoram Bachrach, etc. How to Form Winning Coalitions in Mixed Human-Computer Settings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 465-471. [paper](https://doi.org/10.24963/ijcai.2017/66)
-
-
-- **Estimating the size of search trees by sampling with domain knowledge.**
-    > Gleb Belov, Samuel Esler, Dylan Fernando, etc. Estimating the size of search trees by sampling with domain knowledge. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 473-479. [paper](https://doi.org/10.24963/ijcai.2017/67)
-
-
-- **An Admissible HTN Planning Heuristic.**
-    > Pascal Bercher, Gregor Behnke, Daniel Höller, etc. An Admissible HTN Planning Heuristic. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 480-488. [paper](https://doi.org/10.24963/ijcai.2017/68)
-
-
-- **Front-to-End Bidirectional Heuristic Search with Near-Optimal Node Expansions.**
-    > Jingwei Chen, Robert C. Holte, Sandra Zilles, etc. Front-to-End Bidirectional Heuristic Search with Near-Optimal Node Expansions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 489-495. [paper](https://doi.org/10.24963/ijcai.2017/69)
-
-
-- **Compromise-free Pathfinding on a Navigation Mesh.**
-    > Michael Cui, Daniel Damir Harabor, Alban Grastien. Compromise-free Pathfinding on a Navigation Mesh. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 496-502. [paper](https://doi.org/10.24963/ijcai.2017/70)
-
-
-- **A Random Model for Argumentation Framework: Phase Transitions, Empirical Hardness, and Heuristics.**
-    > Yong Gao. A Random Model for Argumentation Framework: Phase Transitions, Empirical Hardness, and Heuristics. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 503-509. [paper](https://doi.org/10.24963/ijcai.2017/71)
-
-
-- **Online Bridged Pruning for Real-Time Search with Arbitrary Lookaheads.**
-    > Carlos Hernández, Adi Botea, Jorge A. Baier, etc. Online Bridged Pruning for Real-Time Search with Arbitrary Lookaheads. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 510-516. [paper](https://doi.org/10.24963/ijcai.2017/72)
-
-
-- **A Reduction based Method for Coloring Very Large Graphs.**
-    > Jinkun Lin, Shaowei Cai, Chuan Luo, etc. A Reduction based Method for Coloring Very Large Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 517-523. [paper](https://doi.org/10.24963/ijcai.2017/73)
-
-
-- **The Mixing of Markov Chains on Linear Extensions in Practice.**
-    > Topi Talvitie, Teppo Mikael Niinimäki, Mikko Koivisto. The Mixing of Markov Chains on Linear Extensions in Practice. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 524-530. [paper](https://doi.org/10.24963/ijcai.2017/74)
-
-
-- **Generating Hard Random Boolean Formulas and Disjunctive Logic Programs.**
-    > Giovanni Amendola, Francesco Ricca, Miroslaw Truszczynski. Generating Hard Random Boolean Formulas and Disjunctive Logic Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 532-538. [paper](https://doi.org/10.24963/ijcai.2017/75)
-
-
-- **Stochastic Constraint Programming with And-Or Branch-and-Bound.**
-    > Behrouz Babaki, Tias Guns, Luc De Raedt. Stochastic Constraint Programming with And-Or Branch-and-Bound. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 539-545. [paper](https://doi.org/10.24963/ijcai.2017/76)
-
-
-- **Scalable Constraint-based Virtual Data Center Allocation.**
-    > Sam Bayless, Nodir Kodirov, Ivan Beschastnikh, etc. Scalable Constraint-based Virtual Data Center Allocation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 546-554. [paper](https://doi.org/10.24963/ijcai.2017/77)
-
-
-- **Compact MDDs for Pseudo-Boolean Constraints with At-Most-One Relations in Resource-Constrained Scheduling Problems.**
-    > Miquel Bofill, Jordi Coll, Josep Suy, etc. Compact MDDs for Pseudo-Boolean Constraints with At-Most-One Relations in Resource-Constrained Scheduling Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 555-562. [paper](https://doi.org/10.24963/ijcai.2017/78)
-
-
-- **Relaxed Exists-Step Plans in Planning as SMT.**
-    > Miquel Bofill, Joan Espasa, Mateu Villaret. Relaxed Exists-Step Plans in Planning as SMT. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 563-570. [paper](https://doi.org/10.24963/ijcai.2017/79)
-
-
-- **From Decimation to Local Search and Back: A New Approach to MaxSAT.**
-    > Shaowei Cai, Chuan Luo, Haochen Zhang. From Decimation to Local Search and Back: A New Approach to MaxSAT. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 571-577. [paper](https://doi.org/10.24963/ijcai.2017/80)
-
-
-- **On the Kernelization of Global Constraints.**
-    > Clément Carbonnel, Emmanuel Hebrard. On the Kernelization of Global Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 578-584. [paper](https://doi.org/10.24963/ijcai.2017/81)
-
-
-- **The DNA Word Design Problem: A New Constraint Model and New Results.**
-    > Michael Codish, Michael Frank, Vitaly Lagoon. The DNA Word Design Problem: A New Constraint Model and New Results. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 585-591. [paper](https://doi.org/10.24963/ijcai.2017/82)
-
-
-- **Learning-Based Abstractions for Nonlinear Constraint Solving.**
-    > Sumanth Dathathri, Nikos Aréchiga, Sicun Gao, etc. Learning-Based Abstractions for Nonlinear Constraint Solving. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 592-599. [paper](https://doi.org/10.24963/ijcai.2017/83)
-
-
-- **The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas.**
-    > Jeffrey M. Dudek, Kuldeep S. Meel, Moshe Y. Vardi. The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 600-606. [paper](https://doi.org/10.24963/ijcai.2017/84)
-
-
-- **Solving Integer Linear Programs with a Small Number of Global Variables and Constraints.**
-    > Pavel Dvorák, Eduard Eiben, Robert Ganian, etc. Solving Integer Linear Programs with a Small Number of Global Variables and Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 607-613. [paper](https://doi.org/10.24963/ijcai.2017/85)
-
-
-- **Personnel Scheduling as Satisfiability Modulo Theories.**
-    > Christoph Erkinger, Nysret Musliu. Personnel Scheduling as Satisfiability Modulo Theories. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 614-621. [paper](https://doi.org/10.24963/ijcai.2017/86)
-
-
-- **Restart and Random Walk in Local Search for Maximum Vertex Weight Cliques with Evaluations in Clustering Aggregation.**
-    > Yi Fan, Nan Li, Chengqian Li, etc. Restart and Random Walk in Local Search for Maximum Vertex Weight Cliques with Evaluations in Clustering Aggregation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 622-630. [paper](https://doi.org/10.24963/ijcai.2017/87)
-
-
-- **Finding Robust Solutions to Stable Marriage.**
-    > Begum Genc, Mohamed Siala, Barry O&apos;Sullivan, etc. Finding Robust Solutions to Stable Marriage. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 631-637. [paper](https://doi.org/10.24963/ijcai.2017/88)
-
-
-- **Locality in Random SAT Instances.**
-    > Jesús Giráldez-Cru, Jordi Levy. Locality in Random SAT Instances. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 638-644. [paper](https://doi.org/10.24963/ijcai.2017/89)
-
-
-- **A Core-Guided Approach to Learning Optimal Causal Graphs.**
-    > Antti Hyttinen, Paul Saikko, Matti Järvisalo. A Core-Guided Approach to Learning Optimal Causal Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 645-651. [paper](https://doi.org/10.24963/ijcai.2017/90)
-
-
-- **Cardinality Encodings for Graph Optimization Problems.**
-    > Alexey Ignatiev, António Morgado, João Marques-Silva. Cardinality Encodings for Graph Optimization Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 652-658. [paper](https://doi.org/10.24963/ijcai.2017/91)
-
-
-- **Learning to Run Heuristics in Tree Search.**
-    > Elias B. Khalil, Bistra Dilkina, George L. Nemhauser, etc. Learning to Run Heuristics in Tree Search. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 659-666. [paper](https://doi.org/10.24963/ijcai.2017/92)
-
-
-- **An Improved Decision-DNNF Compiler.**
-    > Jean-Marie Lagniez, Pierre Marquis. An Improved Decision-DNNF Compiler. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 667-673. [paper](https://doi.org/10.24963/ijcai.2017/93)
-
-
-- **A Recursive Shortcut for CEGAR: Application To The Modal Logic K Satisfiability Problem.**
-    > Jean-Marie Lagniez, Daniel Le Berre, Tiago de Lima, etc. A Recursive Shortcut for CEGAR: Application To The Modal Logic K Satisfiability Problem. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 674-680. [paper](https://doi.org/10.24963/ijcai.2017/94)
-
-
-- **Automatic Synthesis of Smart Table Constraints by Abstraction of Table Constraints.**
-    > Baudouin Le Charlier, Minh Thanh Khong, Christophe Lecoutre, etc. Automatic Synthesis of Smart Table Constraints by Abstraction of Table Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 681-687. [paper](https://doi.org/10.24963/ijcai.2017/95)
-
-
-- **Solving Stochastic Boolean Satisfiability under Random-Exist Quantification.**
-    > Nian-Ze Lee, Yen-Shi Wang, Jie-Hong R. Jiang. Solving Stochastic Boolean Satisfiability under Random-Exist Quantification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 688-694. [paper](https://doi.org/10.24963/ijcai.2017/96)
-
-
-- **Enhancing Campaign Design in Crowdfunding: A Product Supply Optimization Perspective.**
-    > Qi Liu, Guifeng Wang, Hongke Zhao, etc. Enhancing Campaign Design in Crowdfunding: A Product Supply Optimization Perspective. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 695-702. [paper](https://doi.org/10.24963/ijcai.2017/97)
-
-
-- **An Effective Learnt Clause Minimization Approach for CDCL SAT Solvers.**
-    > Mao Luo, Chu-Min Li, Fan Xiao, etc. An Effective Learnt Clause Minimization Approach for CDCL SAT Solvers. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 703-711. [paper](https://doi.org/10.24963/ijcai.2017/98)
-
-
-- **A Partitioning Algorithm for Maximum Common Subgraph Problems.**
-    > Ciaran McCreesh, Patrick Prosser, James Trimble. A Partitioning Algorithm for Maximum Common Subgraph Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 712-719. [paper](https://doi.org/10.24963/ijcai.2017/99)
-
-
-- **Efficient Weighted Model Integration via SMT-Based Predicate Abstraction.**
-    > Paolo Morettin, Andrea Passerini, Roberto Sebastiani. Efficient Weighted Model Integration via SMT-Based Predicate Abstraction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 720-728. [paper](https://doi.org/10.24963/ijcai.2017/100)
-
-
-- **Constraint Games revisited.**
-    > Anthony Palmieri, Arnaud Lallouet. Constraint Games revisited. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 729-735. [paper](https://doi.org/10.24963/ijcai.2017/101)
-
-
-- **On Neighborhood Singleton Consistencies.**
-    > Anastasia Paparrizou, Kostas Stergiou. On Neighborhood Singleton Consistencies. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 736-742. [paper](https://doi.org/10.24963/ijcai.2017/102)
-
-
-- **Temporal Planning with Clock-Based SMT Encodings.**
-    > Jussi Rintanen. Temporal Planning with Clock-Based SMT Encodings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 743-749. [paper](https://doi.org/10.24963/ijcai.2017/103)
-
-
-- **Nonlinear Hybrid Planning with Deep Net Learned Transition Models and Mixed-Integer Linear Programming.**
-    > Buser Say, Ga Wu, Yu Qing Zhou, etc. Nonlinear Hybrid Planning with Deep Net Learned Transition Models and Mixed-Integer Linear Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 750-756. [paper](https://doi.org/10.24963/ijcai.2017/104)
-
-
-- **Player Movement Models for Video Game Level Generation.**
-    > Sam Snodgrass, Santiago Ontañón. Player Movement Models for Video Game Level Generation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 757-763. [paper](https://doi.org/10.24963/ijcai.2017/105)
-
-
-- **On the Computational Complexity of Gossip Protocols.**
-    > Krzysztof R. Apt, Eryk Kopczynski, Dominik Wojtczak. On the Computational Complexity of Gossip Protocols. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 765-771. [paper](https://doi.org/10.24963/ijcai.2017/106)
-
-
-- **Epistemic-entrenchment Characterization of Parikh&apos;s Axiom.**
-    > Theofanis I. Aravanis, Pavlos Peppas, Mary-Anne Williams. Epistemic-entrenchment Characterization of Parikh&apos;s Axiom. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 772-778. [paper](https://doi.org/10.24963/ijcai.2017/107)
-
-
-- **Weakening Covert Networks by Minimizing Inverse Geodesic Length.**
-    > Haris Aziz, Serge Gaspers, Kamran Najeebullah. Weakening Covert Networks by Minimizing Inverse Geodesic Length. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 779-785. [paper](https://doi.org/10.24963/ijcai.2017/108)
-
-
-- **Query Rewriting for DL-Lite with n-ary Concrete Domains.**
-    > Franz Baader, Stefan Borgwardt, Marcel Lippmann. Query Rewriting for DL-Lite with n-ary Concrete Domains. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 786-792. [paper](https://doi.org/10.24963/ijcai.2017/109)
-
-
-- **Answering Conjunctive Regular Path Queries over Guarded Existential Rules.**
-    > Jean-François Baget, Meghyn Bienvenu, Marie-Laure Mugnier, etc. Answering Conjunctive Regular Path Queries over Guarded Existential Rules. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 793-799. [paper](https://doi.org/10.24963/ijcai.2017/110)
-
-
-- **A General Notion of Equivalence for Abstract Argumentation.**
-    > Ringo Baumann, Wolfgang Dvorák, Thomas Linsbichler, etc. A General Notion of Equivalence for Abstract Argumentation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 800-806. [paper](https://doi.org/10.24963/ijcai.2017/111)
-
-
-- **A Study of Unrestricted Abstract Argumentation Frameworks.**
-    > Ringo Baumann, Christof Spanring. A Study of Unrestricted Abstract Argumentation Frameworks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 807-813. [paper](https://doi.org/10.24963/ijcai.2017/112)
-
-
-- **A Model for Accountable Ordinal Sorting.**
-    > Khaled Belahcène, Christophe Labreuche, Nicolas Maudet, etc. A Model for Accountable Ordinal Sorting. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 814-820. [paper](https://doi.org/10.24963/ijcai.2017/113)
-
-
-- **Dynamic Logic for Data-aware Systems: Decidability Results.**
-    > Francesco Belardinelli, Andreas Herzig. Dynamic Logic for Data-aware Systems: Decidability Results. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 821-827. [paper](https://doi.org/10.24963/ijcai.2017/114)
-
-
-- **Reasoning about Probabilities in Unbounded First-Order Dynamical Domains.**
-    > Vaishak Belle, Gerhard Lakemeyer. Reasoning about Probabilities in Unbounded First-Order Dynamical Domains. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 828-836. [paper](https://doi.org/10.24963/ijcai.2017/115)
-
-
-- **Reformulating Queries: Theory and Practice.**
-    > Michael Benedikt, Egor V. Kostylev, Fabio Mogavero, etc. Reformulating Queries: Theory and Practice. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 837-843. [paper](https://doi.org/10.24963/ijcai.2017/116)
-
-
-- **Ontology-Mediated Query Answering for Key-Value Stores.**
-    > Meghyn Bienvenu, Pierre Bourhis, Marie-Laure Mugnier, etc. Ontology-Mediated Query Answering for Key-Value Stores. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 844-851. [paper](https://doi.org/10.24963/ijcai.2017/117)
-
-
-- **The Impact of Treewidth on ASP Grounding and Solving.**
-    > Bernhard Bliem, Marius Moldovan, Michael Morak, etc. The Impact of Treewidth on ASP Grounding and Solving. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 852-858. [paper](https://doi.org/10.24963/ijcai.2017/118)
-
-
-- **Safe Inductions: An Algebraic Study.**
-    > Bart Bogaerts, Joost Vennekens, Marc Denecker. Safe Inductions: An Algebraic Study. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 859-865. [paper](https://doi.org/10.24963/ijcai.2017/119)
-
-
-- **Semantics for Active Integrity Constraints Using Approximation Fixpoint Theory.**
-    > Bart Bogaerts, Luís Cruz-Filipe. Semantics for Active Integrity Constraints Using Approximation Fixpoint Theory. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 866-872. [paper](https://doi.org/10.24963/ijcai.2017/120)
-
-
-- **Generalized Planning: Non-Deterministic Abstractions and Trajectory Constraints.**
-    > Blai Bonet, Giuseppe De Giacomo, Hector Geffner, etc. Generalized Planning: Non-Deterministic Abstractions and Trajectory Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 873-879. [paper](https://doi.org/10.24963/ijcai.2017/121)
-
-
-- **Making Cross Products and Guarded Ontology Languages Compatible.**
-    > Pierre Bourhis, Michael Morak, Andreas Pieris. Making Cross Products and Guarded Ontology Languages Compatible. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 880-886. [paper](https://doi.org/10.24963/ijcai.2017/122)
-
-
-- **On Coalitional Manipulation for Multiwinner Elections: Shortlisting.**
-    > Robert Bredereck, Andrzej Kaczmarczyk, Rolf Niedermeier. On Coalitional Manipulation for Multiwinner Elections: Shortlisting. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 887-893. [paper](https://doi.org/10.24963/ijcai.2017/123)
-
-
-- **Manipulating Opinion Diffusion in Social Networks.**
-    > Robert Bredereck, Edith Elkind. Manipulating Opinion Diffusion in Social Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 894-900. [paper](https://doi.org/10.24963/ijcai.2017/124)
-
-
-- **Strong Inconsistency in Nonmonotonic Reasoning.**
-    > Gerhard Brewka, Matthias Thimm, Markus Ulbricht. Strong Inconsistency in Nonmonotonic Reasoning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 901-907. [paper](https://doi.org/10.24963/ijcai.2017/125)
-
-
-- **Classical Generalized Probabilistic Satisfiability.**
-    > Carlos Caleiro, Filipe Casal, Andreia Mordido. Classical Generalized Probabilistic Satisfiability. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 908-914. [paper](https://doi.org/10.24963/ijcai.2017/126)
-
-
-- **Budget-Constrained Dynamics in Multiagent Systems.**
-    > Rui Cao, Pavel Naumov. Budget-Constrained Dynamics in Multiagent Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 915-921. [paper](https://doi.org/10.24963/ijcai.2017/127)
-
-
-- **Restricted Chase (Non)Termination for Existential Rules with Disjunctions.**
-    > David Carral, Irina Dragoste, Markus Krötzsch. Restricted Chase (Non)Termination for Existential Rules with Disjunctions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 922-928. [paper](https://doi.org/10.24963/ijcai.2017/128)
-
-
-- **Belief Change in a Preferential Non-monotonic Framework.**
-    > Giovanni Casini, Thomas Andreas Meyer. Belief Change in a Preferential Non-monotonic Framework. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 929-935. [paper](https://doi.org/10.24963/ijcai.2017/129)
-
-
-- **An Algorithm for Constructing and Solving Imperfect Recall Abstractions of Large Extensive-Form Games.**
-    > Jiri Cermak, Branislav Bosanský, Viliam Lisý. An Algorithm for Constructing and Solving Imperfect Recall Abstractions of Large Extensive-Form Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 936-942. [paper](https://doi.org/10.24963/ijcai.2017/130)
-
-
-- **Query Answering in Ontologies under Preference Rankings.**
-    > Ismail Ilkan Ceylan, Thomas Lukasiewicz, Rafael Peñaloza, etc. Query Answering in Ontologies under Preference Rankings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 943-949. [paper](https://doi.org/10.24963/ijcai.2017/131)
-
-
-- **Most Probable Explanations for Probabilistic Database Queries.**
-    > Ismail Ilkan Ceylan, Stefan Borgwardt, Thomas Lukasiewicz. Most Probable Explanations for Probabilistic Database Queries. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 950-956. [paper](https://doi.org/10.24963/ijcai.2017/132)
-
-
-- **Learning from Ontology Streams with Semantic Concept Drift.**
-    > Jiaoyan Chen, Freddy Lécué, Jeff Z. Pan, etc. Learning from Ontology Streams with Semantic Concept Drift. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 957-963. [paper](https://doi.org/10.24963/ijcai.2017/133)
-
-
-- **Discriminative Dictionary Learning With Ranking Metric Embedded for Person Re-Identification.**
-    > De Cheng, Xiaojun Chang, Li Liu, etc. Discriminative Dictionary Learning With Ranking Metric Embedded for Person Re-Identification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 964-970. [paper](https://doi.org/10.24963/ijcai.2017/134)
-
-
-- **Handling non-local dead-ends in Agent Planning Programs.**
-    > Lukás Chrpa, Nir Lipovetzky, Sebastian Sardiña. Handling non-local dead-ends in Agent Planning Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 971-978. [paper](https://doi.org/10.24963/ijcai.2017/135)
-
-
-- **Inferring Implicit Event Locations from Context with Distributional Similarities.**
-    > Jin-Woo Chung, Wonsuk Yang, Jinseon You, etc. Inferring Implicit Event Locations from Context with Distributional Similarities. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 979-985. [paper](https://doi.org/10.24963/ijcai.2017/136)
-
-
-- **Temporal Sequences of Qualitative Information: Reasoning about the Topology of Constant-Size Moving Regions.**
-    > Quentin Cohen-Solal, Maroua Bouzid, Alexandre Niveau. Temporal Sequences of Qualitative Information: Reasoning about the Topology of Constant-Size Moving Regions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 986-992. [paper](https://doi.org/10.24963/ijcai.2017/137)
-
-
-- **On Querying Incomplete Information in Databases under Bag Semantics.**
-    > Marco Console, Paolo Guagliardo, Leonid Libkin. On Querying Incomplete Information in Databases under Bag Semantics. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 993-999. [paper](https://doi.org/10.24963/ijcai.2017/138)
-
-
 - **Streaming Multi-Context Systems.**
     > Minh Dao-Tran, Thomas Eiter. Streaming Multi-Context Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1000-1007. [paper](https://doi.org/10.24963/ijcai.2017/139)
 
 
 - **Bounded Timed Propositional Temporal Logic with Past Captures Timeline-based Planning with Bounded Constraints.**
-    > Dario Della Monica, Nicola Gigante, Angelo Montanari, etc. Bounded Timed Propositional Temporal Logic with Past Captures Timeline-based Planning with Bounded Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1008-1014. [paper](https://doi.org/10.24963/ijcai.2017/140)
+    > Dario Della Monica, Nicola Gigante, Angelo Montanari, et al. Bounded Timed Propositional Temporal Logic with Past Captures Timeline-based Planning with Bounded Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1008-1014. [paper](https://doi.org/10.24963/ijcai.2017/140)
 
 
 - **Lazy-Grounding for Answer Set Programs with External Source Access.**
@@ -564,31 +12,35 @@
 
 
 - **Process Plan Controllers for Non-Deterministic Manufacturing Systems.**
-    > Paolo Felli, Lavindra de Silva, Brian Logan, etc. Process Plan Controllers for Non-Deterministic Manufacturing Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1023-1030. [paper](https://doi.org/10.24963/ijcai.2017/142)
+    > Paolo Felli, Lavindra de Silva, Brian Logan, et al. Process Plan Controllers for Non-Deterministic Manufacturing Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1023-1030. [paper](https://doi.org/10.24963/ijcai.2017/142)
 
 
 - **Strategically knowing how.**
-    > Raul Fervari, Andreas Herzig, Yanjun Li, etc. Strategically knowing how. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1031-1038. [paper](https://doi.org/10.24963/ijcai.2017/143)
+    > Raul Fervari, Andreas Herzig, Yanjun Li, et al. Strategically knowing how. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1031-1038. [paper](https://doi.org/10.24963/ijcai.2017/143)
 
 
 - **What Can You Do with a Rock? Affordance Extraction via Word Embeddings.**
-    > Nancy Fulda, Daniel Ricks, Ben Murdoch, etc. What Can You Do with a Rock? Affordance Extraction via Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1039-1045. [paper](https://doi.org/10.24963/ijcai.2017/144)
+    > Nancy Fulda, Daniel Ricks, Ben Murdoch, et al. What Can You Do with a Rock? Affordance Extraction via Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1039-1045. [paper](https://doi.org/10.24963/ijcai.2017/144)
 
 
 - **The Tractability of the Shapley Value over Bounded Treewidth Matching Games.**
     > Gianluigi Greco, Francesco Lupia, Francesco Scarcello. The Tractability of the Shapley Value over Bounded Treewidth Matching Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1046-1052. [paper](https://doi.org/10.24963/ijcai.2017/145)
 
 
+- **Equilibria in Ordinal Games: A Framework based on Possibility Theory.**
+    > Nahla Ben Amor, Hélène Fargier, Régis Sabbadin. Equilibria in Ordinal Games: A Framework based on Possibility Theory. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 105-111. [paper](https://doi.org/10.24963/ijcai.2017/16)
+
+
 - **Non-Determinism and the Dynamics of Knowledge.**
-    > Davide Grossi, Andreas Herzig, Wiebe van der Hoek, etc. Non-Determinism and the Dynamics of Knowledge. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1053-1059. [paper](https://doi.org/10.24963/ijcai.2017/146)
+    > Davide Grossi, Andreas Herzig, Wiebe van der Hoek, et al. Non-Determinism and the Dynamics of Knowledge. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1053-1059. [paper](https://doi.org/10.24963/ijcai.2017/146)
 
 
 - **Relatedness-based Multi-Entity Summarization.**
-    > Kalpa Gunaratna, Amir Hossein Yazdavar, Krishnaprasad Thirunarayan, etc. Relatedness-based Multi-Entity Summarization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1060-1066. [paper](https://doi.org/10.24963/ijcai.2017/147)
+    > Kalpa Gunaratna, Amir Hossein Yazdavar, Krishnaprasad Thirunarayan, et al. Relatedness-based Multi-Entity Summarization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1060-1066. [paper](https://doi.org/10.24963/ijcai.2017/147)
 
 
 - **Nash Equilibria in Concurrent Games with Lexicographic Preferences.**
-    > Julian Gutierrez, Aniello Murano, Giuseppe Perelli, etc. Nash Equilibria in Concurrent Games with Lexicographic Preferences. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1067-1073. [paper](https://doi.org/10.24963/ijcai.2017/148)
+    > Julian Gutierrez, Aniello Murano, Giuseppe Perelli, et al. Nash Equilibria in Concurrent Games with Lexicographic Preferences. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1067-1073. [paper](https://doi.org/10.24963/ijcai.2017/148)
 
 
 - **Combining DL-Lite_{bool}N with Branching Time: A gentle Marriage.**
@@ -604,7 +56,11 @@
 
 
 - **A General Multi-agent Epistemic Planner Based on Higher-order Belief Change.**
-    > Xiao Huang, Biqing Fang, Hai Wan, etc. A General Multi-agent Epistemic Planner Based on Higher-order Belief Change. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1093-1101. [paper](https://doi.org/10.24963/ijcai.2017/152)
+    > Xiao Huang, Biqing Fang, Hai Wan, et al. A General Multi-agent Epistemic Planner Based on Higher-order Belief Change. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1093-1101. [paper](https://doi.org/10.24963/ijcai.2017/152)
+
+
+- **Deep Learning at Alibaba.**
+    > Rong Jin. Deep Learning at Alibaba. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 11-16. [paper](https://doi.org/10.24963/ijcai.2017/2)
 
 
 - **ATL Strategic Reasoning Meets Correlated Equilibrium.**
@@ -616,11 +72,15 @@
 
 
 - **Query Conservative Extensions in Horn Description Logics with Inverse Roles.**
-    > Jean Christoph Jung, Carsten Lutz, Mauricio Martel, etc. Query Conservative Extensions in Horn Description Logics with Inverse Roles. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1116-1122. [paper](https://doi.org/10.24963/ijcai.2017/155)
+    > Jean Christoph Jung, Carsten Lutz, Mauricio Martel, et al. Query Conservative Extensions in Horn Description Logics with Inverse Roles. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1116-1122. [paper](https://doi.org/10.24963/ijcai.2017/155)
+
+
+- **Aggressive, Tense or Shy? Identifying Personality Traits from Crowd Videos.**
+    > Aniket Bera, Tanmay Randhavane, Dinesh Manocha. Aggressive, Tense or Shy? Identifying Personality Traits from Crowd Videos. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 112-118. [paper](https://doi.org/10.24963/ijcai.2017/17)
 
 
 - **Foundations of Declarative Data Analysis Using Limit Datalog Programs.**
-    > Mark Kaminski, Bernardo Cuenca Grau, Egor V. Kostylev, etc. Foundations of Declarative Data Analysis Using Limit Datalog Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1123-1130. [paper](https://doi.org/10.24963/ijcai.2017/156)
+    > Mark Kaminski, Bernardo Cuenca Grau, Egor V. Kostylev, et al. Foundations of Declarative Data Analysis Using Limit Datalog Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1123-1130. [paper](https://doi.org/10.24963/ijcai.2017/156)
 
 
 - **Strong Syntax Splitting for Iterated Belief Revision.**
@@ -640,7 +100,7 @@
 
 
 - **Mapping Repair in Ontology-based Data Access Evolving Systems.**
-    > Domenico Lembo, Riccardo Rosati, Valerio Santarelli, etc. Mapping Repair in Ontology-based Data Access Evolving Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1160-1166. [paper](https://doi.org/10.24963/ijcai.2017/161)
+    > Domenico Lembo, Riccardo Rosati, Valerio Santarelli, et al. Mapping Repair in Ontology-based Data Access Evolving Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1160-1166. [paper](https://doi.org/10.24963/ijcai.2017/161)
 
 
 - **Temporalising Separation Logic for Planning with Search Control Knowledge.**
@@ -648,7 +108,7 @@
 
 
 - **A Data-Driven Approach to Infer Knowledge Base Representation for Natural Language Relations.**
-    > Kangqi Luo, Xusheng Luo, Xianyang Chen, etc. A Data-Driven Approach to Infer Knowledge Base Representation for Natural Language Relations. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1174-1180. [paper](https://doi.org/10.24963/ijcai.2017/163)
+    > Kangqi Luo, Xusheng Luo, Xianyang Chen, et al. A Data-Driven Approach to Infer Knowledge Base Representation for Natural Language Relations. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1174-1180. [paper](https://doi.org/10.24963/ijcai.2017/163)
 
 
 - **Ontology-Mediated Querying with the Description Logic EL: Trichotomy and Linear Datalog Rewritability.**
@@ -657,6 +117,10 @@
 
 - **Logic on MARS: Ontologies for Generalised Property Graphs.**
     > Maximilian Marx, Markus Krötzsch, Veronika Thost. Logic on MARS: Ontologies for Generalised Property Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1188-1194. [paper](https://doi.org/10.24963/ijcai.2017/165)
+
+
+- **Computing Bayes-Nash Equilibria in Combinatorial Auctions with Continuous Value and Action Spaces.**
+    > Vitor Bosshard, Benedikt Bünz, Benjamin Lubin, et al. Computing Bayes-Nash Equilibria in Combinatorial Auctions with Continuous Value and Action Spaces. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 119-127. [paper](https://doi.org/10.24963/ijcai.2017/18)
 
 
 - **Context-aware Path Ranking for Knowledge Base Completion.**
@@ -672,15 +136,15 @@
 
 
 - **Generalized Target Assignment and Path Finding Using Answer Set Programming.**
-    > Van Nguyen, Philipp Obermeier, Tran Cao Son, etc. Generalized Target Assignment and Path Finding Using Answer Set Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1216-1223. [paper](https://doi.org/10.24963/ijcai.2017/169)
+    > Van Nguyen, Philipp Obermeier, Tran Cao Son, et al. Generalized Target Assignment and Path Finding Using Answer Set Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1216-1223. [paper](https://doi.org/10.24963/ijcai.2017/169)
 
 
 - **The Bag Semantics of Ontology-Based Data Access.**
-    > Charalampos Nikolaou, Egor V. Kostylev, George Konstantinidis, etc. The Bag Semantics of Ontology-Based Data Access. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1224-1230. [paper](https://doi.org/10.24963/ijcai.2017/170)
+    > Charalampos Nikolaou, Egor V. Kostylev, George Konstantinidis, et al. The Bag Semantics of Ontology-Based Data Access. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1224-1230. [paper](https://doi.org/10.24963/ijcai.2017/170)
 
 
 - **Efficient and Complete FD-solving for extended array constraints.**
-    > Quentin Plazar, Mathieu Acher, Sébastien Bardin, etc. Efficient and Complete FD-solving for extended array constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1231-1238. [paper](https://doi.org/10.24963/ijcai.2017/171)
+    > Quentin Plazar, Mathieu Acher, Sébastien Bardin, et al. Efficient and Complete FD-solving for extended array constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1231-1238. [paper](https://doi.org/10.24963/ijcai.2017/171)
 
 
 - **Conflict-driven ASP Solving with External Sources and Program Splits.**
@@ -700,23 +164,27 @@
 
 
 - **On Computing World Views of Epistemic Logic Programs.**
-    > Tran Cao Son, Tiep Le, Patrick Thor Kahl, etc. On Computing World Views of Epistemic Logic Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1269-1275. [paper](https://doi.org/10.24963/ijcai.2017/176)
+    > Tran Cao Son, Tiep Le, Patrick Thor Kahl, et al. On Computing World Views of Epistemic Logic Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1269-1275. [paper](https://doi.org/10.24963/ijcai.2017/176)
 
 
 - **GDL-III: A Description Language for Epistemic General Game Playing.**
     > Michael Thielscher. GDL-III: A Description Language for Epistemic General Game Playing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1276-1282. [paper](https://doi.org/10.24963/ijcai.2017/177)
 
 
+- **Voting by sequential elimination with few voters.**
+    > Sylvain Bouveret, Yann Chevaleyre, François Durand, et al. Voting by sequential elimination with few voters. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 128-134. [paper](https://doi.org/10.24963/ijcai.2017/19)
+
+
 - **How a General-Purpose Commonsense Ontology can Improve Performance of Learning-Based Image Retrieval.**
-    > Rodrigo Toro Icarte, Jorge A. Baier, Cristian Ruz, etc. How a General-Purpose Commonsense Ontology can Improve Performance of Learning-Based Image Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1283-1289. [paper](https://doi.org/10.24963/ijcai.2017/178)
+    > Rodrigo Toro Icarte, Jorge A. Baier, Cristian Ruz, et al. How a General-Purpose Commonsense Ontology can Improve Performance of Learning-Based Image Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1283-1289. [paper](https://doi.org/10.24963/ijcai.2017/178)
 
 
 - **Explicit Knowledge-based Reasoning for Visual Question Answering.**
-    > Peng Wang, Qi Wu, Chunhua Shen, etc. Explicit Knowledge-based Reasoning for Visual Question Answering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1290-1296. [paper](https://doi.org/10.24963/ijcai.2017/179)
+    > Peng Wang, Qi Wu, Chunhua Shen, et al. Explicit Knowledge-based Reasoning for Visual Question Answering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1290-1296. [paper](https://doi.org/10.24963/ijcai.2017/179)
 
 
 - **Inferring Human Attention by Learning Latent Intentions.**
-    > Ping Wei, Dan Xie, Nanning Zheng, etc. Inferring Human Attention by Learning Latent Intentions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1297-1303. [paper](https://doi.org/10.24963/ijcai.2017/180)
+    > Ping Wei, Dan Xie, Nanning Zheng, et al. Inferring Human Attention by Learning Latent Intentions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1297-1303. [paper](https://doi.org/10.24963/ijcai.2017/180)
 
 
 - **A Characterization Theorem for a Modal Description Logic.**
@@ -728,11 +196,11 @@
 
 
 - **Knowledge Graph Representation with Jointly Structural and Textual Encoding.**
-    > Jiacheng Xu, Xipeng Qiu, Kan Chen, etc. Knowledge Graph Representation with Jointly Structural and Textual Encoding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1318-1324. [paper](https://doi.org/10.24963/ijcai.2017/183)
+    > Jiacheng Xu, Xipeng Qiu, Kan Chen, et al. Knowledge Graph Representation with Jointly Structural and Textual Encoding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1318-1324. [paper](https://doi.org/10.24963/ijcai.2017/183)
 
 
 - **Aggregating Crowd Wisdoms with Label-aware Autoencoders.**
-    > Li&apos;ang Yin, Jianhua Han, Weinan Zhang, etc. Aggregating Crowd Wisdoms with Label-aware Autoencoders. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1325-1331. [paper](https://doi.org/10.24963/ijcai.2017/184)
+    > Li&apos;ang Yin, Jianhua Han, Weinan Zhang, et al. Aggregating Crowd Wisdoms with Label-aware Autoencoders. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1325-1331. [paper](https://doi.org/10.24963/ijcai.2017/184)
 
 
 - **Proposing a Highly Accurate Hybrid Component-Based Factorised Preference Model in Recommender Systems.**
@@ -744,7 +212,11 @@
 
 
 - **Causal Discovery from Nonstationary/Heterogeneous Data: Skeleton Estimation and Orientation Determination.**
-    > Kun Zhang, Biwei Huang, Jiji Zhang, etc. Causal Discovery from Nonstationary/Heterogeneous Data: Skeleton Estimation and Orientation Determination. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1347-1353. [paper](https://doi.org/10.24963/ijcai.2017/187)
+    > Kun Zhang, Biwei Huang, Jiji Zhang, et al. Causal Discovery from Nonstationary/Heterogeneous Data: Skeleton Estimation and Orientation Determination. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1347-1353. [paper](https://doi.org/10.24963/ijcai.2017/187)
+
+
+- **Fair Division of a Graph.**
+    > Sylvain Bouveret, Katarína Cechlárová, Edith Elkind, et al. Fair Division of a Graph. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 135-141. [paper](https://doi.org/10.24963/ijcai.2017/20)
 
 
 - **Role Forgetting for ALCOQH(universal role)-Ontologies Using an Ackermann-Based Approach.**
@@ -752,23 +224,23 @@
 
 
 - **Symbolic LTLf Synthesis.**
-    > Shufang Zhu, Lucas M. Tabajara, Jianwen Li, etc. Symbolic LTLf Synthesis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1362-1369. [paper](https://doi.org/10.24963/ijcai.2017/189)
+    > Shufang Zhu, Lucas M. Tabajara, Jianwen Li, et al. Symbolic LTLf Synthesis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1362-1369. [paper](https://doi.org/10.24963/ijcai.2017/189)
 
 
 - **A Unifying Framework for Probabilistic Belief Revision.**
-    > Zhiqiang Zhuang, James P. Delgrande, Abhaya C. Nayak, etc. A Unifying Framework for Probabilistic Belief Revision. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1370-1376. [paper](https://doi.org/10.24963/ijcai.2017/190)
+    > Zhiqiang Zhuang, James P. Delgrande, Abhaya C. Nayak, et al. A Unifying Framework for Probabilistic Belief Revision. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1370-1376. [paper](https://doi.org/10.24963/ijcai.2017/190)
 
 
 - **Contextual Covariance Matrix Adaptation Evolutionary Strategies.**
-    > Abbas Abdolmaleki, Bob Price, Nuno Lau, etc. Contextual Covariance Matrix Adaptation Evolutionary Strategies. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1378-1385. [paper](https://doi.org/10.24963/ijcai.2017/191)
+    > Abbas Abdolmaleki, Bob Price, Nuno Lau, et al. Contextual Covariance Matrix Adaptation Evolutionary Strategies. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1378-1385. [paper](https://doi.org/10.24963/ijcai.2017/191)
 
 
 - **RHash: Robust Hashing via L_infinity-norm Distortion.**
-    > Amirali Aghazadeh, Andrew S. Lan, Anshumali Shrivastava, etc. RHash: Robust Hashing via L_infinity-norm Distortion. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1386-1394. [paper](https://doi.org/10.24963/ijcai.2017/192)
+    > Amirali Aghazadeh, Andrew S. Lan, Anshumali Shrivastava, et al. RHash: Robust Hashing via L_infinity-norm Distortion. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1386-1394. [paper](https://doi.org/10.24963/ijcai.2017/192)
 
 
 - **Grounding of Human Environments and Activities for Autonomous Robots.**
-    > Muhannad Al-Omari, Paul Duckworth, Nils Bore, etc. Grounding of Human Environments and Activities for Autonomous Robots. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1395-1402. [paper](https://doi.org/10.24963/ijcai.2017/193)
+    > Muhannad Al-Omari, Paul Duckworth, Nils Bore, et al. Grounding of Human Environments and Activities for Autonomous Robots. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1395-1402. [paper](https://doi.org/10.24963/ijcai.2017/193)
 
 
 - **Universal Reinforcement Learning Algorithms: Survey and Experiments.**
@@ -776,15 +248,19 @@
 
 
 - **Bayesian Aggregation of Categorical Distributions with Applications in Crowdsourcing.**
-    > Alexandry Augustin, Matteo Venanzi, Alex Rogers, etc. Bayesian Aggregation of Categorical Distributions with Applications in Crowdsourcing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1411-1417. [paper](https://doi.org/10.24963/ijcai.2017/195)
+    > Alexandry Augustin, Matteo Venanzi, Alex Rogers, et al. Bayesian Aggregation of Categorical Distributions with Applications in Crowdsourcing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1411-1417. [paper](https://doi.org/10.24963/ijcai.2017/195)
 
 
 - **Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions.**
     > Aijun Bai, Stuart Russell. Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1418-1424. [paper](https://doi.org/10.24963/ijcai.2017/196)
 
 
+- **Bounding the Inefficiency of Compromise.**
+    > Ioannis Caragiannis, Panagiotis Kanellopoulos, Alexandros A. Voudouris. Bounding the Inefficiency of Compromise. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 142-148. [paper](https://doi.org/10.24963/ijcai.2017/21)
+
+
 - **Mining Convex Polygon Patterns with Formal Concept Analysis.**
-    > Aimene Belfodil, Sergei O. Kuznetsov, Céline Robardet, etc. Mining Convex Polygon Patterns with Formal Concept Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1425-1432. [paper](https://doi.org/10.24963/ijcai.2017/197)
+    > Aimene Belfodil, Sergei O. Kuznetsov, Céline Robardet, et al. Mining Convex Polygon Patterns with Formal Concept Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1425-1432. [paper](https://doi.org/10.24963/ijcai.2017/197)
 
 
 - **Handling Noise in Boolean Matrix Factorization.**
@@ -796,7 +272,7 @@
 
 
 - **Unsupervised Learning of Deep Feature Representation for Clustering Egocentric Actions.**
-    > Bharat Lal Bhatnagar, Suriya Singh, Chetan Arora, etc. Unsupervised Learning of Deep Feature Representation for Clustering Egocentric Actions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1447-1453. [paper](https://doi.org/10.24963/ijcai.2017/200)
+    > Bharat Lal Bhatnagar, Suriya Singh, Chetan Arora, et al. Unsupervised Learning of Deep Feature Representation for Clustering Egocentric Actions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1447-1453. [paper](https://doi.org/10.24963/ijcai.2017/200)
 
 
 - **Using Graphs of Classifiers to Impose Declarative Constraints on Semi-supervised Learning.**
@@ -808,7 +284,7 @@
 
 
 - **Context Attentive Bandits: Contextual Bandit with Restricted Context.**
-    > Djallel Bouneffouf, Irina Rish, Guillermo A. Cecchi, etc. Context Attentive Bandits: Contextual Bandit with Restricted Context. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1468-1475. [paper](https://doi.org/10.24963/ijcai.2017/203)
+    > Djallel Bouneffouf, Irina Rish, Guillermo A. Cecchi, et al. Context Attentive Bandits: Contextual Bandit with Restricted Context. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1468-1475. [paper](https://doi.org/10.24963/ijcai.2017/203)
 
 
 - **SPMC: Socially-Aware Personalized Markov Chains for Sparse Sequential Recommendation.**
@@ -819,12 +295,16 @@
     > Zhu Cao, Linlin Wang, Gerard de Melo. Multiple-Weight Recurrent Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1483-1489. [paper](https://doi.org/10.24963/ijcai.2017/205)
 
 
+- **Learning a Ground Truth Ranking Using Noisy Approval Votes.**
+    > Ioannis Caragiannis, Evi Micha. Learning a Ground Truth Ranking Using Noisy Approval Votes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 149-155. [paper](https://doi.org/10.24963/ijcai.2017/22)
+
+
 - **Encoding and Recall of Spatio-Temporal Episodic Memory in Real Time.**
     > Poo-Hee Chang, Ah-Hwee Tan. Encoding and Recall of Spatio-Temporal Episodic Memory in Real Time. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1490-1496. [paper](https://doi.org/10.24963/ijcai.2017/206)
 
 
 - **Data-driven Random Fourier Features using Stein Effect.**
-    > Wei-Cheng Chang, Chun-Liang Li, Yiming Yang, etc. Data-driven Random Fourier Features using Stein Effect. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1497-1503. [paper](https://doi.org/10.24963/ijcai.2017/207)
+    > Wei-Cheng Chang, Chun-Liang Li, Yiming Yang, et al. Data-driven Random Fourier Features using Stein Effect. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1497-1503. [paper](https://doi.org/10.24963/ijcai.2017/207)
 
 
 - **Importance-Aware Semantic Segmentation for Autonomous Driving System.**
@@ -832,19 +312,19 @@
 
 
 - **Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment.**
-    > Muhao Chen, Yingtao Tian, Mohan Yang, etc. Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1511-1517. [paper](https://doi.org/10.24963/ijcai.2017/209)
+    > Muhao Chen, Yingtao Tian, Mohan Yang, et al. Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1511-1517. [paper](https://doi.org/10.24963/ijcai.2017/209)
 
 
 - **Scalable Normalized Cut with Improved Spectral Rotation.**
-    > Xiaojun Chen, Feiping Nie, Joshua Zhexue Huang, etc. Scalable Normalized Cut with Improved Spectral Rotation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1518-1524. [paper](https://doi.org/10.24963/ijcai.2017/210)
+    > Xiaojun Chen, Feiping Nie, Joshua Zhexue Huang, et al. Scalable Normalized Cut with Improved Spectral Rotation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1518-1524. [paper](https://doi.org/10.24963/ijcai.2017/210)
 
 
 - **Semi-supervised Feature Selection via Rescaled Linear Regression.**
-    > Xiaojun Chen, Guowen Yuan, Feiping Nie, etc. Semi-supervised Feature Selection via Rescaled Linear Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1525-1531. [paper](https://doi.org/10.24963/ijcai.2017/211)
+    > Xiaojun Chen, Guowen Yuan, Feiping Nie, et al. Semi-supervised Feature Selection via Rescaled Linear Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1525-1531. [paper](https://doi.org/10.24963/ijcai.2017/211)
 
 
 - **Training Group Orthogonal Neural Networks with Privileged Information.**
-    > Yunpeng Chen, Xiaojie Jin, Jiashi Feng, etc. Training Group Orthogonal Neural Networks with Privileged Information. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1532-1538. [paper](https://doi.org/10.24963/ijcai.2017/212)
+    > Yunpeng Chen, Xiaojie Jin, Jiashi Feng, et al. Training Group Orthogonal Neural Networks with Privileged Information. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1532-1538. [paper](https://doi.org/10.24963/ijcai.2017/212)
 
 
 - **Projection Free Rank-Drop Steps.**
@@ -852,11 +332,15 @@
 
 
 - **End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks.**
-    > Min-Je Choi, Sehun Jeong, Hakjoo Oh, etc. End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1546-1553. [paper](https://doi.org/10.24963/ijcai.2017/214)
+    > Min-Je Choi, Sehun Jeong, Hakjoo Oh, et al. End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1546-1553. [paper](https://doi.org/10.24963/ijcai.2017/214)
 
 
 - **Optimal Feature Selection for Decision Robustness in Bayesian Networks.**
     > YooJung Choi, Adnan Darwiche, Guy Van den Broeck. Optimal Feature Selection for Decision Robustness in Bayesian Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1554-1560. [paper](https://doi.org/10.24963/ijcai.2017/215)
+
+
+- **Plan Explanations as Model Reconciliation: Moving Beyond Explanation as Soliloquy.**
+    > Tathagata Chakraborti, Sarath Sreedharan, Yu Zhang, et al. Plan Explanations as Model Reconciliation: Moving Beyond Explanation as Soliloquy. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 156-163. [paper](https://doi.org/10.24963/ijcai.2017/23)
 
 
 - **Stacked Similarity-Aware Autoencoders.**
@@ -864,11 +348,11 @@
 
 
 - **Further Results on Predicting Cognitive Abilities for Adaptive Visualizations.**
-    > Cristina Conati, Sébastien Lallé, Md. Abed Rahman, etc. Further Results on Predicting Cognitive Abilities for Adaptive Visualizations. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1568-1574. [paper](https://doi.org/10.24963/ijcai.2017/217)
+    > Cristina Conati, Sébastien Lallé, Md. Abed Rahman, et al. Further Results on Predicting Cognitive Abilities for Adaptive Visualizations. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1568-1574. [paper](https://doi.org/10.24963/ijcai.2017/217)
 
 
 - **Analogy-preserving functions: A way to extend Boolean samples.**
-    > Miguel Couceiro, Nicolas Hug, Henri Prade, etc. Analogy-preserving functions: A way to extend Boolean samples. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1575-1581. [paper](https://doi.org/10.24963/ijcai.2017/218)
+    > Miguel Couceiro, Nicolas Hug, Henri Prade, et al. Analogy-preserving functions: A way to extend Boolean samples. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1575-1581. [paper](https://doi.org/10.24963/ijcai.2017/218)
 
 
 - **Real-Time Navigation in Classical Platform Games via Skill Reuse.**
@@ -884,7 +368,7 @@
 
 
 - **Autoencoder Regularized Network For Driving Style Representation Learning.**
-    > Weishan Dong, Ting Yuan, Kai Yang, etc. Autoencoder Regularized Network For Driving Style Representation Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1603-1609. [paper](https://doi.org/10.24963/ijcai.2017/222)
+    > Weishan Dong, Ting Yuan, Kai Yang, et al. Autoencoder Regularized Network For Driving Style Representation Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1603-1609. [paper](https://doi.org/10.24963/ijcai.2017/222)
 
 
 - **Privileged Matrix Factorization for Collaborative Filtering.**
@@ -896,7 +380,7 @@
 
 
 - **Semi-Supervised Learning for Surface EMG-based Gesture Recognition.**
-    > Yu Du, Yongkang Wong, Wenguang Jin, etc. Semi-Supervised Learning for Surface EMG-based Gesture Recognition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1624-1630. [paper](https://doi.org/10.24963/ijcai.2017/225)
+    > Yu Du, Yongkang Wong, Wenguang Jin, et al. Semi-Supervised Learning for Surface EMG-based Gesture Recognition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1624-1630. [paper](https://doi.org/10.24963/ijcai.2017/225)
 
 
 - **Clustering-Based Relational Unsupervised Representation Learning with an Explicit Distributed Representation.**
@@ -907,20 +391,24 @@
     > Kevin Ellis, Sumit Gulwani. Learning to Learn Programs from Examples: Going Beyond Program Structure. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1638-1645. [paper](https://doi.org/10.24963/ijcai.2017/227)
 
 
+- **Coordinated Versus Decentralized Exploration In Multi-Agent Multi-Armed Bandits.**
+    > Mithun Chakraborty, Kai Yee Phoebe Chua, Sanmay Das, et al. Coordinated Versus Decentralized Exploration In Multi-Agent Multi-Armed Bandits. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 164-170. [paper](https://doi.org/10.24963/ijcai.2017/24)
+
+
 - **Top-k Supervise Feature Selection via ADMM for Integer Programming.**
-    > Mingyu Fan, Xiaojun Chang, Xiaoqin Zhang, etc. Top-k Supervise Feature Selection via ADMM for Integer Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1646-1653. [paper](https://doi.org/10.24963/ijcai.2017/228)
+    > Mingyu Fan, Xiaojun Chang, Xiaoqin Zhang, et al. Top-k Supervise Feature Selection via ADMM for Integer Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1646-1653. [paper](https://doi.org/10.24963/ijcai.2017/228)
 
 
 - **Improved Bounded Matrix Completion for Large-Scale Recommender Systems.**
-    > Huang Fang, Zhen Zhang, Yiqun Shao, etc. Improved Bounded Matrix Completion for Large-Scale Recommender Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1654-1660. [paper](https://doi.org/10.24963/ijcai.2017/229)
+    > Huang Fang, Zhen Zhang, Yiqun Shao, et al. Improved Bounded Matrix Completion for Large-Scale Recommender Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1654-1660. [paper](https://doi.org/10.24963/ijcai.2017/229)
 
 
 - **Object Detection Meets Knowledge Graphs.**
-    > Yuan Fang, Kingsley Kuan, Jie Lin, etc. Object Detection Meets Knowledge Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1661-1667. [paper](https://doi.org/10.24963/ijcai.2017/230)
+    > Yuan Fang, Kingsley Kuan, Jie Lin, et al. Object Detection Meets Knowledge Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1661-1667. [paper](https://doi.org/10.24963/ijcai.2017/230)
 
 
 - **Dynamic Multi-Task Learning with Convolutional Neural Network.**
-    > Yuchun Fang, Zhengyan Ma, Zhaoxiang Zhang, etc. Dynamic Multi-Task Learning with Convolutional Neural Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1668-1674. [paper](https://doi.org/10.24963/ijcai.2017/231)
+    > Yuchun Fang, Zhengyan Ma, Zhaoxiang Zhang, et al. Dynamic Multi-Task Learning with Convolutional Neural Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1668-1674. [paper](https://doi.org/10.24963/ijcai.2017/231)
 
 
 - **On the Complexity of Learning from Label Proportions.**
@@ -928,19 +416,27 @@
 
 
 - **SVD-Based Screening for the Graphical Lasso.**
-    > Yasuhiro Fujiwara, Naoki Marumo, Mathieu Blondel, etc. SVD-Based Screening for the Graphical Lasso. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1682-1688. [paper](https://doi.org/10.24963/ijcai.2017/233)
+    > Yasuhiro Fujiwara, Naoki Marumo, Mathieu Blondel, et al. SVD-Based Screening for the Graphical Lasso. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1682-1688. [paper](https://doi.org/10.24963/ijcai.2017/233)
 
 
 - **Identifying Human Mobility via Trajectory Embeddings.**
-    > Qiang Gao, Fan Zhou, Kunpeng Zhang, etc. Identifying Human Mobility via Trajectory Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1689-1695. [paper](https://doi.org/10.24963/ijcai.2017/234)
+    > Qiang Gao, Fan Zhou, Kunpeng Zhang, et al. Identifying Human Mobility via Trajectory Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1689-1695. [paper](https://doi.org/10.24963/ijcai.2017/234)
 
 
 - **Neurogenesis-Inspired Dictionary Learning: Online Model Adaption in a Changing World.**
-    > Sahil Garg, Irina Rish, Guillermo A. Cecchi, etc. Neurogenesis-Inspired Dictionary Learning: Online Model Adaption in a Changing World. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1696-1702. [paper](https://doi.org/10.24963/ijcai.2017/235)
+    > Sahil Garg, Irina Rish, Guillermo A. Cecchi, et al. Neurogenesis-Inspired Dictionary Learning: Online Model Adaption in a Changing World. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1696-1702. [paper](https://doi.org/10.24963/ijcai.2017/235)
+
+
+- **From Automation to Autonomous Systems: A Legal Phenomenology with Problems of Accountability.**
+    > Ugo Pagallo. From Automation to Autonomous Systems: A Legal Phenomenology with Problems of Accountability. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 17-23. [paper](https://doi.org/10.24963/ijcai.2017/3)
 
 
 - **Towards Understanding the Invertibility of Convolutional Neural Networks.**
-    > Anna C. Gilbert, Yi Zhang, Kibok Lee, etc. Towards Understanding the Invertibility of Convolutional Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1703-1710. [paper](https://doi.org/10.24963/ijcai.2017/236)
+    > Anna C. Gilbert, Yi Zhang, Kibok Lee, et al. Towards Understanding the Invertibility of Convolutional Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1703-1710. [paper](https://doi.org/10.24963/ijcai.2017/236)
+
+
+- **Pessimistic Leader-Follower Equilibria with Multiple Followers.**
+    > Stefano Coniglio, Nicola Gatti, Alberto Marchesi. Pessimistic Leader-Follower Equilibria with Multiple Followers. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 171-177. [paper](https://doi.org/10.24963/ijcai.2017/25)
 
 
 - **Sample Efficient Policy Search for Optimal Stopping Domains.**
@@ -952,7 +448,7 @@
 
 
 - **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction.**
-    > Huifeng Guo, Ruiming Tang, Yunming Ye, etc. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1725-1731. [paper](https://doi.org/10.24963/ijcai.2017/239)
+    > Huifeng Guo, Ruiming Tang, Yunming Ye, et al. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1725-1731. [paper](https://doi.org/10.24963/ijcai.2017/239)
 
 
 - **A Density-based Nonparametric Model for Online Event Discovery from the Social Media Data.**
@@ -968,23 +464,27 @@
 
 
 - **Improved Deep Embedded Clustering with Local Structure Preservation.**
-    > Xifeng Guo, Long Gao, Xinwang Liu, etc. Improved Deep Embedded Clustering with Local Structure Preservation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1753-1759. [paper](https://doi.org/10.24963/ijcai.2017/243)
+    > Xifeng Guo, Long Gao, Xinwang Liu, et al. Improved Deep Embedded Clustering with Local Structure Preservation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1753-1759. [paper](https://doi.org/10.24963/ijcai.2017/243)
 
 
 - **Robust Asymmetric Bayesian Adaptive Matrix Factorization.**
-    > Xin Guo, Boyuan Pan, Deng Cai, etc. Robust Asymmetric Bayesian Adaptive Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1760-1766. [paper](https://doi.org/10.24963/ijcai.2017/244)
+    > Xin Guo, Boyuan Pan, Deng Cai, et al. Robust Asymmetric Bayesian Adaptive Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1760-1766. [paper](https://doi.org/10.24963/ijcai.2017/244)
 
 
 - **SitNet: Discrete Similarity Transfer Network for Zero-shot Hashing.**
-    > Yuchen Guo, Guiguang Ding, Jungong Han, etc. SitNet: Discrete Similarity Transfer Network for Zero-shot Hashing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1767-1773. [paper](https://doi.org/10.24963/ijcai.2017/245)
+    > Yuchen Guo, Guiguang Ding, Jungong Han, et al. SitNet: Discrete Similarity Transfer Network for Zero-shot Hashing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1767-1773. [paper](https://doi.org/10.24963/ijcai.2017/245)
 
 
 - **Synthesizing Samples for Zero-shot Learning.**
-    > Yuchen Guo, Guiguang Ding, Jungong Han, etc. Synthesizing Samples for Zero-shot Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1774-1780. [paper](https://doi.org/10.24963/ijcai.2017/246)
+    > Yuchen Guo, Guiguang Ding, Jungong Han, et al. Synthesizing Samples for Zero-shot Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1774-1780. [paper](https://doi.org/10.24963/ijcai.2017/246)
+
+
+- **No Pizza for You: Value-based Plan Selection in BDI Agents.**
+    > Stephen Cranefield, Michael Winikoff, Virginia Dignum, et al. No Pizza for You: Value-based Plan Selection in BDI Agents. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 178-184. [paper](https://doi.org/10.24963/ijcai.2017/26)
 
 
 - **Understanding Users&apos; Budgets for Recommendation with Hierarchical Poisson Factorization.**
-    > Yunhui Guo, Congfu Xu, Hanzhang Song, etc. Understanding Users&apos; Budgets for Recommendation with Hierarchical Poisson Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1781-1787. [paper](https://doi.org/10.24963/ijcai.2017/247)
+    > Yunhui Guo, Congfu Xu, Hanzhang Song, et al. Understanding Users&apos; Budgets for Recommendation with Hierarchical Poisson Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1781-1787. [paper](https://doi.org/10.24963/ijcai.2017/247)
 
 
 - **Improved Strong Worst-case Upper Bounds for MDP Planning.**
@@ -996,7 +496,7 @@
 
 
 - **Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach.**
-    > Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, etc. Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1802-1808. [paper](https://doi.org/10.24963/ijcai.2017/250)
+    > Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, et al. Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1802-1808. [paper](https://doi.org/10.24963/ijcai.2017/250)
 
 
 - **Orthogonal and Nonnegative Graph Reconstruction for Large Scale Clustering.**
@@ -1004,15 +504,15 @@
 
 
 - **Self-paced Mixture of Regressions.**
-    > Longfei Han, Dingwen Zhang, Dong Huang, etc. Self-paced Mixture of Regressions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1816-1822. [paper](https://doi.org/10.24963/ijcai.2017/252)
+    > Longfei Han, Dingwen Zhang, Dong Huang, et al. Self-paced Mixture of Regressions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1816-1822. [paper](https://doi.org/10.24963/ijcai.2017/252)
 
 
 - **Online Multitask Relative Similarity Learning.**
-    > Shuji Hao, Peilin Zhao, Yong Liu, etc. Online Multitask Relative Similarity Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1823-1829. [paper](https://doi.org/10.24963/ijcai.2017/253)
+    > Shuji Hao, Peilin Zhao, Yong Liu, et al. Online Multitask Relative Similarity Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1823-1829. [paper](https://doi.org/10.24963/ijcai.2017/253)
 
 
 - **Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel.**
-    > Jia He, Changying Du, Changde Du, etc. Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1830-1836. [paper](https://doi.org/10.24963/ijcai.2017/254)
+    > Jia He, Changying Du, Changde Du, et al. Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1830-1836. [paper](https://doi.org/10.24963/ijcai.2017/254)
 
 
 - **Category-aware Next Point-of-Interest Recommendation via Listwise Bayesian Personalized Ranking.**
@@ -1023,16 +523,20 @@
     > Bo-Jian Hou, Lijun Zhang, Zhi-Hua Zhou. Storage Fit Learning with Unlabeled Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1844-1850. [paper](https://doi.org/10.24963/ijcai.2017/256)
 
 
+- **Interaction-based ontology alignment repair with expansion and relaxation.**
+    > Jérôme Euzenat. Interaction-based ontology alignment repair with expansion and relaxation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 185-191. [paper](https://doi.org/10.24963/ijcai.2017/27)
+
+
 - **Fast Recursive Low-rank Tensor Learning for Regression.**
     > Ming Hou, Brahim Chaib-draa. Fast Recursive Low-rank Tensor Learning for Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1851-1857. [paper](https://doi.org/10.24963/ijcai.2017/257)
 
 
 - **Diversifying Personalized Recommendation with User-session Context.**
-    > Liang Hu, Longbing Cao, Shoujin Wang, etc. Diversifying Personalized Recommendation with User-session Context. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1858-1864. [paper](https://doi.org/10.24963/ijcai.2017/258)
+    > Liang Hu, Longbing Cao, Shoujin Wang, et al. Diversifying Personalized Recommendation with User-session Context. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1858-1864. [paper](https://doi.org/10.24963/ijcai.2017/258)
 
 
 - **Semi-supervised Max-margin Topic Model with Manifold Posterior Regularization.**
-    > Wenbo Hu, Jun Zhu, Hang Su, etc. Semi-supervised Max-margin Topic Model with Manifold Posterior Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1865-1871. [paper](https://doi.org/10.24963/ijcai.2017/259)
+    > Wenbo Hu, Jun Zhu, Hang Su, et al. Semi-supervised Max-margin Topic Model with Manifold Posterior Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1865-1871. [paper](https://doi.org/10.24963/ijcai.2017/259)
 
 
 - **Mention Recommendation for Twitter with End-to-end Memory Network.**
@@ -1040,7 +544,7 @@
 
 
 - **Cost-Effective Active Learning from Diverse Labelers.**
-    > Sheng-Jun Huang, Jia-Lve Chen, Xin Mu, etc. Cost-Effective Active Learning from Diverse Labelers. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1879-1885. [paper](https://doi.org/10.24963/ijcai.2017/261)
+    > Sheng-Jun Huang, Jia-Lve Chen, Xin Mu, et al. Cost-Effective Active Learning from Diverse Labelers. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1879-1885. [paper](https://doi.org/10.24963/ijcai.2017/261)
 
 
 - **Multi-instance multi-label active learning.**
@@ -1052,7 +556,7 @@
 
 
 - **Incremental Matrix Factorization: A Linear Feature Transformation Perspective.**
-    > Xunpeng Huang, Le Wu, Enhong Chen, etc. Incremental Matrix Factorization: A Linear Feature Transformation Perspective. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1901-1908. [paper](https://doi.org/10.24963/ijcai.2017/264)
+    > Xunpeng Huang, Le Wu, Enhong Chen, et al. Incremental Matrix Factorization: A Linear Feature Transformation Perspective. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1901-1908. [paper](https://doi.org/10.24963/ijcai.2017/264)
 
 
 - **Enhancing the Unified Features to Locate Buggy Files by Exploiting the Sequential Nature of Source Code.**
@@ -1063,32 +567,36 @@
     > Zeng-Wei Huo, Xin Geng. Ordinal Zero-Shot Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1916-1922. [paper](https://doi.org/10.24963/ijcai.2017/266)
 
 
+- **Multiwinner Rules on Paths From k-Borda to Chamberlin-Courant.**
+    > Piotr Faliszewski, Piotr Skowron, Arkadii Slinko, et al. Multiwinner Rules on Paths From k-Borda to Chamberlin-Courant. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 192-198. [paper](https://doi.org/10.24963/ijcai.2017/28)
+
+
 - **Adaptive Learning Rate via Covariance Matrix Based Preconditioning for Deep Neural Networks.**
     > Yasutoshi Ida, Yasuhiro Fujiwara, Sotetsu Iwamura. Adaptive Learning Rate via Covariance Matrix Based Preconditioning for Deep Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1923-1929. [paper](https://doi.org/10.24963/ijcai.2017/267)
 
 
 - **Privacy Issues Regarding the Application of DNNs to Activity-Recognition using Wearables and Its Countermeasures by Use of Adversarial Training.**
-    > Yusuke Iwasawa, Kotaro Nakayama, Ikuko Yairi, etc. Privacy Issues Regarding the Application of DNNs to Activity-Recognition using Wearables and Its Countermeasures by Use of Adversarial Training. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1930-1936. [paper](https://doi.org/10.24963/ijcai.2017/268)
+    > Yusuke Iwasawa, Kotaro Nakayama, Ikuko Yairi, et al. Privacy Issues Regarding the Application of DNNs to Activity-Recognition using Wearables and Its Countermeasures by Use of Adversarial Training. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1930-1936. [paper](https://doi.org/10.24963/ijcai.2017/268)
 
 
 - **Embedding-based Representation of Categorical Data by Hierarchical Value Coupling Learning.**
-    > Songlei Jian, Longbing Cao, Guansong Pang, etc. Embedding-based Representation of Categorical Data by Hierarchical Value Coupling Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1937-1943. [paper](https://doi.org/10.24963/ijcai.2017/269)
+    > Songlei Jian, Longbing Cao, Guansong Pang, et al. Embedding-based Representation of Categorical Data by Hierarchical Value Coupling Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1937-1943. [paper](https://doi.org/10.24963/ijcai.2017/269)
 
 
 - **Semi-supervised Learning over Heterogeneous Information Networks by Ensemble of Meta-graph Guided Random Walks.**
-    > He Jiang, Yangqiu Song, Chenguang Wang, etc. Semi-supervised Learning over Heterogeneous Information Networks by Ensemble of Meta-graph Guided Random Walks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1944-1950. [paper](https://doi.org/10.24963/ijcai.2017/270)
+    > He Jiang, Yangqiu Song, Chenguang Wang, et al. Semi-supervised Learning over Heterogeneous Information Networks by Ensemble of Meta-graph Guided Random Walks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1944-1950. [paper](https://doi.org/10.24963/ijcai.2017/270)
 
 
 - **Exploration of Tree-based Hierarchical Softmax for Recurrent Language Models.**
-    > Nan Jiang, Wenge Rong, Min Gao, etc. Exploration of Tree-based Hierarchical Softmax for Recurrent Language Models. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1951-1957. [paper](https://doi.org/10.24963/ijcai.2017/271)
+    > Nan Jiang, Wenge Rong, Min Gao, et al. Exploration of Tree-based Hierarchical Softmax for Recurrent Language Models. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1951-1957. [paper](https://doi.org/10.24963/ijcai.2017/271)
 
 
 - **Theoretic Analysis and Extremely Easy Algorithms for Domain Adaptive Feature Learning.**
-    > Wenhao Jiang, Cheng Deng, Wei Liu, etc. Theoretic Analysis and Extremely Easy Algorithms for Domain Adaptive Feature Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1958-1964. [paper](https://doi.org/10.24963/ijcai.2017/272)
+    > Wenhao Jiang, Cheng Deng, Wei Liu, et al. Theoretic Analysis and Extremely Easy Algorithms for Domain Adaptive Feature Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1958-1964. [paper](https://doi.org/10.24963/ijcai.2017/272)
 
 
 - **Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering.**
-    > Zhuxi Jiang, Yin Zheng, Huachun Tan, etc. Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1965-1972. [paper](https://doi.org/10.24963/ijcai.2017/273)
+    > Zhuxi Jiang, Yin Zheng, Huachun Tan, et al. Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1965-1972. [paper](https://doi.org/10.24963/ijcai.2017/273)
 
 
 - **Improving Classification Accuracy of Feedforward Neural Networks for Spiking Neuromorphic Chips.**
@@ -1096,27 +604,35 @@
 
 
 - **Confusion Graph: Detecting Confusion Communities in Large Scale Image Classification.**
-    > Ruochun Jin, Yong Dou, Yueqing Wang, etc. Confusion Graph: Detecting Confusion Communities in Large Scale Image Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1980-1986. [paper](https://doi.org/10.24963/ijcai.2017/275)
+    > Ruochun Jin, Yong Dou, Yueqing Wang, et al. Confusion Graph: Detecting Confusion Communities in Large Scale Image Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1980-1986. [paper](https://doi.org/10.24963/ijcai.2017/275)
 
 
 - **A Functional Dynamic Boltzmann Machine.**
     > Hiroshi Kajino. A Functional Dynamic Boltzmann Machine. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1987-1993. [paper](https://doi.org/10.24963/ijcai.2017/276)
 
 
+- **Operation Frames and Clubs in Kidney Exchange.**
+    > Gabriele Farina, John P. Dickerson, Tuomas Sandholm. Operation Frames and Clubs in Kidney Exchange. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 199-205. [paper](https://doi.org/10.24963/ijcai.2017/29)
+
+
 - **Modelling the Working Week for Multi-Step Forecasting using Gaussian Process Regression.**
-    > Pasan Karunaratne, Masud Moshtaghi, Shanika Karunasekera, etc. Modelling the Working Week for Multi-Step Forecasting using Gaussian Process Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1994-2000. [paper](https://doi.org/10.24963/ijcai.2017/277)
+    > Pasan Karunaratne, Masud Moshtaghi, Shanika Karunasekera, et al. Modelling the Working Week for Multi-Step Forecasting using Gaussian Process Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 1994-2000. [paper](https://doi.org/10.24963/ijcai.2017/277)
+
+
+- **Swift Logic for Big Data and Knowledge Graphs.**
+    > Luigi Bellomarini, Georg Gottlob, Andreas Pieris, et al. Swift Logic for Big Data and Knowledge Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2-10. [paper](https://doi.org/10.24963/ijcai.2017/1)
 
 
 - **Bernoulli Rank-1 Bandits for Click Feedback.**
-    > Sumeet Katariya, Branislav Kveton, Csaba Szepesvári, etc. Bernoulli Rank-1 Bandits for Click Feedback. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2001-2007. [paper](https://doi.org/10.24963/ijcai.2017/278)
+    > Sumeet Katariya, Branislav Kveton, Csaba Szepesvári, et al. Bernoulli Rank-1 Bandits for Click Feedback. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2001-2007. [paper](https://doi.org/10.24963/ijcai.2017/278)
 
 
 - **Learning deep structured network for weakly supervised change detection.**
-    > Salman Hameed Khan, Xuming He, Fatih Porikli, etc. Learning deep structured network for weakly supervised change detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2008-2015. [paper](https://doi.org/10.24963/ijcai.2017/279)
+    > Salman Hameed Khan, Xuming He, Fatih Porikli, et al. Learning deep structured network for weakly supervised change detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2008-2015. [paper](https://doi.org/10.24963/ijcai.2017/279)
 
 
 - **DeepStory: Video Story QA by Deep Embedded Memory Networks.**
-    > Kyung-Min Kim, Min-Oh Heo, Seong-Ho Choi, etc. DeepStory: Video Story QA by Deep Embedded Memory Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2016-2022. [paper](https://doi.org/10.24963/ijcai.2017/280)
+    > Kyung-Min Kim, Min-Oh Heo, Seong-Ho Choi, et al. DeepStory: Video Story QA by Deep Embedded Memory Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2016-2022. [paper](https://doi.org/10.24963/ijcai.2017/280)
 
 
 - **Efficiency Through Procrastination: Approximately Optimal Algorithm Configuration with Runtime Guarantees.**
@@ -1124,7 +640,7 @@
 
 
 - **Decreasing Uncertainty in Planning with State Prediction.**
-    > Senka Krivic, Michael Cashmore, Daniele Magazzeni, etc. Decreasing Uncertainty in Planning with State Prediction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2032-2038. [paper](https://doi.org/10.24963/ijcai.2017/282)
+    > Senka Krivic, Michael Cashmore, Daniele Magazzeni, et al. Decreasing Uncertainty in Planning with State Prediction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2032-2038. [paper](https://doi.org/10.24963/ijcai.2017/282)
 
 
 - **Learning Latest Classifiers without Additional Labeled Data.**
@@ -1137,6 +653,10 @@
 
 - **Saliency Guided End-to-End Learning for Weakly Supervised Object Detection.**
     > Baisheng Lai, Xiaojin Gong. Saliency Guided End-to-End Learning for Weakly Supervised Object Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2053-2059. [paper](https://doi.org/10.24963/ijcai.2017/285)
+
+
+- **A Novel Symbolic Approach to Verifying Epistemic Properties of Programs.**
+    > Nikos Gorogiannis, Franco Raimondi, Ioana Boureanu. A Novel Symbolic Approach to Verifying Epistemic Properties of Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 206-212. [paper](https://doi.org/10.24963/ijcai.2017/30)
 
 
 - **Basket-Sensitive Personalized Item Recommendation.**
@@ -1152,19 +672,19 @@
 
 
 - **Name Nationality Classification with Recurrent Neural Networks.**
-    > Jinhyuk Lee, Hyunjae Kim, Miyoung Ko, etc. Name Nationality Classification with Recurrent Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2081-2087. [paper](https://doi.org/10.24963/ijcai.2017/289)
+    > Jinhyuk Lee, Hyunjae Kim, Miyoung Ko, et al. Name Nationality Classification with Recurrent Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2081-2087. [paper](https://doi.org/10.24963/ijcai.2017/289)
 
 
 - **Constrained Bayesian Reinforcement Learning via Approximate Linear Programming.**
-    > Jongmin Lee, Youngsoo Jang, Pascal Poupart, etc. Constrained Bayesian Reinforcement Learning via Approximate Linear Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2088-2095. [paper](https://doi.org/10.24963/ijcai.2017/290)
+    > Jongmin Lee, Youngsoo Jang, Pascal Poupart, et al. Constrained Bayesian Reinforcement Learning via Approximate Linear Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2088-2095. [paper](https://doi.org/10.24963/ijcai.2017/290)
 
 
 - **High Dimensional Bayesian Optimization using Dropout.**
-    > Cheng Li, Sunil Gupta, Santu Rana, etc. High Dimensional Bayesian Optimization using Dropout. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2096-2102. [paper](https://doi.org/10.24963/ijcai.2017/291)
+    > Cheng Li, Sunil Gupta, Santu Rana, et al. High Dimensional Bayesian Optimization using Dropout. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2096-2102. [paper](https://doi.org/10.24963/ijcai.2017/291)
 
 
 - **Effective Representing of Information Network by Variational Autoencoder.**
-    > Hang Li, Haozheng Wang, Zhenglu Yang, etc. Effective Representing of Information Network by Variational Autoencoder. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2103-2109. [paper](https://doi.org/10.24963/ijcai.2017/292)
+    > Hang Li, Haozheng Wang, Zhenglu Yang, et al. Effective Representing of Information Network by Variational Autoencoder. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2103-2109. [paper](https://doi.org/10.24963/ijcai.2017/292)
 
 
 - **Self-paced Convolutional Neural Networks.**
@@ -1172,27 +692,31 @@
 
 
 - **Learning User&apos;s Intrinsic and Extrinsic Interests for Point-of-Interest Recommendation: A Unified Approach.**
-    > Huayu Li, Yong Ge, Defu Lian, etc. Learning User&apos;s Intrinsic and Extrinsic Interests for Point-of-Interest Recommendation: A Unified Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2117-2123. [paper](https://doi.org/10.24963/ijcai.2017/294)
+    > Huayu Li, Yong Ge, Defu Lian, et al. Learning User&apos;s Intrinsic and Extrinsic Interests for Point-of-Interest Recommendation: A Unified Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2117-2123. [paper](https://doi.org/10.24963/ijcai.2017/294)
 
 
 - **Efficient Kernel Selection via Spectral Analysis.**
-    > Jian Li, Yong Liu, Hailun Lin, etc. Efficient Kernel Selection via Spectral Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2124-2130. [paper](https://doi.org/10.24963/ijcai.2017/295)
+    > Jian Li, Yong Liu, Hailun Lin, et al. Efficient Kernel Selection via Spectral Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2124-2130. [paper](https://doi.org/10.24963/ijcai.2017/295)
+
+
+- **Object Allocation via Swaps along a Social Network.**
+    > Laurent Gourvès, Julien Lesca, Anaëlle Wilczynski. Object Allocation via Swaps along a Social Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 213-219. [paper](https://doi.org/10.24963/ijcai.2017/31)
 
 
 - **Improving the Generalization Performance of Multi-class SVM via Angular Regularization.**
-    > Jianxin Li, Haoyi Zhou, Pengtao Xie, etc. Improving the Generalization Performance of Multi-class SVM via Angular Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2131-2137. [paper](https://doi.org/10.24963/ijcai.2017/296)
+    > Jianxin Li, Haoyi Zhou, Pengtao Xie, et al. Improving the Generalization Performance of Multi-class SVM via Angular Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2131-2137. [paper](https://doi.org/10.24963/ijcai.2017/296)
 
 
 - **Large-scale Subspace Clustering by Fast Regression Coding.**
-    > Jun Li, Handong Zhao, Zhiqiang Tao, etc. Large-scale Subspace Clustering by Fast Regression Coding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2138-2144. [paper](https://doi.org/10.24963/ijcai.2017/297)
+    > Jun Li, Handong Zhao, Zhiqiang Tao, et al. Large-scale Subspace Clustering by Fast Regression Coding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2138-2144. [paper](https://doi.org/10.24963/ijcai.2017/297)
 
 
 - **Projective Low-rank Subspace Clustering via Learning Deep Encoder.**
-    > Jun Li, Hongfu Liu, Handong Zhao, etc. Projective Low-rank Subspace Clustering via Learning Deep Encoder. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2145-2151. [paper](https://doi.org/10.24963/ijcai.2017/298)
+    > Jun Li, Hongfu Liu, Handong Zhao, et al. Projective Low-rank Subspace Clustering via Learning Deep Encoder. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2145-2151. [paper](https://doi.org/10.24963/ijcai.2017/298)
 
 
 - **Radar: Residual Analysis for Anomaly Detection in Attributed Networks.**
-    > Jundong Li, Harsh Dani, Xia Hu, etc. Radar: Residual Analysis for Anomaly Detection in Attributed Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2152-2158. [paper](https://doi.org/10.24963/ijcai.2017/299)
+    > Jundong Li, Harsh Dani, Xia Hu, et al. Radar: Residual Analysis for Anomaly Detection in Attributed Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2152-2158. [paper](https://doi.org/10.24963/ijcai.2017/299)
 
 
 - **Reconstruction-based Unsupervised Feature Selection: An Embedded Approach.**
@@ -1208,7 +732,7 @@
 
 
 - **Online Robust Low-Rank Tensor Learning.**
-    > Ping Li, Jiashi Feng, Xiaojie Jin, etc. Online Robust Low-Rank Tensor Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2180-2186. [paper](https://doi.org/10.24963/ijcai.2017/303)
+    > Ping Li, Jiashi Feng, Xiaojie Jin, et al. Online Robust Low-Rank Tensor Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2180-2186. [paper](https://doi.org/10.24963/ijcai.2017/303)
 
 
 - **Self-paced Compensatory Deep Boltzmann Machine for Semi-Structured Document Embedding.**
@@ -1219,8 +743,12 @@
     > Wei Li, Xiatian Zhu, Shaogang Gong. Person Re-Identification by Deep Joint Learning of Multi-Loss Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2194-2200. [paper](https://doi.org/10.24963/ijcai.2017/305)
 
 
+- **The Off-Switch Game.**
+    > Dylan Hadfield-Menell, Anca D. Dragan, Pieter Abbeel, et al. The Off-Switch Game. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 220-227. [paper](https://doi.org/10.24963/ijcai.2017/32)
+
+
 - **Locality Adaptive Discriminant Analysis.**
-    > Xuelong Li, Mulin Chen, Feiping Nie, etc. Locality Adaptive Discriminant Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2201-2207. [paper](https://doi.org/10.24963/ijcai.2017/306)
+    > Xuelong Li, Mulin Chen, Feiping Nie, et al. Locality Adaptive Discriminant Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2201-2207. [paper](https://doi.org/10.24963/ijcai.2017/306)
 
 
 - **MAM-RNN: Multi-level Attention Model Based RNN for Video Captioning.**
@@ -1228,7 +756,7 @@
 
 
 - **Classification and Representation Joint Learning via Deep Networks.**
-    > Ya Li, Xinmei Tian, Xu Shen, etc. Classification and Representation Joint Learning via Deep Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2215-2221. [paper](https://doi.org/10.24963/ijcai.2017/308)
+    > Ya Li, Xinmei Tian, Xu Shen, et al. Classification and Representation Joint Learning via Deep Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2215-2221. [paper](https://doi.org/10.24963/ijcai.2017/308)
 
 
 - **CFNN: Correlation Filter Neural Network for Visual Object Tracking.**
@@ -1236,11 +764,11 @@
 
 
 - **Demystifying Neural Style Transfer.**
-    > Yanghao Li, Naiyan Wang, Jiaying Liu, etc. Demystifying Neural Style Transfer. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2230-2236. [paper](https://doi.org/10.24963/ijcai.2017/310)
+    > Yanghao Li, Naiyan Wang, Jiaying Liu, et al. Demystifying Neural Style Transfer. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2230-2236. [paper](https://doi.org/10.24963/ijcai.2017/310)
 
 
 - **End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification.**
-    > Zheng Li, Yu Zhang, Ying Wei, etc. End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2237-2243. [paper](https://doi.org/10.24963/ijcai.2017/311)
+    > Zheng Li, Yu Zhang, Ying Wei, et al. End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2237-2243. [paper](https://doi.org/10.24963/ijcai.2017/311)
 
 
 - **Integrating Specialized Classifiers Based on Continuous Time Markov Chain.**
@@ -1248,7 +776,7 @@
 
 
 - **Incomplete Attribute Learning with auxiliary labels.**
-    > Kongming Liang, Yuhong Guo, Hong Chang, etc. Incomplete Attribute Learning with auxiliary labels. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2252-2258. [paper](https://doi.org/10.24963/ijcai.2017/313)
+    > Kongming Liang, Yuhong Guo, Hong Chang, et al. Incomplete Attribute Learning with auxiliary labels. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2252-2258. [paper](https://doi.org/10.24963/ijcai.2017/313)
 
 
 - **LoCaTe: Influence Quantification for Location Promotion in Location-based Social Networks.**
@@ -1263,20 +791,24 @@
     > Tao Lin, Tian Guo, Karl Aberer. Hybrid Neural Networks for Learning the Trend in Time Series. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2273-2279. [paper](https://doi.org/10.24963/ijcai.2017/316)
 
 
+- **Optimal Posted-Price Mechanism in Microtask Crowdsourcing.**
+    > Zehong Hu, Jie Zhang. Optimal Posted-Price Mechanism in Microtask Crowdsourcing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 228-234. [paper](https://doi.org/10.24963/ijcai.2017/33)
+
+
 - **Regional Concept Drift Detection and Density Synchronized Drift Adaptation.**
-    > Anjin Liu, Yiliao Song, Guangquan Zhang, etc. Regional Concept Drift Detection and Density Synchronized Drift Adaptation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2280-2286. [paper](https://doi.org/10.24963/ijcai.2017/317)
+    > Anjin Liu, Yiliao Song, Guangquan Zhang, et al. Regional Concept Drift Detection and Density Synchronized Drift Adaptation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2280-2286. [paper](https://doi.org/10.24963/ijcai.2017/317)
 
 
 - **Deep Neural Networks for High Dimension, Low Sample Size Data.**
-    > Bo Liu, Ying Wei, Yu Zhang, etc. Deep Neural Networks for High Dimension, Low Sample Size Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2287-2293. [paper](https://doi.org/10.24963/ijcai.2017/318)
+    > Bo Liu, Ying Wei, Yu Zhang, et al. Deep Neural Networks for High Dimension, Low Sample Size Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2287-2293. [paper](https://doi.org/10.24963/ijcai.2017/318)
 
 
 - **Locally Linear Factorization Machines.**
-    > Chenghao Liu, Teng Zhang, Peilin Zhao, etc. Locally Linear Factorization Machines. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2294-2300. [paper](https://doi.org/10.24963/ijcai.2017/319)
+    > Chenghao Liu, Teng Zhang, Peilin Zhao, et al. Locally Linear Factorization Machines. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2294-2300. [paper](https://doi.org/10.24963/ijcai.2017/319)
 
 
 - **DeepFacade: A Deep Learning Approach to Facade Parsing.**
-    > Hantang Liu, Jialiang Zhang, Jianke Zhu, etc. DeepFacade: A Deep Learning Approach to Facade Parsing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2301-2307. [paper](https://doi.org/10.24963/ijcai.2017/320)
+    > Hantang Liu, Jialiang Zhang, Jianke Zhu, et al. DeepFacade: A Deep Learning Approach to Facade Parsing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2301-2307. [paper](https://doi.org/10.24963/ijcai.2017/320)
 
 
 - **Semi-supervised Orthogonal Graph Embedding with Recursive Projections.**
@@ -1288,11 +820,11 @@
 
 
 - **Fast SVM Trained by Divide-and-Conquer Anchors.**
-    > Meng Liu, Chang Xu, Chao Xu, etc. Fast SVM Trained by Divide-and-Conquer Anchors. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2322-2328. [paper](https://doi.org/10.24963/ijcai.2017/323)
+    > Meng Liu, Chang Xu, Chao Xu, et al. Fast SVM Trained by Divide-and-Conquer Anchors. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2322-2328. [paper](https://doi.org/10.24963/ijcai.2017/323)
 
 
 - **Improving Learning-from-Crowds through Expert Validation.**
-    > Mengchen Liu, Liu Jiang, Junlin Liu, etc. Improving Learning-from-Crowds through Expert Validation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2329-2336. [paper](https://doi.org/10.24963/ijcai.2017/324)
+    > Mengchen Liu, Liu Jiang, Junlin Liu, et al. Improving Learning-from-Crowds through Expert Validation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2329-2336. [paper](https://doi.org/10.24963/ijcai.2017/324)
 
 
 - **Accelerated Local Anomaly Detection via Resolving Attributed Networks.**
@@ -1300,11 +832,15 @@
 
 
 - **Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A Set of Winograd Schema Problems.**
-    > Quan Liu, Hui Jiang, Andrew Evdokimov, etc. Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A Set of Winograd Schema Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2344-2350. [paper](https://doi.org/10.24963/ijcai.2017/326)
+    > Quan Liu, Hui Jiang, Andrew Evdokimov, et al. Cause-Effect Knowledge Acquisition and Neural Association Model for Solving A Set of Winograd Schema Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2344-2350. [paper](https://doi.org/10.24963/ijcai.2017/326)
+
+
+- **Online Roommate Allocation Problem.**
+    > Guangda Huzhang, Xin Huang, Shengyu Zhang, et al. Online Roommate Allocation Problem. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 235-241. [paper](https://doi.org/10.24963/ijcai.2017/34)
 
 
 - **Learning Concise Representations of Users&apos; Influences through Online Behaviors.**
-    > Shenghua Liu, Houdong Zheng, Huawei Shen, etc. Learning Concise Representations of Users&apos; Influences through Online Behaviors. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2351-2357. [paper](https://doi.org/10.24963/ijcai.2017/327)
+    > Shenghua Liu, Houdong Zheng, Huawei Shen, et al. Learning Concise Representations of Users&apos; Influences through Online Behaviors. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2351-2357. [paper](https://doi.org/10.24963/ijcai.2017/327)
 
 
 - **Adaptive Group Sparse Multi-task Learning via Trace Lasso.**
@@ -1320,7 +856,7 @@
 
 
 - **Learning User Dependencies for Recommendation.**
-    > Yong Liu, Peilin Zhao, Xin Liu, etc. Learning User Dependencies for Recommendation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2379-2385. [paper](https://doi.org/10.24963/ijcai.2017/331)
+    > Yong Liu, Peilin Zhao, Xin Liu, et al. Learning User Dependencies for Recommendation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2379-2385. [paper](https://doi.org/10.24963/ijcai.2017/331)
 
 
 - **JM-Net and Cluster-SVM for Aerial Scene Classification.**
@@ -1331,20 +867,28 @@
     > Yang Lu, Yiu-ming Cheung, Yuan Yan Tang. Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2393-2399. [paper](https://doi.org/10.24963/ijcai.2017/333)
 
 
+- **Super-Human AI for Strategic Reasoning: Beating Top Pros in Heads-Up No-Limit Texas Hold&apos;em.**
+    > Tuomas Sandholm. Super-Human AI for Strategic Reasoning: Beating Top Pros in Heads-Up No-Limit Texas Hold&apos;em. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 24-25. [paper](https://doi.org/10.24963/ijcai.2017/4)
+
+
 - **Sampling for Approximate Maximum Search in Factorized Tensor.**
     > Zhi Lu, Yang Hu, Bing Zeng. Sampling for Approximate Maximum Search in Factorized Tensor. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2400-2406. [paper](https://doi.org/10.24963/ijcai.2017/334)
 
 
 - **Image Matching via Loopy RNN.**
-    > Donghao Luo, Bingbing Ni, Yichao Yan, etc. Image Matching via Loopy RNN. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2407-2413. [paper](https://doi.org/10.24963/ijcai.2017/335)
+    > Donghao Luo, Bingbing Ni, Yichao Yan, et al. Image Matching via Loopy RNN. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2407-2413. [paper](https://doi.org/10.24963/ijcai.2017/335)
 
 
 - **Tracking the Evolution of Customer Purchase Behavior Segmentation via a Fragmentation-Coagulation Process.**
-    > Ling Luo, Bin Li, Irena Koprinska, etc. Tracking the Evolution of Customer Purchase Behavior Segmentation via a Fragmentation-Coagulation Process. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2414-2420. [paper](https://doi.org/10.24963/ijcai.2017/336)
+    > Ling Luo, Bin Li, Irena Koprinska, et al. Tracking the Evolution of Customer Purchase Behavior Segmentation via a Fragmentation-Coagulation Process. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2414-2420. [paper](https://doi.org/10.24963/ijcai.2017/336)
+
+
+- **Near-Feasible Stable Matchings with Budget Constraints.**
+    > Yasushi Kawase, Atsushi Iwasaki. Near-Feasible Stable Matchings with Budget Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 242-248. [paper](https://doi.org/10.24963/ijcai.2017/35)
 
 
 - **Adaptive Semi-Supervised Learning with Discriminative Least Squares Regression.**
-    > Minnan Luo, Lingling Zhang, Feiping Nie, etc. Adaptive Semi-Supervised Learning with Discriminative Least Squares Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2421-2427. [paper](https://doi.org/10.24963/ijcai.2017/337)
+    > Minnan Luo, Lingling Zhang, Feiping Nie, et al. Adaptive Semi-Supervised Learning with Discriminative Least Squares Regression. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2421-2427. [paper](https://doi.org/10.24963/ijcai.2017/337)
 
 
 - **EigenNet: Towards Fast and Structural Learning of Deep Neural Networks.**
@@ -1360,19 +904,19 @@
 
 
 - **General Heterogeneous Transfer Distance Metric Learning via Knowledge Fragments Transfer.**
-    > Yong Luo, Yonggang Wen, Tongliang Liu, etc. General Heterogeneous Transfer Distance Metric Learning via Knowledge Fragments Transfer. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2450-2456. [paper](https://doi.org/10.24963/ijcai.2017/341)
+    > Yong Luo, Yonggang Wen, Tongliang Liu, et al. General Heterogeneous Transfer Distance Metric Learning via Knowledge Fragments Transfer. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2450-2456. [paper](https://doi.org/10.24963/ijcai.2017/341)
 
 
 - **WALKING WALKing walking: Action Recognition from Action Echoes.**
-    > Qianli Ma, Lifeng Shen, Enhuan Chen, etc. WALKING WALKing walking: Action Recognition from Action Echoes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2457-2463. [paper](https://doi.org/10.24963/ijcai.2017/342)
+    > Qianli Ma, Lifeng Shen, Enhuan Chen, et al. WALKING WALKing walking: Action Recognition from Action Echoes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2457-2463. [paper](https://doi.org/10.24963/ijcai.2017/342)
 
 
 - **Cross-Domain Recommendation: An Embedding and Mapping Approach.**
-    > Tong Man, Huawei Shen, Xiaolong Jin, etc. Cross-Domain Recommendation: An Embedding and Mapping Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2464-2470. [paper](https://doi.org/10.24963/ijcai.2017/343)
+    > Tong Man, Huawei Shen, Xiaolong Jin, et al. Cross-Domain Recommendation: An Embedding and Mapping Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2464-2470. [paper](https://doi.org/10.24963/ijcai.2017/343)
 
 
 - **Count-Based Exploration in Feature Space for Reinforcement Learning.**
-    > Jarryd Martin, Suraj Narayanan Sasikumar, Tom Everitt, etc. Count-Based Exploration in Feature Space for Reinforcement Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2471-2478. [paper](https://doi.org/10.24963/ijcai.2017/344)
+    > Jarryd Martin, Suraj Narayanan Sasikumar, Tom Everitt, et al. Count-Based Exploration in Feature Space for Reinforcement Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2471-2478. [paper](https://doi.org/10.24963/ijcai.2017/344)
 
 
 - **Exemplar-centered Supervised Shallow Parametric Data Embedding.**
@@ -1380,7 +924,11 @@
 
 
 - **Logistic Markov Decision Processes.**
-    > Martin Mladenov, Craig Boutilier, Dale Schuurmans, etc. Logistic Markov Decision Processes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2486-2493. [paper](https://doi.org/10.24963/ijcai.2017/346)
+    > Martin Mladenov, Craig Boutilier, Dale Schuurmans, et al. Logistic Markov Decision Processes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2486-2493. [paper](https://doi.org/10.24963/ijcai.2017/346)
+
+
+- **A Bayesian Approach to Argument-Based Reasoning for Attack Estimation.**
+    > Hiroyuki Kido, Keishi Okamoto. A Bayesian Approach to Argument-Based Reasoning for Attack Estimation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 249-255. [paper](https://doi.org/10.24963/ijcai.2017/36)
 
 
 - **Beyond the Nystrom Approximation: Speeding up Spectral Clustering using Uniform Sampling and Weighted Kernel k-means.**
@@ -1396,7 +944,7 @@
 
 
 - **Thresholding Bandits with Augmented UCB.**
-    > Subhojyoti Mukherjee, Kolar Purushothama Naveen, Nandan Sudarsanam, etc. Thresholding Bandits with Augmented UCB. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2515-2521. [paper](https://doi.org/10.24963/ijcai.2017/350)
+    > Subhojyoti Mukherjee, Kolar Purushothama Naveen, Nandan Sudarsanam, et al. Thresholding Bandits with Augmented UCB. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2515-2521. [paper](https://doi.org/10.24963/ijcai.2017/350)
 
 
 - **Self-Paced Multitask Learning with Shared Knowledge.**
@@ -1404,7 +952,7 @@
 
 
 - **Learning Feature Engineering for Classification.**
-    > Fatemeh Nargesian, Horst Samulowitz, Udayan Khurana, etc. Learning Feature Engineering for Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2529-2535. [paper](https://doi.org/10.24963/ijcai.2017/352)
+    > Fatemeh Nargesian, Horst Samulowitz, Udayan Khurana, et al. Learning Feature Engineering for Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2529-2535. [paper](https://doi.org/10.24963/ijcai.2017/352)
 
 
 - **Autonomous Task Sequencing for Customized Curriculum Design in Reinforcement Learning.**
@@ -1412,15 +960,19 @@
 
 
 - **Large-scale Online Kernel Learning with Random Feature Reparameterization.**
-    > Tu Dinh Nguyen, Trung Le, Hung Bui, etc. Large-scale Online Kernel Learning with Random Feature Reparameterization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2543-2549. [paper](https://doi.org/10.24963/ijcai.2017/354)
+    > Tu Dinh Nguyen, Trung Le, Hung Bui, et al. Large-scale Online Kernel Learning with Random Feature Reparameterization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2543-2549. [paper](https://doi.org/10.24963/ijcai.2017/354)
 
 
 - **Discriminative Bayesian Nonparametric Clustering.**
-    > Vu Nguyen, Dinh Q. Phung, Trung Le, etc. Discriminative Bayesian Nonparametric Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2550-2556. [paper](https://doi.org/10.24963/ijcai.2017/355)
+    > Vu Nguyen, Dinh Q. Phung, Trung Le, et al. Discriminative Bayesian Nonparametric Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2550-2556. [paper](https://doi.org/10.24963/ijcai.2017/355)
 
 
 - **Joint Capped Norms Minimization for Robust Matrix Recovery.**
     > Feiping Nie, Zhouyuan Huo, Heng Huang. Joint Capped Norms Minimization for Robust Matrix Recovery. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2557-2563. [paper](https://doi.org/10.24963/ijcai.2017/356)
+
+
+- **Tosca: Operationalizing Commitments Over Information Protocols.**
+    > Thomas C. King, Akin Günay, Amit K. Chopra, et al. Tosca: Operationalizing Commitments Over Information Protocols. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 256-264. [paper](https://doi.org/10.24963/ijcai.2017/37)
 
 
 - **Self-weighted Multiview Clustering with Multiple Graphs.**
@@ -1428,7 +980,7 @@
 
 
 - **SEVEN: Deep Semi-supervised Verification Networks.**
-    > Vahid Noroozi, Lei Zheng, Sara Bahaadini, etc. SEVEN: Deep Semi-supervised Verification Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2571-2577. [paper](https://doi.org/10.24963/ijcai.2017/358)
+    > Vahid Noroozi, Lei Zheng, Sara Bahaadini, et al. SEVEN: Deep Semi-supervised Verification Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2571-2577. [paper](https://doi.org/10.24963/ijcai.2017/358)
 
 
 - **Discovering Relevance-Dependent Bicluster Structure from Relational Data.**
@@ -1436,7 +988,7 @@
 
 
 - **Learning Homophily Couplings from Non-IID Data for Joint Feature Selection and Noise-Resilient Outlier Detection.**
-    > Guansong Pang, Longbing Cao, Ling Chen, etc. Learning Homophily Couplings from Non-IID Data for Joint Feature Selection and Noise-Resilient Outlier Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2585-2591. [paper](https://doi.org/10.24963/ijcai.2017/360)
+    > Guansong Pang, Longbing Cao, Ling Chen, et al. Learning Homophily Couplings from Non-IID Data for Joint Feature Selection and Noise-Resilient Outlier Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2585-2591. [paper](https://doi.org/10.24963/ijcai.2017/360)
 
 
 - **Flexible Orthogonal Neighborhood Preserving Embedding.**
@@ -1448,19 +1000,19 @@
 
 
 - **Optimizing Ratio of Monotone Set Functions.**
-    > Chao Qian, Jing-Cheng Shi, Yang Yu, etc. Optimizing Ratio of Monotone Set Functions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2606-2612. [paper](https://doi.org/10.24963/ijcai.2017/363)
+    > Chao Qian, Jing-Cheng Shi, Yang Yu, et al. Optimizing Ratio of Monotone Set Functions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2606-2612. [paper](https://doi.org/10.24963/ijcai.2017/363)
 
 
 - **On Subset Selection with General Cost Constraints.**
-    > Chao Qian, Jing-Cheng Shi, Yang Yu, etc. On Subset Selection with General Cost Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2613-2619. [paper](https://doi.org/10.24963/ijcai.2017/364)
+    > Chao Qian, Jing-Cheng Shi, Yang Yu, et al. On Subset Selection with General Cost Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2613-2619. [paper](https://doi.org/10.24963/ijcai.2017/364)
 
 
 - **Improving Stochastic Block Models by Incorporating Power-Law Degree Characteristic.**
-    > Maoying Qiao, Jun Yu, Wei Bian, etc. Improving Stochastic Block Models by Incorporating Power-Law Degree Characteristic. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2620-2626. [paper](https://doi.org/10.24963/ijcai.2017/365)
+    > Maoying Qiao, Jun Yu, Wei Bian, et al. Improving Stochastic Block Models by Incorporating Power-Law Degree Characteristic. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2620-2626. [paper](https://doi.org/10.24963/ijcai.2017/365)
 
 
 - **A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.**
-    > Yao Qin, Dongjin Song, Haifeng Chen, etc. A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2627-2633. [paper](https://doi.org/10.24963/ijcai.2017/366)
+    > Yao Qin, Dongjin Song, Haifeng Chen, et al. A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2627-2633. [paper](https://doi.org/10.24963/ijcai.2017/366)
 
 
 - **Stacking With Auxiliary Features.**
@@ -1468,11 +1020,15 @@
 
 
 - **Robust Softmax Regression for Multi-class Classification with Self-Paced Learning.**
-    > Yazhou Ren, Peng Zhao, Yongpan Sheng, etc. Robust Softmax Regression for Multi-class Classification with Self-Paced Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2641-2647. [paper](https://doi.org/10.24963/ijcai.2017/368)
+    > Yazhou Ren, Peng Zhao, Yongpan Sheng, et al. Robust Softmax Regression for Multi-class Classification with Self-Paced Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2641-2647. [paper](https://doi.org/10.24963/ijcai.2017/368)
 
 
 - **Sense Beauty by Label Distribution Learning.**
     > Yi Ren, Xin Geng. Sense Beauty by Label Distribution Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2648-2654. [paper](https://doi.org/10.24963/ijcai.2017/369)
+
+
+- **Omniscient Debugging for Cognitive Agent Programs.**
+    > Vincent J. Koeman, Koen V. Hindriks, Catholijn M. Jonker. Omniscient Debugging for Cognitive Agent Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 265-272. [paper](https://doi.org/10.24963/ijcai.2017/38)
 
 
 - **Distributed Accelerated Proximal Coordinate Gradient Methods.**
@@ -1484,15 +1040,15 @@
 
 
 - **See without looking: joint visualization of sensitive multi-site datasets.**
-    > Debbrata K. Saha, Vince D. Calhoun, Sandeep R. Panta, etc. See without looking: joint visualization of sensitive multi-site datasets. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2672-2678. [paper](https://doi.org/10.24963/ijcai.2017/372)
+    > Debbrata K. Saha, Vince D. Calhoun, Sandeep R. Panta, et al. See without looking: joint visualization of sensitive multi-site datasets. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2672-2678. [paper](https://doi.org/10.24963/ijcai.2017/372)
 
 
 - **LMPP: A Large Margin Point Process Combining Reinforcement and Competition for Modeling Hashtag Popularity.**
-    > Bidisha Samanta, Abir De, Abhijnan Chakraborty, etc. LMPP: A Large Margin Point Process Combining Reinforcement and Competition for Modeling Hashtag Popularity. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2679-2685. [paper](https://doi.org/10.24963/ijcai.2017/373)
+    > Bidisha Samanta, Abir De, Abhijnan Chakraborty, et al. LMPP: A Large Margin Point Process Combining Reinforcement and Competition for Modeling Hashtag Popularity. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2679-2685. [paper](https://doi.org/10.24963/ijcai.2017/373)
 
 
 - **Convolutional-Match Networks for Question Answering.**
-    > Spyridon Samothrakis, Tom Vodopivec, Michael Fairbank, etc. Convolutional-Match Networks for Question Answering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2686-2692. [paper](https://doi.org/10.24963/ijcai.2017/374)
+    > Spyridon Samothrakis, Tom Vodopivec, Michael Fairbank, et al. Convolutional-Match Networks for Question Answering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2686-2692. [paper](https://doi.org/10.24963/ijcai.2017/374)
 
 
 - **Locally Consistent Bayesian Network Scores for Multi-Relational Data.**
@@ -1504,15 +1060,19 @@
 
 
 - **Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation.**
-    > Tong Shen, Guosheng Lin, Chunhua Shen, etc. Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2708-2714. [paper](https://doi.org/10.24963/ijcai.2017/377)
+    > Tong Shen, Guosheng Lin, Chunhua Shen, et al. Learning Multi-level Region Consistency with Dense Multi-label Networks for Semantic Segmentation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2708-2714. [paper](https://doi.org/10.24963/ijcai.2017/377)
 
 
 - **Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization.**
-    > Zebang Shen, Hui Qian, Tongzhou Mu, etc. Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2715-2721. [paper](https://doi.org/10.24963/ijcai.2017/378)
+    > Zebang Shen, Hui Qian, Tongzhou Mu, et al. Accelerated Doubly Stochastic Gradient Algorithm for Large-scale Empirical Risk Minimization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2715-2721. [paper](https://doi.org/10.24963/ijcai.2017/378)
 
 
 - **Learning with Previously Unseen Features.**
     > Yuan Shi, Craig A. Knoblock. Learning with Previously Unseen Features. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2722-2729. [paper](https://doi.org/10.24963/ijcai.2017/379)
+
+
+- **Convergence and Quality of Iterative Voting Under Non-Scoring Rules.**
+    > Aaron Koolyk, Tyrone Strangway, Omer Lev, et al. Convergence and Quality of Iterative Voting Under Non-Scoring Rules. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 273-279. [paper](https://doi.org/10.24963/ijcai.2017/39)
 
 
 - **Learning Hedonic Games.**
@@ -1520,11 +1080,11 @@
 
 
 - **Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning.**
-    > Jingkuan Song, Lianli Gao, Zhao Guo, etc. Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2737-2743. [paper](https://doi.org/10.24963/ijcai.2017/381)
+    > Jingkuan Song, Lianli Gao, Zhao Guo, et al. Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2737-2743. [paper](https://doi.org/10.24963/ijcai.2017/381)
 
 
 - **Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness.**
-    > Kaisong Song, Wei Gao, Shi Feng, etc. Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2744-2750. [paper](https://doi.org/10.24963/ijcai.2017/382)
+    > Kaisong Song, Wei Gao, Shi Feng, et al. Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2744-2750. [paper](https://doi.org/10.24963/ijcai.2017/382)
 
 
 - **Two dimensional Large Margin Nearest Neighbor for Matrix Classification.**
@@ -1532,27 +1092,35 @@
 
 
 - **Fast Sparse Gaussian Markov Random Fields Learning Based on Cholesky Factorization.**
-    > Ivan Stojkovic, Vladisav Jelisavcic, Veljko Milutinovic, etc. Fast Sparse Gaussian Markov Random Fields Learning Based on Cholesky Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2758-2764. [paper](https://doi.org/10.24963/ijcai.2017/384)
+    > Ivan Stojkovic, Vladisav Jelisavcic, Veljko Milutinovic, et al. Fast Sparse Gaussian Markov Random Fields Learning Based on Cholesky Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2758-2764. [paper](https://doi.org/10.24963/ijcai.2017/384)
 
 
 - **End-to-end optimization of goal-driven and visually grounded dialogue systems.**
-    > Florian Strub, Harm de Vries, Jérémie Mary, etc. End-to-end optimization of goal-driven and visually grounded dialogue systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2765-2771. [paper](https://doi.org/10.24963/ijcai.2017/385)
+    > Florian Strub, Harm de Vries, Jérémie Mary, et al. End-to-end optimization of goal-driven and visually grounded dialogue systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2765-2771. [paper](https://doi.org/10.24963/ijcai.2017/385)
 
 
 - **Forecast the Plausible Paths in Crowd Scenes.**
-    > Hang Su, Jun Zhu, Yinpeng Dong, etc. Forecast the Plausible Paths in Crowd Scenes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2772-2778. [paper](https://doi.org/10.24963/ijcai.2017/386)
+    > Hang Su, Jun Zhu, Yinpeng Dong, et al. Forecast the Plausible Paths in Crowd Scenes. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2772-2778. [paper](https://doi.org/10.24963/ijcai.2017/386)
 
 
 - **Vertex-Weighted Hypergraph Learning for Multi-View Object Classification.**
-    > Lifan Su, Yue Gao, Xibin Zhao, etc. Vertex-Weighted Hypergraph Learning for Multi-View Object Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2779-2785. [paper](https://doi.org/10.24963/ijcai.2017/387)
+    > Lifan Su, Yue Gao, Xibin Zhao, et al. Vertex-Weighted Hypergraph Learning for Multi-View Object Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2779-2785. [paper](https://doi.org/10.24963/ijcai.2017/387)
 
 
 - **Deep Supervised Hashing with Nonlinear Projections.**
-    > Sen Su, Gang Chen, Xiang Cheng, etc. Deep Supervised Hashing with Nonlinear Projections. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2786-2792. [paper](https://doi.org/10.24963/ijcai.2017/388)
+    > Sen Su, Gang Chen, Xiang Cheng, et al. Deep Supervised Hashing with Nonlinear Projections. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2786-2792. [paper](https://doi.org/10.24963/ijcai.2017/388)
 
 
 - **Correlational Dueling Bandits with Application to Clinical Treatment in Large Decision Spaces.**
     > Yanan Sui, Joel W. Burdick. Correlational Dueling Bandits with Application to Clinical Treatment in Large Decision Spaces. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2793-2799. [paper](https://doi.org/10.24963/ijcai.2017/389)
+
+
+- **Proactive and Reactive Coordination of Non-dedicated Agent Teams Operating in Uncertain Environments.**
+    > Pritee Agrawal, Pradeep Varakantham. Proactive and Reactive Coordination of Non-dedicated Agent Teams Operating in Uncertain Environments. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 28-34. [paper](https://doi.org/10.24963/ijcai.2017/5)
+
+
+- **Constraint-Based Symmetry Detection in General Game Playing.**
+    > Frédéric Koriche, Sylvain Lagrue, Éric Piette, et al. Constraint-Based Symmetry Detection in General Game Playing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 280-287. [paper](https://doi.org/10.24963/ijcai.2017/40)
 
 
 - **CHARDA: Causal Hybrid Automata Recovery via Dynamic Analysis.**
@@ -1560,19 +1128,19 @@
 
 
 - **MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation.**
-    > Zhu Sun, Jie Yang, Jie Zhang, etc. MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2807-2813. [paper](https://doi.org/10.24963/ijcai.2017/391)
+    > Zhu Sun, Jie Yang, Jie Zhang, et al. MRLR: Multi-level Representation Learning for Personalized Ranking in Recommendation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2807-2813. [paper](https://doi.org/10.24963/ijcai.2017/391)
 
 
 - **Bayesian Dynamic Mode Decomposition.**
-    > Naoya Takeishi, Yoshinobu Kawahara, Yasuo Tabei, etc. Bayesian Dynamic Mode Decomposition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2814-2821. [paper](https://doi.org/10.24963/ijcai.2017/392)
+    > Naoya Takeishi, Yoshinobu Kawahara, Yasuo Tabei, et al. Bayesian Dynamic Mode Decomposition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2814-2821. [paper](https://doi.org/10.24963/ijcai.2017/392)
 
 
 - **Student-t Process Regression with Student-t Likelihood.**
-    > Qingtao Tang, Li Niu, Yisen Wang, etc. Student-t Process Regression with Student-t Likelihood. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2822-2828. [paper](https://doi.org/10.24963/ijcai.2017/393)
+    > Qingtao Tang, Li Niu, Yisen Wang, et al. Student-t Process Regression with Student-t Likelihood. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2822-2828. [paper](https://doi.org/10.24963/ijcai.2017/393)
 
 
 - **Robust Survey Aggregation with Student-t Distribution and Sparse Representation.**
-    > Qingtao Tang, Tao Dai, Li Niu, etc. Robust Survey Aggregation with Student-t Distribution and Sparse Representation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2829-2835. [paper](https://doi.org/10.24963/ijcai.2017/394)
+    > Qingtao Tang, Tao Dai, Li Niu, et al. Robust Survey Aggregation with Student-t Distribution and Sparse Representation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2829-2835. [paper](https://doi.org/10.24963/ijcai.2017/394)
 
 
 - **Inverse Covariance Estimation with Structured Groups.**
@@ -1580,11 +1148,11 @@
 
 
 - **From Ensemble Clustering to Multi-View Clustering.**
-    > Zhiqiang Tao, Hongfu Liu, Sheng Li, etc. From Ensemble Clustering to Multi-View Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2843-2849. [paper](https://doi.org/10.24963/ijcai.2017/396)
+    > Zhiqiang Tao, Hongfu Liu, Sheng Li, et al. From Ensemble Clustering to Multi-View Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2843-2849. [paper](https://doi.org/10.24963/ijcai.2017/396)
 
 
 - **Retaining Data from Streams of Social Platforms with Minimal Regret.**
-    > Thanh Tam Nguyen, Matthias Weidlich, Duong Chi Thang, etc. Retaining Data from Streams of Social Platforms with Minimal Regret. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2850-2856. [paper](https://doi.org/10.24963/ijcai.2017/397)
+    > Thanh Tam Nguyen, Matthias Weidlich, Duong Chi Thang, et al. Retaining Data from Streams of Social Platforms with Minimal Regret. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2850-2856. [paper](https://doi.org/10.24963/ijcai.2017/397)
 
 
 - **Disambiguating Energy Disaggregation: A Collective Probabilistic Approach.**
@@ -1592,7 +1160,7 @@
 
 
 - **TransNet: Translation-Based Network Representation Learning for Social Relation Extraction.**
-    > Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, etc. TransNet: Translation-Based Network Representation Learning for Social Relation Extraction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2864-2870. [paper](https://doi.org/10.24963/ijcai.2017/399)
+    > Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, et al. TransNet: Translation-Based Network Representation Learning for Social Relation Extraction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2864-2870. [paper](https://doi.org/10.24963/ijcai.2017/399)
 
 
 - **COBRA: A Fast and Simple Method for Active Clustering with Pairwise Constraints.**
@@ -1600,19 +1168,23 @@
 
 
 - **Scaling Active Search using Linear Similarity Functions.**
-    > Sibi Venkatesan, James Kyle Miller, Jeff Schneider, etc. Scaling Active Search using Linear Similarity Functions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2878-2884. [paper](https://doi.org/10.24963/ijcai.2017/401)
+    > Sibi Venkatesan, James Kyle Miller, Jeff Schneider, et al. Scaling Active Search using Linear Similarity Functions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2878-2884. [paper](https://doi.org/10.24963/ijcai.2017/401)
+
+
+- **Verifying Fault-tolerance in Parameterised Multi-Agent Systems.**
+    > Panagiotis Kouvaros, Alessio Lomuscio. Verifying Fault-tolerance in Parameterised Multi-Agent Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 288-294. [paper](https://doi.org/10.24963/ijcai.2017/41)
 
 
 - **Sifting Common Information from Many Variables.**
-    > Greg Ver Steeg, Shuyang Gao, Kyle Reing, etc. Sifting Common Information from Many Variables. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2885-2892. [paper](https://doi.org/10.24963/ijcai.2017/402)
+    > Greg Ver Steeg, Shuyang Gao, Kyle Reing, et al. Sifting Common Information from Many Variables. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2885-2892. [paper](https://doi.org/10.24963/ijcai.2017/402)
 
 
 - **Locality Preserving Projections for Grassmann manifold.**
-    > Boyue Wang, Yongli Hu, Junbin Gao, etc. Locality Preserving Projections for Grassmann manifold. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2893-2900. [paper](https://doi.org/10.24963/ijcai.2017/403)
+    > Boyue Wang, Yongli Hu, Junbin Gao, et al. Locality Preserving Projections for Grassmann manifold. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2893-2900. [paper](https://doi.org/10.24963/ijcai.2017/403)
 
 
 - **Tag Disentangled Generative Adversarial Network for Object Image Re-rendering.**
-    > Chaoyue Wang, Chaohui Wang, Chang Xu, etc. Tag Disentangled Generative Adversarial Network for Object Image Re-rendering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2901-2907. [paper](https://doi.org/10.24963/ijcai.2017/404)
+    > Chaoyue Wang, Chaohui Wang, Chang Xu, et al. Tag Disentangled Generative Adversarial Network for Object Image Re-rendering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2901-2907. [paper](https://doi.org/10.24963/ijcai.2017/404)
 
 
 - **Active Learning for Black-Box Semantic Role Labeling with Neural Factors.**
@@ -1620,23 +1192,27 @@
 
 
 - **Combining Knowledge with Deep Convolutional Neural Networks for Short Text Classification.**
-    > Jin Wang, Zhongyuan Wang, Dawei Zhang, etc. Combining Knowledge with Deep Convolutional Neural Networks for Short Text Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2915-2921. [paper](https://doi.org/10.24963/ijcai.2017/406)
+    > Jin Wang, Zhongyuan Wang, Dawei Zhang, et al. Combining Knowledge with Deep Convolutional Neural Networks for Short Text Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2915-2921. [paper](https://doi.org/10.24963/ijcai.2017/406)
 
 
 - **Multi-Component Nonnegative Matrix Factorization.**
-    > Jing Wang, Feng Tian, Xiao Wang, etc. Multi-Component Nonnegative Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2922-2928. [paper](https://doi.org/10.24963/ijcai.2017/407)
+    > Jing Wang, Feng Tian, Xiao Wang, et al. Multi-Component Nonnegative Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2922-2928. [paper](https://doi.org/10.24963/ijcai.2017/407)
 
 
 - **Convolutional 2D LDA for Nonlinear Dimensionality Reduction.**
-    > Qi Wang, Zequn Qin, Feiping Nie, etc. Convolutional 2D LDA for Nonlinear Dimensionality Reduction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2929-2935. [paper](https://doi.org/10.24963/ijcai.2017/408)
+    > Qi Wang, Zequn Qin, Feiping Nie, et al. Convolutional 2D LDA for Nonlinear Dimensionality Reduction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2929-2935. [paper](https://doi.org/10.24963/ijcai.2017/408)
 
 
 - **Angle Principal Component Analysis.**
-    > Qianqian Wang, Quanxue Gao, Xinbo Gao, etc. Angle Principal Component Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2936-2942. [paper](https://doi.org/10.24963/ijcai.2017/409)
+    > Qianqian Wang, Quanxue Gao, Xinbo Gao, et al. Angle Principal Component Analysis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2936-2942. [paper](https://doi.org/10.24963/ijcai.2017/409)
 
 
 - **Instance-Level Label Propagation with Multi-Instance Learning.**
-    > Qifan Wang, Gal Chechik, Chen Sun, etc. Instance-Level Label Propagation with Multi-Instance Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2943-2949. [paper](https://doi.org/10.24963/ijcai.2017/410)
+    > Qifan Wang, Gal Chechik, Chen Sun, et al. Instance-Level Label Propagation with Multi-Instance Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2943-2949. [paper](https://doi.org/10.24963/ijcai.2017/410)
+
+
+- **Smoothing Method for Approximate Extensive-Form Perfect Equilibrium.**
+    > Christian Kroer, Gabriele Farina, Tuomas Sandholm. Smoothing Method for Approximate Extensive-Form Perfect Equilibrium. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 295-301. [paper](https://doi.org/10.24963/ijcai.2017/42)
 
 
 - **A Sequence Labeling Convolutional Network and Its Application to Handwritten String Recognition.**
@@ -1644,11 +1220,11 @@
 
 
 - **Interactive Image Segmentation via Pairwise Likelihood Learning.**
-    > Tao Wang, Quan-Sen Sun, Qi Ge, etc. Interactive Image Segmentation via Pairwise Likelihood Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2957-2963. [paper](https://doi.org/10.24963/ijcai.2017/412)
+    > Tao Wang, Quan-Sen Sun, Qi Ge, et al. Interactive Image Segmentation via Pairwise Likelihood Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2957-2963. [paper](https://doi.org/10.24963/ijcai.2017/412)
 
 
 - **Obtaining High-Quality Label by Distinguishing between Easy and Hard Items in Crowdsourcing.**
-    > Wei Wang, Xiang-Yu Guo, Shao-Yuan Li, etc. Obtaining High-Quality Label by Distinguishing between Easy and Hard Items in Crowdsourcing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2964-2970. [paper](https://doi.org/10.24963/ijcai.2017/413)
+    > Wei Wang, Xiang-Yu Guo, Shao-Yuan Li, et al. Obtaining High-Quality Label by Distinguishing between Easy and Hard Items in Crowdsourcing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2964-2970. [paper](https://doi.org/10.24963/ijcai.2017/413)
 
 
 - **Multiple Medoids based Multi-view Relational Fuzzy Clustering with Minimax Optimization.**
@@ -1656,31 +1232,35 @@
 
 
 - **App Download Forecasting: An Evolutionary Hierarchical Competition Approach.**
-    > Yingzi Wang, Nicholas Jing Yuan, Yu Sun, etc. App Download Forecasting: An Evolutionary Hierarchical Competition Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2978-2984. [paper](https://doi.org/10.24963/ijcai.2017/415)
+    > Yingzi Wang, Nicholas Jing Yuan, Yu Sun, et al. App Download Forecasting: An Evolutionary Hierarchical Competition Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2978-2984. [paper](https://doi.org/10.24963/ijcai.2017/415)
 
 
 - **Cascade Dynamics Modeling with Attention-based Recurrent Neural Network.**
-    > Yongqing Wang, Huawei Shen, Shenghua Liu, etc. Cascade Dynamics Modeling with Attention-based Recurrent Neural Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2985-2991. [paper](https://doi.org/10.24963/ijcai.2017/416)
+    > Yongqing Wang, Huawei Shen, Shenghua Liu, et al. Cascade Dynamics Modeling with Attention-based Recurrent Neural Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2985-2991. [paper](https://doi.org/10.24963/ijcai.2017/416)
 
 
 - **Fast Change Point Detection on Dynamic Social Networks.**
-    > Yu Wang, Aniket Chakrabarti, David Sivakoff, etc. Fast Change Point Detection on Dynamic Social Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2992-2998. [paper](https://doi.org/10.24963/ijcai.2017/417)
+    > Yu Wang, Aniket Chakrabarti, David Sivakoff, et al. Fast Change Point Detection on Dynamic Social Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2992-2998. [paper](https://doi.org/10.24963/ijcai.2017/417)
 
 
 - **Multiple Kernel Clustering Framework with Improved Kernels.**
-    > Yueqing Wang, Xinwang Liu, Yong Dou, etc. Multiple Kernel Clustering Framework with Improved Kernels. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2999-3005. [paper](https://doi.org/10.24963/ijcai.2017/418)
+    > Yueqing Wang, Xinwang Liu, Yong Dou, et al. Multiple Kernel Clustering Framework with Improved Kernels. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 2999-3005. [paper](https://doi.org/10.24963/ijcai.2017/418)
 
 
 - **Approximate Large-scale Multiple Kernel k-means Using Deep Neural Network.**
-    > Yueqing Wang, Xinwang Liu, Yong Dou, etc. Approximate Large-scale Multiple Kernel k-means Using Deep Neural Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3006-3012. [paper](https://doi.org/10.24963/ijcai.2017/419)
+    > Yueqing Wang, Xinwang Liu, Yong Dou, et al. Approximate Large-scale Multiple Kernel k-means Using Deep Neural Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3006-3012. [paper](https://doi.org/10.24963/ijcai.2017/419)
 
 
 - **On Gleaning Knowledge from Multiple Domains for Active Learning.**
-    > Zengmao Wang, Bo Du, Lefei Zhang, etc. On Gleaning Knowledge from Multiple Domains for Active Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3013-3019. [paper](https://doi.org/10.24963/ijcai.2017/420)
+    > Zengmao Wang, Bo Du, Lefei Zhang, et al. On Gleaning Knowledge from Multiple Domains for Active Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3013-3019. [paper](https://doi.org/10.24963/ijcai.2017/420)
+
+
+- **Contest Design with Uncertain Performance and Costly Participation.**
+    > Priel Levy, David Sarne, Igor Rochlin. Contest Design with Uncertain Performance and Costly Participation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 302-309. [paper](https://doi.org/10.24963/ijcai.2017/43)
 
 
 - **Doubly Sparsifying Network.**
-    > Zhangyang Wang, Shuai Huang, Jiayu Zhou, etc. Doubly Sparsifying Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3020-3026. [paper](https://doi.org/10.24963/ijcai.2017/421)
+    > Zhangyang Wang, Shuai Huang, Jiayu Zhou, et al. Doubly Sparsifying Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3020-3026. [paper](https://doi.org/10.24963/ijcai.2017/421)
 
 
 - **Improving Reinforcement Learning with Confidence-Based Demonstrations.**
@@ -1692,11 +1272,11 @@
 
 
 - **Group-wise Deep Co-saliency Detection.**
-    > Lina Wei, Shanshan Zhao, Omar El Farouk Bourahla, etc. Group-wise Deep Co-saliency Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3041-3047. [paper](https://doi.org/10.24963/ijcai.2017/424)
+    > Lina Wei, Shanshan Zhao, Omar El Farouk Bourahla, et al. Group-wise Deep Co-saliency Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3041-3047. [paper](https://doi.org/10.24963/ijcai.2017/424)
 
 
 - **Deep Descriptor Transforming for Image Co-Localization.**
-    > Xiu-Shen Wei, Chen-Lin Zhang, Yao Li, etc. Deep Descriptor Transforming for Image Co-Localization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3048-3054. [paper](https://doi.org/10.24963/ijcai.2017/425)
+    > Xiu-Shen Wei, Chen-Lin Zhang, Yao Li, et al. Deep Descriptor Transforming for Image Co-Localization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3048-3054. [paper](https://doi.org/10.24963/ijcai.2017/425)
 
 
 - **Learning from Demonstrations with High-Level Side Information.**
@@ -1704,19 +1284,19 @@
 
 
 - **Sequential Prediction of Social Media Popularity with Deep Temporal Context Networks.**
-    > Bo Wu, Wen-Huang Cheng, Yongdong Zhang, etc. Sequential Prediction of Social Media Popularity with Deep Temporal Context Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3062-3068. [paper](https://doi.org/10.24963/ijcai.2017/427)
+    > Bo Wu, Wen-Huang Cheng, Yongdong Zhang, et al. Sequential Prediction of Social Media Popularity with Deep Temporal Context Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3062-3068. [paper](https://doi.org/10.24963/ijcai.2017/427)
 
 
 - **Discriminant Tensor Dictionary Learning with Neighbor Uncorrelation for Image Set Based Classification.**
-    > Fei Wu, Xiao-Yuan Jing, Wangmeng Zuo, etc. Discriminant Tensor Dictionary Learning with Neighbor Uncorrelation for Image Set Based Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3069-3075. [paper](https://doi.org/10.24963/ijcai.2017/428)
+    > Fei Wu, Xiao-Yuan Jing, Wangmeng Zuo, et al. Discriminant Tensor Dictionary Learning with Neighbor Uncorrelation for Image Set Based Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3069-3075. [paper](https://doi.org/10.24963/ijcai.2017/428)
 
 
 - **Unsupervised Deep Video Hashing with Balanced Rotation.**
-    > Gengshen Wu, Li Liu, Yuchen Guo, etc. Unsupervised Deep Video Hashing with Balanced Rotation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3076-3082. [paper](https://doi.org/10.24963/ijcai.2017/429)
+    > Gengshen Wu, Li Liu, Yuchen Guo, et al. Unsupervised Deep Video Hashing with Balanced Rotation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3076-3082. [paper](https://doi.org/10.24963/ijcai.2017/429)
 
 
 - **Modeling Trajectories with Recurrent Neural Networks.**
-    > Hao Wu, Ziyang Chen, Weiwei Sun, etc. Modeling Trajectories with Recurrent Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3083-3090. [paper](https://doi.org/10.24963/ijcai.2017/430)
+    > Hao Wu, Ziyang Chen, Weiwei Sun, et al. Modeling Trajectories with Recurrent Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3083-3090. [paper](https://doi.org/10.24963/ijcai.2017/430)
 
 
 - **Deep Context: A Neural Language Model for Large-scale Networked Documents.**
@@ -1724,31 +1304,35 @@
 
 
 - **Sequence Prediction with Unlabeled Data by Reward Function Learning.**
-    > Lijun Wu, Li Zhao, Tao Qin, etc. Sequence Prediction with Unlabeled Data by Reward Function Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3098-3104. [paper](https://doi.org/10.24963/ijcai.2017/432)
+    > Lijun Wu, Li Zhao, Tao Qin, et al. Sequence Prediction with Unlabeled Data by Reward Function Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3098-3104. [paper](https://doi.org/10.24963/ijcai.2017/432)
+
+
+- **Representativeness-aware Aspect Analysis for Brand Monitoring in Social Media.**
+    > Lizi Liao, Xiangnan He, Zhaochun Ren, et al. Representativeness-aware Aspect Analysis for Brand Monitoring in Social Media. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 310-316. [paper](https://doi.org/10.24963/ijcai.2017/44)
 
 
 - **Query-Driven Discovery of Anomalous Subgraphs in Attributed Graphs.**
-    > Nannan Wu, Feng Chen, Jianxin Li, etc. Query-Driven Discovery of Anomalous Subgraphs in Attributed Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3105-3111. [paper](https://doi.org/10.24963/ijcai.2017/433)
+    > Nannan Wu, Feng Chen, Jianxin Li, et al. Query-Driven Discovery of Anomalous Subgraphs in Attributed Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3105-3111. [paper](https://doi.org/10.24963/ijcai.2017/433)
 
 
 - **Dual Inference for Machine Learning.**
-    > Yingce Xia, Jiang Bian, Tao Qin, etc. Dual Inference for Machine Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3112-3118. [paper](https://doi.org/10.24963/ijcai.2017/434)
+    > Yingce Xia, Jiang Bian, Tao Qin, et al. Dual Inference for Machine Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3112-3118. [paper](https://doi.org/10.24963/ijcai.2017/434)
 
 
 - **Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks.**
-    > Jun Xiao, Hao Ye, Xiangnan He, etc. Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3119-3125. [paper](https://doi.org/10.24963/ijcai.2017/435)
+    > Jun Xiao, Hao Ye, Xiangnan He, et al. Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3119-3125. [paper](https://doi.org/10.24963/ijcai.2017/435)
 
 
 - **SVD-free Convex-Concave Approaches for Nuclear Norm Regularization.**
-    > Yichi Xiao, Zhe Li, Tianbao Yang, etc. SVD-free Convex-Concave Approaches for Nuclear Norm Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3126-3132. [paper](https://doi.org/10.24963/ijcai.2017/436)
+    > Yichi Xiao, Zhe Li, Tianbao Yang, et al. SVD-free Convex-Concave Approaches for Nuclear Norm Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3126-3132. [paper](https://doi.org/10.24963/ijcai.2017/436)
 
 
 - **Dynamic Multi-View Hashing for Online Image Retrieval.**
-    > Liang Xie, Jialie Shen, Jungong Han, etc. Dynamic Multi-View Hashing for Online Image Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3133-3139. [paper](https://doi.org/10.24963/ijcai.2017/437)
+    > Liang Xie, Jialie Shen, Jungong Han, et al. Dynamic Multi-View Hashing for Online Image Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3133-3139. [paper](https://doi.org/10.24963/ijcai.2017/437)
 
 
 - **Image-embodied Knowledge Representation Learning.**
-    > Ruobing Xie, Zhiyuan Liu, Huanbo Luan, etc. Image-embodied Knowledge Representation Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3140-3146. [paper](https://doi.org/10.24963/ijcai.2017/438)
+    > Ruobing Xie, Zhiyuan Liu, Huanbo Luan, et al. Image-embodied Knowledge Representation Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3140-3146. [paper](https://doi.org/10.24963/ijcai.2017/438)
 
 
 - **Linear Manifold Regularization with Adaptive Graph for Semi-supervised Dimensionality Reduction.**
@@ -1756,7 +1340,7 @@
 
 
 - **Multi-Class Support Vector Machine via Maximizing Multi-Class Margins.**
-    > Jie Xu, Xianglong Liu, Zhouyuan Huo, etc. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3154-3160. [paper](https://doi.org/10.24963/ijcai.2017/440)
+    > Jie Xu, Xianglong Liu, Zhouyuan Huo, et al. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3154-3160. [paper](https://doi.org/10.24963/ijcai.2017/440)
 
 
 - **Multi-view Feature Learning with Discriminative Regularization.**
@@ -1767,12 +1351,16 @@
     > Jinglin Xu, Feiping Nie, Junwei Han. Feature Selection via Scaling Factor Integrated Multi-Class Support Vector Machines. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3168-3174. [paper](https://doi.org/10.24963/ijcai.2017/442)
 
 
+- **Crowd Learning: Improving Online Decision Making Using Crowdsourced Data.**
+    > Yang Liu, Mingyan Liu. Crowd Learning: Improving Online Decision Making Using Crowdsourced Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 317-323. [paper](https://doi.org/10.24963/ijcai.2017/45)
+
+
 - **Incomplete Label Distribution Learning.**
     > Miao Xu, Zhi-Hua Zhou. Incomplete Label Distribution Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3175-3181. [paper](https://doi.org/10.24963/ijcai.2017/443)
 
 
 - **Multi-Positive and Unlabeled Learning.**
-    > Yixing Xu, Chang Xu, Chao Xu, etc. Multi-Positive and Unlabeled Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3182-3188. [paper](https://doi.org/10.24963/ijcai.2017/444)
+    > Yixing Xu, Chang Xu, Chao Xu, et al. Multi-Positive and Unlabeled Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3182-3188. [paper](https://doi.org/10.24963/ijcai.2017/444)
 
 
 - **Stochastic Online Anomaly Analysis for Streaming Time Series.**
@@ -1780,11 +1368,11 @@
 
 
 - **Tag-Aware Personalized Recommendation Using a Hybrid Deep Model.**
-    > Zhenghua Xu, Thomas Lukasiewicz, Cheng Chen, etc. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3196-3202. [paper](https://doi.org/10.24963/ijcai.2017/446)
+    > Zhenghua Xu, Thomas Lukasiewicz, Cheng Chen, et al. Tag-Aware Personalized Recommendation Using a Hybrid Deep Model. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3196-3202. [paper](https://doi.org/10.24963/ijcai.2017/446)
 
 
 - **Deep Matrix Factorization Models for Recommender Systems.**
-    > Hong-Jian Xue, Xinyu Dai, Jianbing Zhang, etc. Deep Matrix Factorization Models for Recommender Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3203-3209. [paper](https://doi.org/10.24963/ijcai.2017/447)
+    > Hong-Jian Xue, Xinyu Dai, Jianbing Zhang, et al. Deep Matrix Factorization Models for Recommender Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3203-3209. [paper](https://doi.org/10.24963/ijcai.2017/447)
 
 
 - **Multiple Indefinite Kernel Learning for Feature Selection.**
@@ -1800,11 +1388,15 @@
 
 
 - **FolkPopularityRank: Tag Recommendation for Enhancing Social Popularity using Text Tags in Content Sharing Services.**
-    > Toshihiko Yamasaki, Jiani Hu, Shumpei Sano, etc. FolkPopularityRank: Tag Recommendation for Enhancing Social Popularity using Text Tags in Content Sharing Services. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3231-3237. [paper](https://doi.org/10.24963/ijcai.2017/451)
+    > Toshihiko Yamasaki, Jiani Hu, Shumpei Sano, et al. FolkPopularityRank: Tag Recommendation for Enhancing Social Popularity using Text Tags in Content Sharing Services. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3231-3237. [paper](https://doi.org/10.24963/ijcai.2017/451)
 
 
 - **Semi-Supervised Deep Hashing with a Bipartite Graph.**
     > Xinyu Yan, Lijun Zhang, Wu-Jun Li. Semi-Supervised Deep Hashing with a Bipartite Graph. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3238-3244. [paper](https://doi.org/10.24963/ijcai.2017/452)
+
+
+- **Recognizing Top-Monotonic Preference Profiles in Polynomial Time.**
+    > Krzysztof Magiera, Piotr Faliszewski. Recognizing Top-Monotonic Preference Profiles in Polynomial Time. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 324-330. [paper](https://doi.org/10.24963/ijcai.2017/46)
 
 
 - **Predicting Human Interaction via Relative Attention Model.**
@@ -1812,7 +1404,7 @@
 
 
 - **Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation.**
-    > Yuguang Yan, Wen Li, Michael K. P. Ng, etc. Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3252-3258. [paper](https://doi.org/10.24963/ijcai.2017/454)
+    > Yuguang Yan, Wen Li, Michael K. P. Ng, et al. Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3252-3258. [paper](https://doi.org/10.24963/ijcai.2017/454)
 
 
 - **Life-Stage Modeling by Customer-Manifold Embedding.**
@@ -1828,51 +1420,55 @@
 
 
 - **Learning to Read Irregular Text with Attention Mechanisms.**
-    > Xiao Yang, Dafang He, Zihan Zhou, etc. Learning to Read Irregular Text with Attention Mechanisms. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3280-3286. [paper](https://doi.org/10.24963/ijcai.2017/458)
+    > Xiao Yang, Dafang He, Zihan Zhou, et al. Learning to Read Irregular Text with Attention Mechanisms. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3280-3286. [paper](https://doi.org/10.24963/ijcai.2017/458)
 
 
 - **Modal Consistency based Pre-Trained Multi-Model Reuse.**
-    > Yang Yang, De-Chuan Zhan, Xiang-Yu Guo, etc. Modal Consistency based Pre-Trained Multi-Model Reuse. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3287-3293. [paper](https://doi.org/10.24963/ijcai.2017/459)
+    > Yang Yang, De-Chuan Zhan, Xiang-Yu Guo, et al. Modal Consistency based Pre-Trained Multi-Model Reuse. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3287-3293. [paper](https://doi.org/10.24963/ijcai.2017/459)
 
 
 - **A Robust Noise Resistant Algorithm for POI Identification from Flickr Data.**
-    > Yiyang Yang, Zhiguo Gong, Qing Li, etc. A Robust Noise Resistant Algorithm for POI Identification from Flickr Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3294-3300. [paper](https://doi.org/10.24963/ijcai.2017/460)
+    > Yiyang Yang, Zhiguo Gong, Qing Li, et al. A Robust Noise Resistant Algorithm for POI Identification from Flickr Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3294-3300. [paper](https://doi.org/10.24963/ijcai.2017/460)
 
 
 - **Multi-Task Deep Reinforcement Learning for Continuous Action Control.**
-    > Zhaoyang Yang, Kathryn E. Merrick, Hussein A. Abbass, etc. Multi-Task Deep Reinforcement Learning for Continuous Action Control. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3301-3307. [paper](https://doi.org/10.24963/ijcai.2017/461)
+    > Zhaoyang Yang, Kathryn E. Merrick, Hussein A. Abbass, et al. Multi-Task Deep Reinforcement Learning for Continuous Action Control. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3301-3307. [paper](https://doi.org/10.24963/ijcai.2017/461)
 
 
 - **Efficient Inexact Proximal Gradient Algorithm for Nonconvex Problems.**
-    > Quanming Yao, James T. Kwok, Fei Gao, etc. Efficient Inexact Proximal Gradient Algorithm for Nonconvex Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3308-3314. [paper](https://doi.org/10.24963/ijcai.2017/462)
+    > Quanming Yao, James T. Kwok, Fei Gao, et al. Efficient Inexact Proximal Gradient Algorithm for Nonconvex Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3308-3314. [paper](https://doi.org/10.24963/ijcai.2017/462)
+
+
+- **Probability Bounds for Overlapping Coalition Formation.**
+    > Michail Mamakos, Georgios Chalkiadakis. Probability Bounds for Overlapping Coalition Formation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 331-337. [paper](https://doi.org/10.24963/ijcai.2017/47)
 
 
 - **Learning Mahalanobis Distance Metric: Considering Instance Disturbance Helps.**
-    > Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, etc. Learning Mahalanobis Distance Metric: Considering Instance Disturbance Helps. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3315-3321. [paper](https://doi.org/10.24963/ijcai.2017/463)
+    > Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, et al. Learning Mahalanobis Distance Metric: Considering Instance Disturbance Helps. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3315-3321. [paper](https://doi.org/10.24963/ijcai.2017/463)
 
 
 - **A Deep Neural Network for Chinese Zero Pronoun Resolution.**
-    > Qingyu Yin, Weinan Zhang, Yu Zhang, etc. A Deep Neural Network for Chinese Zero Pronoun Resolution. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3322-3328. [paper](https://doi.org/10.24963/ijcai.2017/464)
+    > Qingyu Yin, Weinan Zhang, Yu Zhang, et al. A Deep Neural Network for Chinese Zero Pronoun Resolution. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3322-3328. [paper](https://doi.org/10.24963/ijcai.2017/464)
 
 
 - **Learning Co-Substructures by Kernel Dependence Maximization.**
-    > Sho Yokoi, Daichi Mochihashi, Ryo Takahashi, etc. Learning Co-Substructures by Kernel Dependence Maximization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3329-3335. [paper](https://doi.org/10.24963/ijcai.2017/465)
+    > Sho Yokoi, Daichi Mochihashi, Ryo Takahashi, et al. Learning Co-Substructures by Kernel Dependence Maximization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3329-3335. [paper](https://doi.org/10.24963/ijcai.2017/465)
 
 
 - **Privileged Multi-label Learning.**
-    > Shan You, Chang Xu, Yunhe Wang, etc. Privileged Multi-label Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3336-3342. [paper](https://doi.org/10.24963/ijcai.2017/466)
+    > Shan You, Chang Xu, Yunhe Wang, et al. Privileged Multi-label Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3336-3342. [paper](https://doi.org/10.24963/ijcai.2017/466)
 
 
 - **Link Prediction with Spatial and Temporal Consistency in Dynamic Networks.**
-    > Wenchao Yu, Wei Cheng, Charu C. Aggarwal, etc. Link Prediction with Spatial and Temporal Consistency in Dynamic Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3343-3349. [paper](https://doi.org/10.24963/ijcai.2017/467)
+    > Wenchao Yu, Wei Cheng, Charu C. Aggarwal, et al. Link Prediction with Spatial and Temporal Consistency in Dynamic Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3343-3349. [paper](https://doi.org/10.24963/ijcai.2017/467)
 
 
 - **Single-Pass PCA of Large High-Dimensional Data.**
-    > Wenjian Yu, Yu Gu, Jian Li, etc. Single-Pass PCA of Large High-Dimensional Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3350-3356. [paper](https://doi.org/10.24963/ijcai.2017/468)
+    > Wenjian Yu, Yu Gu, Jian Li, et al. Single-Pass PCA of Large High-Dimensional Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3350-3356. [paper](https://doi.org/10.24963/ijcai.2017/468)
 
 
 - **Open Category Classification by Adversarial Sample Generation.**
-    > Yang Yu, Wei-Yang Qu, Nan Li, etc. Open Category Classification by Adversarial Sample Generation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3357-3363. [paper](https://doi.org/10.24963/ijcai.2017/469)
+    > Yang Yu, Wei-Yang Qu, Nan Li, et al. Open Category Classification by Adversarial Sample Generation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3357-3363. [paper](https://doi.org/10.24963/ijcai.2017/469)
 
 
 - **Fast Stochastic Variance Reduced ADMM for Stochastic Composition Optimization.**
@@ -1884,11 +1480,15 @@
 
 
 - **User Profile Preserving Social Network Embedding.**
-    > Daokun Zhang, Jie Yin, Xingquan Zhu, etc. User Profile Preserving Social Network Embedding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3378-3384. [paper](https://doi.org/10.24963/ijcai.2017/472)
+    > Daokun Zhang, Jie Yin, Xingquan Zhu, et al. User Profile Preserving Social Network Embedding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3378-3384. [paper](https://doi.org/10.24963/ijcai.2017/472)
+
+
+- **Computing an Approximately Optimal Agreeable Set of Items.**
+    > Pasin Manurangsi, Warut Suksompong. Computing an Approximately Optimal Agreeable Set of Items. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 338-344. [paper](https://doi.org/10.24963/ijcai.2017/48)
 
 
 - **A Generalized Recurrent Neural Architecture for Text Classification with Multi-Task Learning.**
-    > Honglun Zhang, Liqiang Xiao, Yongkun Wang, etc. A Generalized Recurrent Neural Architecture for Text Classification with Multi-Task Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3385-3391. [paper](https://doi.org/10.24963/ijcai.2017/473)
+    > Honglun Zhang, Liqiang Xiao, Yongkun Wang, et al. A Generalized Recurrent Neural Architecture for Text Classification with Multi-Task Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3385-3391. [paper](https://doi.org/10.24963/ijcai.2017/473)
 
 
 - **ME-MD: An Effective Framework for Neural Machine Translation with Multiple Encoders and Decoders.**
@@ -1896,27 +1496,27 @@
 
 
 - **Adaptive Manifold Regularized Matrix Factorization for Data Clustering.**
-    > Lefei Zhang, Qian Zhang, Bo Du, etc. Adaptive Manifold Regularized Matrix Factorization for Data Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3399-3405. [paper](https://doi.org/10.24963/ijcai.2017/475)
+    > Lefei Zhang, Qian Zhang, Bo Du, et al. Adaptive Manifold Regularized Matrix Factorization for Data Clustering. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3399-3405. [paper](https://doi.org/10.24963/ijcai.2017/475)
 
 
 - **Adaptively Unified Semi-supervised Learning for Cross-Modal Retrieval.**
-    > Liang Zhang, Bingpeng Ma, Jianfeng He, etc. Adaptively Unified Semi-supervised Learning for Cross-Modal Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3406-3412. [paper](https://doi.org/10.24963/ijcai.2017/476)
+    > Liang Zhang, Bingpeng Ma, Jianfeng He, et al. Adaptively Unified Semi-supervised Learning for Cross-Modal Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3406-3412. [paper](https://doi.org/10.24963/ijcai.2017/476)
 
 
 - **DRLnet: Deep Difference Representation Learning Network and An Unsupervised Optimization Framework.**
-    > Puzhao Zhang, Maoguo Gong, Hui Zhang, etc. DRLnet: Deep Difference Representation Learning Network and An Unsupervised Optimization Framework. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3413-3419. [paper](https://doi.org/10.24963/ijcai.2017/477)
+    > Puzhao Zhang, Maoguo Gong, Hui Zhang, et al. DRLnet: Deep Difference Representation Learning Network and An Unsupervised Optimization Framework. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3413-3419. [paper](https://doi.org/10.24963/ijcai.2017/477)
 
 
 - **Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network.**
-    > Qi Zhang, Jiawen Wang, Haoran Huang, etc. Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3420-3426. [paper](https://doi.org/10.24963/ijcai.2017/478)
+    > Qi Zhang, Jiawen Wang, Haoran Huang, et al. Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3420-3426. [paper](https://doi.org/10.24963/ijcai.2017/478)
 
 
 - **Global-residual and Local-boundary Refinement Networks for Rectifying Scene Parsing Predictions.**
-    > Rui Zhang, Sheng Tang, Min Lin, etc. Global-residual and Local-boundary Refinement Networks for Rectifying Scene Parsing Predictions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3427-3433. [paper](https://doi.org/10.24963/ijcai.2017/479)
+    > Rui Zhang, Sheng Tang, Min Lin, et al. Global-residual and Local-boundary Refinement Networks for Rectifying Scene Parsing Predictions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3427-3433. [paper](https://doi.org/10.24963/ijcai.2017/479)
 
 
 - **Robust Regression via Heuristic Hard Thresholding.**
-    > Xuchao Zhang, Liang Zhao, Arnold P. Boedihardjo, etc. Robust Regression via Heuristic Hard Thresholding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3434-3440. [paper](https://doi.org/10.24963/ijcai.2017/480)
+    > Xuchao Zhang, Liang Zhao, Arnold P. Boedihardjo, et al. Robust Regression via Heuristic Hard Thresholding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3434-3440. [paper](https://doi.org/10.24963/ijcai.2017/480)
 
 
 - **Multi-Instance Learning with Key Instance Shift.**
@@ -1927,12 +1527,16 @@
     > Yu Zhang, Yuan Jiang. Multimodal Linear Discriminant Analysis via Structural Sparsity. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3448-3454. [paper](https://doi.org/10.24963/ijcai.2017/482)
 
 
+- **Mechanisms for Online Organ Matching.**
+    > Nicholas Mattei, Abdallah Saffidine, Toby Walsh. Mechanisms for Online Organ Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 345-351. [paper](https://doi.org/10.24963/ijcai.2017/49)
+
+
 - **Weighted Double Q-learning.**
     > Zongzhang Zhang, Zhiyuan Pan, Mykel J. Kochenderfer. Weighted Double Q-learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3455-3461. [paper](https://doi.org/10.24963/ijcai.2017/483)
 
 
 - **Tensor Based Knowledge Transfer Across Skill Categories for Robot Control.**
-    > Chenyang Zhao, Timothy M. Hospedales, Freek Stulp, etc. Tensor Based Knowledge Transfer Across Skill Categories for Robot Control. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3462-3468. [paper](https://doi.org/10.24963/ijcai.2017/484)
+    > Chenyang Zhao, Timothy M. Hospedales, Freek Stulp, et al. Tensor Based Knowledge Transfer Across Skill Categories for Robot Control. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3462-3468. [paper](https://doi.org/10.24963/ijcai.2017/484)
 
 
 - **Learning Discriminative Recommendation Systems with Side Information.**
@@ -1944,7 +1548,7 @@
 
 
 - **Hierarchical Feature Selection with Recursive Regularization.**
-    > Hong Zhao, Pengfei Zhu, Ping Wang, etc. Hierarchical Feature Selection with Recursive Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3483-3489. [paper](https://doi.org/10.24963/ijcai.2017/487)
+    > Hong Zhao, Pengfei Zhu, Ping Wang, et al. Hierarchical Feature Selection with Recursive Regularization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3483-3489. [paper](https://doi.org/10.24963/ijcai.2017/487)
 
 
 - **Deep Optical Flow Estimation Via Multi-Scale Correspondence Structure Learning.**
@@ -1952,31 +1556,39 @@
 
 
 - **ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data.**
-    > Stan Zhao, Meng Jiang, Quan Yuan, etc. ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3497-3503. [paper](https://doi.org/10.24963/ijcai.2017/489)
+    > Stan Zhao, Meng Jiang, Quan Yuan, et al. ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3497-3503. [paper](https://doi.org/10.24963/ijcai.2017/489)
+
+
+- **Diverse Weighted Bipartite b-Matching.**
+    > Faez Ahmed, John P. Dickerson, Mark D. Fuge. Diverse Weighted Bipartite b-Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 35-41. [paper](https://doi.org/10.24963/ijcai.2017/6)
 
 
 - **Deep Multiple Instance Hashing for Object-based Image Retrieval.**
-    > Wanqing Zhao, Ziyu Guan, Hangzai Luo, etc. Deep Multiple Instance Hashing for Object-based Image Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3504-3510. [paper](https://doi.org/10.24963/ijcai.2017/490)
+    > Wanqing Zhao, Ziyu Guan, Hangzai Luo, et al. Deep Multiple Instance Hashing for Object-based Image Retrieval. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3504-3510. [paper](https://doi.org/10.24963/ijcai.2017/490)
 
 
 - **TUCH: Turning Cross-view Hashing into Single-view Hashing via Generative Adversarial Nets.**
-    > Xin Zhao, Guiguang Ding, Yuchen Guo, etc. TUCH: Turning Cross-view Hashing into Single-view Hashing via Generative Adversarial Nets. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3511-3517. [paper](https://doi.org/10.24963/ijcai.2017/491)
+    > Xin Zhao, Guiguang Ding, Yuchen Guo, et al. TUCH: Turning Cross-view Hashing into Single-view Hashing via Generative Adversarial Nets. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3511-3517. [paper](https://doi.org/10.24963/ijcai.2017/491)
 
 
 - **Video Question Answering via Hierarchical Spatio-Temporal Attention Networks.**
-    > Zhou Zhao, Qifan Yang, Deng Cai, etc. Video Question Answering via Hierarchical Spatio-Temporal Attention Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3518-3524. [paper](https://doi.org/10.24963/ijcai.2017/492)
+    > Zhou Zhao, Qifan Yang, Deng Cai, et al. Video Question Answering via Hierarchical Spatio-Temporal Attention Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3518-3524. [paper](https://doi.org/10.24963/ijcai.2017/492)
+
+
+- **Deterministic, Strategyproof, and Fair Cake Cutting.**
+    > Vijay Menon, Kate Larson. Deterministic, Strategyproof, and Fair Cake Cutting. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 352-358. [paper](https://doi.org/10.24963/ijcai.2017/50)
 
 
 - **Link Prediction via Ranking Metric Dual-Level Attention Network Learning.**
-    > Zhou Zhao, Ben Gao, Vincent W. Zheng, etc. Link Prediction via Ranking Metric Dual-Level Attention Network Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3525-3531. [paper](https://doi.org/10.24963/ijcai.2017/493)
+    > Zhou Zhao, Ben Gao, Vincent W. Zheng, et al. Link Prediction via Ranking Metric Dual-Level Attention Network Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3525-3531. [paper](https://doi.org/10.24963/ijcai.2017/493)
 
 
 - **Microblog Sentiment Classification via Recurrent Random Walk Network Learning.**
-    > Zhou Zhao, Hanqing Lu, Deng Cai, etc. Microblog Sentiment Classification via Recurrent Random Walk Network Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3532-3538. [paper](https://doi.org/10.24963/ijcai.2017/494)
+    > Zhou Zhao, Hanqing Lu, Deng Cai, et al. Microblog Sentiment Classification via Recurrent Random Walk Network Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3532-3538. [paper](https://doi.org/10.24963/ijcai.2017/494)
 
 
 - **Tensor Completion with Side Information: A Riemannian Manifold Approach.**
-    > Tengfei Zhou, Hui Qian, Zebang Shen, etc. Tensor Completion with Side Information: A Riemannian Manifold Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3539-3545. [paper](https://doi.org/10.24963/ijcai.2017/495)
+    > Tengfei Zhou, Hui Qian, Zebang Shen, et al. Tensor Completion with Side Information: A Riemannian Manifold Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3539-3545. [paper](https://doi.org/10.24963/ijcai.2017/495)
 
 
 - **Binary Linear Compression for Multi-label Classification.**
@@ -1988,7 +1600,7 @@
 
 
 - **Diverse Neuron Type Selection for Convolutional Neural Networks.**
-    > Guibo Zhu, Zhaoxiang Zhang, Xu-Yao Zhang, etc. Diverse Neuron Type Selection for Convolutional Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3560-3566. [paper](https://doi.org/10.24963/ijcai.2017/498)
+    > Guibo Zhu, Zhaoxiang Zhang, Xu-Yao Zhang, et al. Diverse Neuron Type Selection for Convolutional Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3560-3566. [paper](https://doi.org/10.24963/ijcai.2017/498)
 
 
 - **Locality Constrained Deep Supervised Hashing for Image Retrieval.**
@@ -1996,23 +1608,27 @@
 
 
 - **Deep Graphical Feature Learning for Face Sketch Synthesis.**
-    > Mingrui Zhu, Nannan Wang, Xinbo Gao, etc. Deep Graphical Feature Learning for Face Sketch Synthesis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3574-3580. [paper](https://doi.org/10.24963/ijcai.2017/500)
+    > Mingrui Zhu, Nannan Wang, Xinbo Gao, et al. Deep Graphical Feature Learning for Face Sketch Synthesis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3574-3580. [paper](https://doi.org/10.24963/ijcai.2017/500)
 
 
 - **Adaptive Hypergraph Learning for Unsupervised Feature Selection.**
-    > Xiaofeng Zhu, Yonghua Zhu, Shichao Zhang, etc. Adaptive Hypergraph Learning for Unsupervised Feature Selection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3581-3587. [paper](https://doi.org/10.24963/ijcai.2017/501)
+    > Xiaofeng Zhu, Yonghua Zhu, Shichao Zhang, et al. Adaptive Hypergraph Learning for Unsupervised Feature Selection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3581-3587. [paper](https://doi.org/10.24963/ijcai.2017/501)
 
 
 - **No Learner Left Behind: On the Complexity of Teaching Multiple Learners Simultaneously.**
     > Xiaojin Zhu, Ji Liu, Manuel Lopes. No Learner Left Behind: On the Complexity of Teaching Multiple Learners Simultaneously. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3588-3594. [paper](https://doi.org/10.24963/ijcai.2017/502)
 
 
+- **Core Stability in Hedonic Games among Friends and Enemies: Impact of Neutrals.**
+    > Kazunori Ohta, Nathanaël Barrot, Anisse Ismaili, et al. Core Stability in Hedonic Games among Friends and Enemies: Impact of Neutrals. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 359-365. [paper](https://doi.org/10.24963/ijcai.2017/51)
+
+
 - **Dependency Exploitation: A Unified CNN-RNN Approach for Visual Emotion Recognition.**
-    > Xinge Zhu, Liang Li, Weigang Zhang, etc. Dependency Exploitation: A Unified CNN-RNN Approach for Visual Emotion Recognition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3595-3601. [paper](https://doi.org/10.24963/ijcai.2017/503)
+    > Xinge Zhu, Liang Li, Weigang Zhang, et al. Dependency Exploitation: A Unified CNN-RNN Approach for Visual Emotion Recognition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3595-3601. [paper](https://doi.org/10.24963/ijcai.2017/503)
 
 
 - **What to Do Next: Modeling User Behaviors by Time-LSTM.**
-    > Yu Zhu, Hao Li, Yikang Liao, etc. What to Do Next: Modeling User Behaviors by Time-LSTM. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3602-3608. [paper](https://doi.org/10.24963/ijcai.2017/504)
+    > Yu Zhu, Hao Li, Yikang Liao, et al. What to Do Next: Modeling User Behaviors by Time-LSTM. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3602-3608. [paper](https://doi.org/10.24963/ijcai.2017/504)
 
 
 - **Object Recognition with and without Objects.**
@@ -2020,11 +1636,11 @@
 
 
 - **Understanding People Lifestyles: Construction of Urban Movement Knowledge Graph from GPS Trajectory.**
-    > Chenyi Zhuang, Nicholas Jing Yuan, Ruihua Song, etc. Understanding People Lifestyles: Construction of Urban Movement Knowledge Graph from GPS Trajectory. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3616-3623. [paper](https://doi.org/10.24963/ijcai.2017/506)
+    > Chenyi Zhuang, Nicholas Jing Yuan, Ruihua Song, et al. Understanding People Lifestyles: Construction of Urban Movement Knowledge Graph from GPS Trajectory. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3616-3623. [paper](https://doi.org/10.24963/ijcai.2017/506)
 
 
 - **Cake Cutting: Envy and Truth.**
-    > Xiaohui Bei, Ning Chen, Guangda Huzhang, etc. Cake Cutting: Envy and Truth. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3625-3631. [paper](https://doi.org/10.24963/ijcai.2017/507)
+    > Xiaohui Bei, Ning Chen, Guangda Huzhang, et al. Cake Cutting: Envy and Truth. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3625-3631. [paper](https://doi.org/10.24963/ijcai.2017/507)
 
 
 - **Networked Fairness in Cake Cutting.**
@@ -2032,15 +1648,19 @@
 
 
 - **Deep Multi-species Embedding.**
-    > Di Chen, Yexiang Xue, Daniel Fink, etc. Deep Multi-species Embedding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3639-3646. [paper](https://doi.org/10.24963/ijcai.2017/509)
+    > Di Chen, Yexiang Xue, Daniel Fink, et al. Deep Multi-species Embedding. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3639-3646. [paper](https://doi.org/10.24963/ijcai.2017/509)
 
 
 - **Opinion-aware Knowledge Graph for Political Ideology Detection.**
-    > Wei Chen, Xiao Zhang, Tengjiao Wang, etc. Opinion-aware Knowledge Graph for Political Ideology Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3647-3653. [paper](https://doi.org/10.24963/ijcai.2017/510)
+    > Wei Chen, Xiao Zhang, Tengjiao Wang, et al. Opinion-aware Knowledge Graph for Political Ideology Detection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3647-3653. [paper](https://doi.org/10.24963/ijcai.2017/510)
 
 
 - **Exploiting Music Play Sequence for Music Recommendation.**
-    > Zhiyong Cheng, Jialie Shen, Lei Zhu, etc. Exploiting Music Play Sequence for Music Recommendation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3654-3660. [paper](https://doi.org/10.24963/ijcai.2017/511)
+    > Zhiyong Cheng, Jialie Shen, Lei Zhu, et al. Exploiting Music Play Sequence for Music Recommendation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3654-3660. [paper](https://doi.org/10.24963/ijcai.2017/511)
+
+
+- **Multiple-Profile Prediction-of-Use Games.**
+    > Andrew Perrault, Craig Boutilier. Multiple-Profile Prediction-of-Use Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 366-373. [paper](https://doi.org/10.24963/ijcai.2017/52)
 
 
 - **Social Pressure in Opinion Games.**
@@ -2052,7 +1672,7 @@
 
 
 - **DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning.**
-    > Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, etc. DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3675-3681. [paper](https://doi.org/10.24963/ijcai.2017/514)
+    > Xiaodong Gu, Hongyu Zhang, Dongmei Zhang, et al. DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3675-3681. [paper](https://doi.org/10.24963/ijcai.2017/514)
 
 
 - **Playing Repeated Network Interdiction Games with Semi-Bandit Feedback.**
@@ -2060,11 +1680,11 @@
 
 
 - **Comparing Strategic Secrecy and Stackelberg Commitment in Security Games.**
-    > Qingyu Guo, Bo An, Branislav Bosanský, etc. Comparing Strategic Secrecy and Stackelberg Commitment in Security Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3691-3699. [paper](https://doi.org/10.24963/ijcai.2017/516)
+    > Qingyu Guo, Bo An, Branislav Bosanský, et al. Comparing Strategic Secrecy and Stackelberg Commitment in Security Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3691-3699. [paper](https://doi.org/10.24963/ijcai.2017/516)
 
 
 - **Modeling Physicians&apos; Utterances to Explore Diagnostic Decision-making.**
-    > Xuan Guo, Rui Li, Qi Yu, etc. Modeling Physicians&apos; Utterances to Explore Diagnostic Decision-making. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3700-3706. [paper](https://doi.org/10.24963/ijcai.2017/517)
+    > Xuan Guo, Rui Li, Qi Yu, et al. Modeling Physicians&apos; Utterances to Explore Diagnostic Decision-making. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3700-3706. [paper](https://doi.org/10.24963/ijcai.2017/517)
 
 
 - **Game Engine Learning from Video.**
@@ -2087,8 +1707,12 @@
     > Levi H. S. Lelis. Stratified Strategy Selection for Unit Control in Real-Time Strategy Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3735-3741. [paper](https://doi.org/10.24963/ijcai.2017/522)
 
 
+- **Enhancing Sustainability of Complex Epidemiological Models through a Generic Multilevel Agent-based Approach.**
+    > Sébastien Picault, Yu-Lin Huang, Vianney Sicard, et al. Enhancing Sustainability of Complex Epidemiological Models through a Generic Multilevel Agent-based Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 374-380. [paper](https://doi.org/10.24963/ijcai.2017/53)
+
+
 - **Defending Against Man-In-The-Middle Attack in Repeated Games.**
-    > Shuxin Li, Xiaohong Li, Jianye Hao, etc. Defending Against Man-In-The-Middle Attack in Repeated Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3742-3748. [paper](https://doi.org/10.24963/ijcai.2017/523)
+    > Shuxin Li, Xiaohong Li, Jianye Hao, et al. Defending Against Man-In-The-Middle Attack in Repeated Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3742-3748. [paper](https://doi.org/10.24963/ijcai.2017/523)
 
 
 - **How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source.**
@@ -2096,11 +1720,11 @@
 
 
 - **Tactics of Adversarial Attack on Deep Reinforcement Learning Agents.**
-    > Yen-Chen Lin, Zhang-Wei Hong, Yuan-Hong Liao, etc. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3756-3762. [paper](https://doi.org/10.24963/ijcai.2017/525)
+    > Yen-Chen Lin, Zhang-Wei Hong, Yuan-Hong Liao, et al. Tactics of Adversarial Attack on Deep Reinforcement Learning Agents. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3756-3762. [paper](https://doi.org/10.24963/ijcai.2017/525)
 
 
 - **Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training.**
-    > Xingjun Ma, Sudanthi N. R. Wijewickrema, Shuo Zhou, etc. Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3763-3769. [paper](https://doi.org/10.24963/ijcai.2017/526)
+    > Xingjun Ma, Sudanthi N. R. Wijewickrema, Shuo Zhou, et al. Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3763-3769. [paper](https://doi.org/10.24963/ijcai.2017/526)
 
 
 - **Staying Ahead of the Game: Adaptive Robust Optimization for Dynamic Allocation of Threat Screening Resources.**
@@ -2108,7 +1732,7 @@
 
 
 - **Blue Skies: A Methodology for Data-Driven Clear Sky Modelling.**
-    > Kartik Palani, Ramachandra Kota, Amar Prakash Azad, etc. Blue Skies: A Methodology for Data-Driven Clear Sky Modelling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3777-3783. [paper](https://doi.org/10.24963/ijcai.2017/528)
+    > Kartik Palani, Ramachandra Kota, Amar Prakash Azad, et al. Blue Skies: A Methodology for Data-Driven Clear Sky Modelling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3777-3783. [paper](https://doi.org/10.24963/ijcai.2017/528)
 
 
 - **Thwarting Vote Buying Through Decoy Ballots.**
@@ -2127,6 +1751,10 @@
     > Oscar J. Romero, Ran Zhao, Justine Cassell. Cognitive-Inspired Conversational-Strategy Reasoner for Socially-Aware Agents. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3807-3813. [paper](https://doi.org/10.24963/ijcai.2017/532)
 
 
+- **Don&apos;t Bury your Head in Warnings: A Game-Theoretic Approach for Intelligent Allocation of Cyber-security Alerts.**
+    > Aaron Schlenker, Haifeng Xu, Mina Guirguis, et al. Don&apos;t Bury your Head in Warnings: A Game-Theoretic Approach for Intelligent Allocation of Cyber-security Alerts. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 381-387. [paper](https://doi.org/10.24963/ijcai.2017/54)
+
+
 - **When Security Games Hit Traffic: Optimal Traffic Enforcement Under One Sided Uncertainty.**
     > Ariel Rosenfeld, Sarit Kraus. When Security Games Hit Traffic: Optimal Traffic Enforcement Under One Sided Uncertainty. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3814-3822. [paper](https://doi.org/10.24963/ijcai.2017/533)
 
@@ -2140,7 +1768,7 @@
 
 
 - **Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution.**
-    > Guangyao Shen, Jia Jia, Liqiang Nie, etc. Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3838-3844. [paper](https://doi.org/10.24963/ijcai.2017/536)
+    > Guangyao Shen, Jia Jia, Liqiang Nie, et al. Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3838-3844. [paper](https://doi.org/10.24963/ijcai.2017/536)
 
 
 - **The Minds of Many: Opponent Modeling in a Stochastic Game.**
@@ -2148,7 +1776,7 @@
 
 
 - **Interactive Narrative Personalization with Deep Reinforcement Learning.**
-    > Pengcheng Wang, Jonathan P. Rowe, Wookhee Min, etc. Interactive Narrative Personalization with Deep Reinforcement Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3852-3858. [paper](https://doi.org/10.24963/ijcai.2017/538)
+    > Pengcheng Wang, Jonathan P. Rowe, Wookhee Min, et al. Interactive Narrative Personalization with Deep Reinforcement Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3852-3858. [paper](https://doi.org/10.24963/ijcai.2017/538)
 
 
 - **Predicting the Quality of Short Narratives from Social Media.**
@@ -2156,27 +1784,31 @@
 
 
 - **A Trust-based Mixture of Gaussian Processes Model for Reliable Regression in Participatory Sensing.**
-    > Qikun Xiang, Jie Zhang, Ido Nevat, etc. A Trust-based Mixture of Gaussian Processes Model for Reliable Regression in Participatory Sensing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3866-3872. [paper](https://doi.org/10.24963/ijcai.2017/540)
+    > Qikun Xiang, Jie Zhang, Ido Nevat, et al. A Trust-based Mixture of Gaussian Processes Model for Reliable Regression in Participatory Sensing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3866-3872. [paper](https://doi.org/10.24963/ijcai.2017/540)
 
 
 - **Online Reputation Fraud Campaign Detection in User Ratings.**
     > Chang Xu, Jie Zhang, Zhu Sun. Online Reputation Fraud Campaign Detection in User Ratings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3873-3879. [paper](https://doi.org/10.24963/ijcai.2017/541)
 
 
+- **Posted Pricing sans Discrimination.**
+    > Shreyas Sekar. Posted Pricing sans Discrimination. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 388-394. [paper](https://doi.org/10.24963/ijcai.2017/55)
+
+
 - **Predicting Alzheimer&apos;s Disease Cognitive Assessment via Robust Low-Rank Structured Sparse Model.**
-    > Jie Xu, Cheng Deng, Xinbo Gao, etc. Predicting Alzheimer&apos;s Disease Cognitive Assessment via Robust Low-Rank Structured Sparse Model. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3880-3886. [paper](https://doi.org/10.24963/ijcai.2017/542)
+    > Jie Xu, Cheng Deng, Xinbo Gao, et al. Predicting Alzheimer&apos;s Disease Cognitive Assessment via Robust Low-Rank Structured Sparse Model. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3880-3886. [paper](https://doi.org/10.24963/ijcai.2017/542)
 
 
 - **Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN.**
-    > Yanyu Xu, Nianyi Li, Junru Wu, etc. Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3887-3893. [paper](https://doi.org/10.24963/ijcai.2017/543)
+    > Yanyu Xu, Nianyi Li, Junru Wu, et al. Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3887-3893. [paper](https://doi.org/10.24963/ijcai.2017/543)
 
 
 - **Fast Network Embedding Enhancement via High Order Proximity Approximation.**
-    > Cheng Yang, Maosong Sun, Zhiyuan Liu, etc. Fast Network Embedding Enhancement via High Order Proximity Approximation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3894-3900. [paper](https://doi.org/10.24963/ijcai.2017/544)
+    > Cheng Yang, Maosong Sun, Zhiyuan Liu, et al. Fast Network Embedding Enhancement via High Order Proximity Approximation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3894-3900. [paper](https://doi.org/10.24963/ijcai.2017/544)
 
 
 - **A Convolutional Approach for Misinformation Identification.**
-    > Feng Yu, Qiang Liu, Shu Wu, etc. A Convolutional Approach for Misinformation Identification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3901-3907. [paper](https://doi.org/10.24963/ijcai.2017/545)
+    > Feng Yu, Qiang Liu, Shu Wu, et al. A Convolutional Approach for Misinformation Identification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3901-3907. [paper](https://doi.org/10.24963/ijcai.2017/545)
 
 
 - **No Time to Observe: Adaptive Influence Maximization with Partial Feedback.**
@@ -2184,11 +1816,11 @@
 
 
 - **Socialized Word Embeddings.**
-    > Ziqian Zeng, Yichun Yin, Yangqiu Song, etc. Socialized Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3915-3921. [paper](https://doi.org/10.24963/ijcai.2017/547)
+    > Ziqian Zeng, Yichun Yin, Yangqiu Song, et al. Socialized Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3915-3921. [paper](https://doi.org/10.24963/ijcai.2017/547)
 
 
 - **Efficient Private ERM for Smooth Objectives.**
-    > Jiaqi Zhang, Kai Zheng, Wenlong Mou, etc. Efficient Private ERM for Smooth Objectives. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3922-3928. [paper](https://doi.org/10.24963/ijcai.2017/548)
+    > Jiaqi Zhang, Kai Zheng, Wenlong Mou, et al. Efficient Private ERM for Smooth Objectives. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3922-3928. [paper](https://doi.org/10.24963/ijcai.2017/548)
 
 
 - **A Causal Framework for Discovering and Removing Direct and Indirect Discrimination.**
@@ -2196,15 +1828,19 @@
 
 
 - **Optimal Escape Interdiction on Transportation Networks.**
-    > Youzhi Zhang, Bo An, Long Tran-Thanh, etc. Optimal Escape Interdiction on Transportation Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3936-3944. [paper](https://doi.org/10.24963/ijcai.2017/550)
+    > Youzhi Zhang, Bo An, Long Tran-Thanh, et al. Optimal Escape Interdiction on Transportation Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3936-3944. [paper](https://doi.org/10.24963/ijcai.2017/550)
 
 
 - **Efficient Label Contamination Attacks Against Black-Box Learning Models.**
-    > Mengchen Zhao, Bo An, Wei Gao, etc. Efficient Label Contamination Attacks Against Black-Box Learning Models. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3945-3951. [paper](https://doi.org/10.24963/ijcai.2017/551)
+    > Mengchen Zhao, Bo An, Wei Gao, et al. Efficient Label Contamination Attacks Against Black-Box Learning Models. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3945-3951. [paper](https://doi.org/10.24963/ijcai.2017/551)
+
+
+- **Why You Should Charge Your Friends for Borrowing Your Stuff.**
+    > Kijung Shin, Euiwoong Lee, Dhivya Eswaran, et al. Why You Should Charge Your Friends for Borrowing Your Stuff. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 395-401. [paper](https://doi.org/10.24963/ijcai.2017/56)
 
 
 - **A Group-Based Personalized Model for Image Privacy Classification and Labeling.**
-    > Haoti Zhong, Anna Cinzia Squicciarini, David J. Miller, etc. A Group-Based Personalized Model for Image Privacy Classification and Labeling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3952-3958. [paper](https://doi.org/10.24963/ijcai.2017/552)
+    > Haoti Zhong, Anna Cinzia Squicciarini, David J. Miller, et al. A Group-Based Personalized Model for Image Privacy Classification and Labeling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3952-3958. [paper](https://doi.org/10.24963/ijcai.2017/552)
 
 
 - **A Feature-Enriched Neural Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging.**
@@ -2212,27 +1848,27 @@
 
 
 - **Multimodal Storytelling via Generative Adversarial Imitation Learning.**
-    > Zhiqian Chen, Xuchao Zhang, Arnold P. Boedihardjo, etc. Multimodal Storytelling via Generative Adversarial Imitation Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3967-3973. [paper](https://doi.org/10.24963/ijcai.2017/554)
+    > Zhiqian Chen, Xuchao Zhang, Arnold P. Boedihardjo, et al. Multimodal Storytelling via Generative Adversarial Imitation Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3967-3973. [paper](https://doi.org/10.24963/ijcai.2017/554)
 
 
 - **Joint Training for Pivot-based Neural Machine Translation.**
-    > Yong Cheng, Qian Yang, Yang Liu, etc. Joint Training for Pivot-based Neural Machine Translation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3974-3980. [paper](https://doi.org/10.24963/ijcai.2017/555)
+    > Yong Cheng, Qian Yang, Yang Liu, et al. Joint Training for Pivot-based Neural Machine Translation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3974-3980. [paper](https://doi.org/10.24963/ijcai.2017/555)
 
 
 - **Solving Probability Problems in Natural Language.**
-    > Anton Dries, Angelika Kimmig, Jesse Davis, etc. Solving Probability Problems in Natural Language. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3981-3987. [paper](https://doi.org/10.24963/ijcai.2017/556)
+    > Anton Dries, Angelika Kimmig, Jesse Davis, et al. Solving Probability Problems in Natural Language. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3981-3987. [paper](https://doi.org/10.24963/ijcai.2017/556)
 
 
 - **Stance Classification with Target-specific Neural Attention.**
-    > Jiachen Du, Ruifeng Xu, Yulan He, etc. Stance Classification with Target-specific Neural Attention. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3988-3994. [paper](https://doi.org/10.24963/ijcai.2017/557)
+    > Jiachen Du, Ruifeng Xu, Yulan He, et al. Stance Classification with Target-specific Neural Attention. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3988-3994. [paper](https://doi.org/10.24963/ijcai.2017/557)
 
 
 - **An Attention-based Regression Model for Grounding Textual Phrases in Images.**
-    > Ko Endo, Masaki Aono, Eric Nichols, etc. An Attention-based Regression Model for Grounding Textual Phrases in Images. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3995-4001. [paper](https://doi.org/10.24963/ijcai.2017/558)
+    > Ko Endo, Masaki Aono, Eric Nichols, et al. An Attention-based Regression Model for Grounding Textual Phrases in Images. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 3995-4001. [paper](https://doi.org/10.24963/ijcai.2017/558)
 
 
 - **Effective Deep Memory Networks for Distant Supervised Relation Extraction.**
-    > Xiaocheng Feng, Jiang Guo, Bing Qin, etc. Effective Deep Memory Networks for Distant Supervised Relation Extraction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4002-4008. [paper](https://doi.org/10.24963/ijcai.2017/559)
+    > Xiaocheng Feng, Jiang Guo, Bing Qin, et al. Effective Deep Memory Networks for Distant Supervised Relation Extraction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4002-4008. [paper](https://doi.org/10.24963/ijcai.2017/559)
 
 
 - **Understanding and Exploiting Language Diversity.**
@@ -2240,23 +1876,27 @@
 
 
 - **Learning to Explain Entity Relationships by Pairwise Ranking with Convolutional Neural Networks.**
-    > Jizhou Huang, Wei Zhang, Shiqi Zhao, etc. Learning to Explain Entity Relationships by Pairwise Ranking with Convolutional Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4018-4025. [paper](https://doi.org/10.24963/ijcai.2017/561)
+    > Jizhou Huang, Wei Zhang, Shiqi Zhao, et al. Learning to Explain Entity Relationships by Pairwise Ranking with Convolutional Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4018-4025. [paper](https://doi.org/10.24963/ijcai.2017/561)
+
+
+- **Synchronisation Games on Hypergraphs.**
+    > Sunil Simon, Dominik Wojtczak. Synchronisation Games on Hypergraphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 402-408. [paper](https://doi.org/10.24963/ijcai.2017/57)
 
 
 - **SWIM: A Simple Word Interaction Model for Implicit Discourse Relation Recognition.**
-    > Wenqiang Lei, Xuancong Wang, Meichun Liu, etc. SWIM: A Simple Word Interaction Model for Implicit Discourse Relation Recognition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4026-4032. [paper](https://doi.org/10.24963/ijcai.2017/562)
+    > Wenqiang Lei, Xuancong Wang, Meichun Liu, et al. SWIM: A Simple Word Interaction Model for Implicit Discourse Relation Recognition. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4026-4032. [paper](https://doi.org/10.24963/ijcai.2017/562)
 
 
 - **MAT: A Multimodal Attentive Translator for Image Captioning.**
-    > Chang Liu, Fuchun Sun, Changhu Wang, etc. MAT: A Multimodal Attentive Translator for Image Captioning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4033-4039. [paper](https://doi.org/10.24963/ijcai.2017/563)
+    > Chang Liu, Fuchun Sun, Changhu Wang, et al. MAT: A Multimodal Attentive Translator for Image Captioning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4033-4039. [paper](https://doi.org/10.24963/ijcai.2017/563)
 
 
 - **How Unlabeled Web Videos Help Complex Event Detection?**
-    > Huan Liu, Qinghua Zheng, Minnan Luo, etc. How Unlabeled Web Videos Help Complex Event Detection? in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4040-4046. [paper](https://doi.org/10.24963/ijcai.2017/564)
+    > Huan Liu, Qinghua Zheng, Minnan Luo, et al. How Unlabeled Web Videos Help Complex Event Detection? in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4040-4046. [paper](https://doi.org/10.24963/ijcai.2017/564)
 
 
 - **A Structural Representation Learning for Multi-relational Networks.**
-    > Lin Liu, Xin Li, William K. Cheung, etc. A Structural Representation Learning for Multi-relational Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4047-4053. [paper](https://doi.org/10.24963/ijcai.2017/565)
+    > Lin Liu, Xin Li, William K. Cheung, et al. A Structural Representation Learning for Multi-relational Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4047-4053. [paper](https://doi.org/10.24963/ijcai.2017/565)
 
 
 - **Dynamic Compositional Neural Networks over Tree Structure.**
@@ -2268,7 +1908,7 @@
 
 
 - **Interactive Attention Networks for Aspect-Level Sentiment Classification.**
-    > Dehong Ma, Sujian Li, Xiaodong Zhang, etc. Interactive Attention Networks for Aspect-Level Sentiment Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4068-4074. [paper](https://doi.org/10.24963/ijcai.2017/568)
+    > Dehong Ma, Sujian Li, Xiaodong Zhang, et al. Interactive Attention Networks for Aspect-Level Sentiment Classification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4068-4074. [paper](https://doi.org/10.24963/ijcai.2017/568)
 
 
 - **Inverted Bilingual Topic Models for Lexicon Extraction from Non-parallel Data.**
@@ -2283,12 +1923,16 @@
     > Shashank Srivastava, Amos Azaria, Tom M. Mitchell. Parsing Natural Language Conversations using Contextual Cues. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4089-4095. [paper](https://doi.org/10.24963/ijcai.2017/571)
 
 
+- **Proportional Rankings.**
+    > Piotr Skowron, Martin Lackner, Markus Brill, et al. Proportional Rankings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 409-415. [paper](https://doi.org/10.24963/ijcai.2017/58)
+
+
 - **Automatic Assessment of Absolute Sentence Complexity.**
     > Sanja Stajner, Simone Paolo Ponzetto, Heiner Stuckenschmidt. Automatic Assessment of Absolute Sentence Complexity. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4096-4102. [paper](https://doi.org/10.24963/ijcai.2017/572)
 
 
 - **Finding Prototypes of Answers for Improving Answer Sentence Selection.**
-    > Wai Lok Tam, Namgi Han, Juan Ignacio Navarro-Horñiacek, etc. Finding Prototypes of Answers for Improving Answer Sentence Selection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4103-4108. [paper](https://doi.org/10.24963/ijcai.2017/573)
+    > Wai Lok Tam, Namgi Han, Juan Ignacio Navarro-Horñiacek, et al. Finding Prototypes of Answers for Improving Answer Sentence Selection. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4103-4108. [paper](https://doi.org/10.24963/ijcai.2017/573)
 
 
 - **From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach.**
@@ -2323,6 +1967,10 @@
     > Zhongqing Wang, Yue Zhang. A Neural Model for Joint Event Detection and Summarization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4158-4164. [paper](https://doi.org/10.24963/ijcai.2017/581)
 
 
+- **Attachment Centrality for Weighted Graphs.**
+    > Jadwiga Sosnowska, Oskar Skibski. Attachment Centrality for Weighted Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 416-422. [paper](https://doi.org/10.24963/ijcai.2017/59)
+
+
 - **A Variational Autoencoding Approach for Inducing Cross-lingual Word Embeddings.**
     > Liang-Chen Wei, Zhi-Hong Deng. A Variational Autoencoding Approach for Inducing Cross-lingual Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4165-4171. [paper](https://doi.org/10.24963/ijcai.2017/582)
 
@@ -2340,15 +1988,19 @@
 
 
 - **Fast Parallel Training of Neural Language Models.**
-    > Tong Xiao, Jingbo Zhu, Tongran Liu, etc. Fast Parallel Training of Neural Language Models. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4193-4199. [paper](https://doi.org/10.24963/ijcai.2017/586)
+    > Tong Xiao, Jingbo Zhu, Tongran Liu, et al. Fast Parallel Training of Neural Language Models. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4193-4199. [paper](https://doi.org/10.24963/ijcai.2017/586)
+
+
+- **Pure Nash Equilibria in Online Fair Division.**
+    > Martin Aleksandrov, Toby Walsh. Pure Nash Equilibria in Online Fair Division. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 42-48. [paper](https://doi.org/10.24963/ijcai.2017/7)
 
 
 - **Lexical Sememe Prediction via Word Embeddings and Matrix Factorization.**
-    > Ruobing Xie, Xingchi Yuan, Zhiyuan Liu, etc. Lexical Sememe Prediction via Word Embeddings and Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4200-4206. [paper](https://doi.org/10.24963/ijcai.2017/587)
+    > Ruobing Xie, Xingchi Yuan, Zhiyuan Liu, et al. Lexical Sememe Prediction via Word Embeddings and Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4200-4206. [paper](https://doi.org/10.24963/ijcai.2017/587)
 
 
 - **A Correlated Topic Model Using Word Embeddings.**
-    > Guangxu Xun, Yaliang Li, Wayne Xin Zhao, etc. A Correlated Topic Model Using Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4207-4213. [paper](https://doi.org/10.24963/ijcai.2017/588)
+    > Guangxu Xun, Yaliang Li, Wayne Xin Zhao, et al. A Correlated Topic Model Using Word Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4207-4213. [paper](https://doi.org/10.24963/ijcai.2017/588)
 
 
 - **Learning Conversational Systems that Interleave Task and Non-Task Content.**
@@ -2356,19 +2008,23 @@
 
 
 - **AGRA: An Analysis-Generation-Ranking Framework for Automatic Abbreviation from Paper Titles.**
-    > Jianbing Zhang, Yixin Sun, Shujian Huang, etc. AGRA: An Analysis-Generation-Ranking Framework for Automatic Abbreviation from Paper Titles. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4221-4227. [paper](https://doi.org/10.24963/ijcai.2017/590)
+    > Jianbing Zhang, Yixin Sun, Shujian Huang, et al. AGRA: An Analysis-Generation-Ranking Framework for Automatic Abbreviation from Paper Titles. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4221-4227. [paper](https://doi.org/10.24963/ijcai.2017/590)
 
 
 - **Segmenting Chinese Microtext: Joint Informal-Word Detection and Segmentation with Neural Networks.**
     > Meishan Zhang, Guohong Fu, Nan Yu. Segmenting Chinese Microtext: Joint Informal-Word Detection and Segmentation with Neural Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4228-4234. [paper](https://doi.org/10.24963/ijcai.2017/591)
 
 
+- **Online Optimization of Video-Ad Allocation.**
+    > Hanna Sumita, Yasushi Kawase, Sumio Fujita, et al. Online Optimization of Video-Ad Allocation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 423-429. [paper](https://doi.org/10.24963/ijcai.2017/60)
+
+
 - **Automatic Generation of Grounded Visual Questions.**
-    > Shijie Zhang, Lizhen Qu, Shaodi You, etc. Automatic Generation of Grounded Visual Questions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4235-4243. [paper](https://doi.org/10.24963/ijcai.2017/592)
+    > Shijie Zhang, Lizhen Qu, Shaodi You, et al. Automatic Generation of Grounded Visual Questions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4235-4243. [paper](https://doi.org/10.24963/ijcai.2017/592)
 
 
 - **Entity Suggestion with Conceptual Expanation.**
-    > Yi Zhang, Yanghua Xiao, Seung-won Hwang, etc. Entity Suggestion with Conceptual Expanation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4244-4250. [paper](https://doi.org/10.24963/ijcai.2017/593)
+    > Yi Zhang, Yanghua Xiao, Seung-won Hwang, et al. Entity Suggestion with Conceptual Expanation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4244-4250. [paper](https://doi.org/10.24963/ijcai.2017/593)
 
 
 - **Maximum Expected Likelihood Estimation for Zero-resource Neural Machine Translation.**
@@ -2376,15 +2032,15 @@
 
 
 - **Iterative Entity Alignment via Joint Knowledge Embeddings.**
-    > Hao Zhu, Ruobing Xie, Zhiyuan Liu, etc. Iterative Entity Alignment via Joint Knowledge Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4258-4264. [paper](https://doi.org/10.24963/ijcai.2017/595)
+    > Hao Zhu, Ruobing Xie, Zhiyuan Liu, et al. Iterative Entity Alignment via Joint Knowledge Embeddings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4258-4264. [paper](https://doi.org/10.24963/ijcai.2017/595)
 
 
 - **Efficient Optimal Search under Expensive Edge Cost Computation.**
-    > Masataro Asai, Akihiro Kishimoto, Adi Botea, etc. Efficient Optimal Search under Expensive Edge Cost Computation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4266-4272. [paper](https://doi.org/10.24963/ijcai.2017/596)
+    > Masataro Asai, Akihiro Kishimoto, Adi Botea, et al. Efficient Optimal Search under Expensive Edge Cost Computation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4266-4272. [paper](https://doi.org/10.24963/ijcai.2017/596)
 
 
 - **Reduction Techniques for Model Checking and Learning in MDPs.**
-    > Suda Bharadwaj, Stéphane Le Roux, Guillermo A. Pérez, etc. Reduction Techniques for Model Checking and Learning in MDPs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4273-4279. [paper](https://doi.org/10.24963/ijcai.2017/597)
+    > Suda Bharadwaj, Stéphane Le Roux, Guillermo A. Pérez, et al. Reduction Techniques for Model Checking and Learning in MDPs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4273-4279. [paper](https://doi.org/10.24963/ijcai.2017/597)
 
 
 - **Faster Conflict Generation for Dynamic Controllability.**
@@ -2396,11 +2052,15 @@
 
 
 - **Purely Declarative Action Descriptions are Overrated: Classical Planning with Simulators.**
-    > Guillem Francès, Miquel Ramírez, Nir Lipovetzky, etc. Purely Declarative Action Descriptions are Overrated: Classical Planning with Simulators. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4294-4301. [paper](https://doi.org/10.24963/ijcai.2017/600)
+    > Guillem Francès, Miquel Ramírez, Nir Lipovetzky, et al. Purely Declarative Action Descriptions are Overrated: Classical Planning with Simulators. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4294-4301. [paper](https://doi.org/10.24963/ijcai.2017/600)
+
+
+- **On the Power and Limitations of Deception in Multi-Robot Adversarial Patrolling.**
+    > Noga Talmor, Noa Agmon. On the Power and Limitations of Deception in Multi-Robot Adversarial Patrolling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 430-436. [paper](https://doi.org/10.24963/ijcai.2017/61)
 
 
 - **On Creating Complementary Pattern Databases.**
-    > Santiago Franco, Álvaro Torralba, Levi H. S. Lelis, etc. On Creating Complementary Pattern Databases. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4302-4309. [paper](https://doi.org/10.24963/ijcai.2017/601)
+    > Santiago Franco, Álvaro Torralba, Levi H. S. Lelis, et al. On Creating Complementary Pattern Databases. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4302-4309. [paper](https://doi.org/10.24963/ijcai.2017/601)
 
 
 - **Beyond Forks: Finding and Ranking Star Factorings for Decoupled Search.**
@@ -2416,7 +2076,7 @@
 
 
 - **Switched Linear Multi-Robot Navigation Using Hierarchical Model Predictive Control.**
-    > Chao Huang, Xin Chen, Yifan Zhang, etc. Switched Linear Multi-Robot Navigation Using Hierarchical Model Predictive Control. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4331-4337. [paper](https://doi.org/10.24963/ijcai.2017/605)
+    > Chao Huang, Xin Chen, Yifan Zhang, et al. Switched Linear Multi-Robot Navigation Using Hierarchical Model Predictive Control. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4331-4337. [paper](https://doi.org/10.24963/ijcai.2017/605)
 
 
 - **Numeric Planning via Abstraction and Policy Guided Search.**
@@ -2428,15 +2088,19 @@
 
 
 - **Equi-Reward Utility Maximizing Design in Stochastic Environments.**
-    > Sarah Keren, Luis Enrique Pineda, Avigdor Gal, etc. Equi-Reward Utility Maximizing Design in Stochastic Environments. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4353-4360. [paper](https://doi.org/10.24963/ijcai.2017/608)
+    > Sarah Keren, Luis Enrique Pineda, Avigdor Gal, et al. Equi-Reward Utility Maximizing Design in Stochastic Environments. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4353-4360. [paper](https://doi.org/10.24963/ijcai.2017/608)
 
 
 - **Integrating Answer Set Programming with Semantic Dictionaries for Robot Task Planning.**
-    > Dongcai Lu, Yi Zhou, Feng Wu, etc. Integrating Answer Set Programming with Semantic Dictionaries for Robot Task Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4361-4367. [paper](https://doi.org/10.24963/ijcai.2017/609)
+    > Dongcai Lu, Yi Zhou, Feng Wu, et al. Integrating Answer Set Programming with Semantic Dictionaries for Robot Task Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4361-4367. [paper](https://doi.org/10.24963/ijcai.2017/609)
 
 
 - **Deceptive Path-Planning.**
     > Peta Masters, Sebastian Sardiña. Deceptive Path-Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4368-4375. [paper](https://doi.org/10.24963/ijcai.2017/610)
+
+
+- **Manipulating Gale-Shapley Algorithm: Preserving Stability and Remaining Inconspicuous.**
+    > Rohit Vaish, Dinesh Garg. Manipulating Gale-Shapley Algorithm: Preserving Stability and Remaining Inconspicuous. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 437-443. [paper](https://doi.org/10.24963/ijcai.2017/62)
 
 
 - **Lossy Compression of Pattern Databases Using Acyclic Random Hypergraphs.**
@@ -2444,11 +2108,11 @@
 
 
 - **Landmarks for Numeric Planning Problems.**
-    > Enrico Scala, Patrik Haslum, Daniele Magazzeni, etc. Landmarks for Numeric Planning Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4384-4390. [paper](https://doi.org/10.24963/ijcai.2017/612)
+    > Enrico Scala, Patrik Haslum, Daniele Magazzeni, et al. Landmarks for Numeric Planning Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4384-4390. [paper](https://doi.org/10.24963/ijcai.2017/612)
 
 
 - **Generating Context-Free Grammars using Classical Planning.**
-    > Javier Segovia Aguas, Sergio Jiménez Celorrio, Anders Jonsson. Generating Context-Free Grammars using Classical Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4391-4397. [paper](https://doi.org/10.24963/ijcai.2017/613)
+    > Javier Segovia-Aguas, Sergio Jiménez Celorrio, Anders Jonsson. Generating Context-Free Grammars using Classical Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4391-4397. [paper](https://doi.org/10.24963/ijcai.2017/613)
 
 
 - **Search and Learn: On Dead-End Detectors, the Traps they Set, and Trap Learning.**
@@ -2460,7 +2124,7 @@
 
 
 - **An Improved Approximation Algorithm for the Subpath Planning Problem and Its Generalization.**
-    > Hanna Sumita, Yuma Yonebayashi, Naonori Kakimura, etc. An Improved Approximation Algorithm for the Subpath Planning Problem and Its Generalization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4412-4418. [paper](https://doi.org/10.24963/ijcai.2017/616)
+    > Hanna Sumita, Yuma Yonebayashi, Naonori Kakimura, et al. An Improved Approximation Algorithm for the Subpath Planning Problem and Its Generalization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4412-4418. [paper](https://doi.org/10.24963/ijcai.2017/616)
 
 
 - **Robust Advertisement Allocation.**
@@ -2475,8 +2139,12 @@
     > Pradeep Varakantham, Na Fu. Mechanism Design for Strategic Project Scheduling. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4433-4439. [paper](https://doi.org/10.24963/ijcai.2017/619)
 
 
+- **Multi-Agent Planning with Baseline Regret Minimization.**
+    > Feng Wu, Shlomo Zilberstein, Xiaoping Chen. Multi-Agent Planning with Baseline Regret Minimization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 444-450. [paper](https://doi.org/10.24963/ijcai.2017/63)
+
+
 - **Temporal Planning for Compilation of Quantum Approximate Optimization Circuits.**
-    > Davide Venturelli, Minh Do, Eleanor Gilbert Rieffel, etc. Temporal Planning for Compilation of Quantum Approximate Optimization Circuits. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4440-4446. [paper](https://doi.org/10.24963/ijcai.2017/620)
+    > Davide Venturelli, Minh Do, Eleanor Gilbert Rieffel, et al. Temporal Planning for Compilation of Quantum Approximate Optimization Circuits. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4440-4446. [paper](https://doi.org/10.24963/ijcai.2017/620)
 
 
 - **Heuristic Online Goal Recognition in Continuous Domains.**
@@ -2488,7 +2156,7 @@
 
 
 - **Hierarchical Task Network Planning with Task Insertion and State Constraints.**
-    > Zhanhao Xiao, Andreas Herzig, Laurent Perrussel, etc. Hierarchical Task Network Planning with Task Insertion and State Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4463-4469. [paper](https://doi.org/10.24963/ijcai.2017/623)
+    > Zhanhao Xiao, Andreas Herzig, Laurent Perrussel, et al. Hierarchical Task Network Planning with Task Insertion and State Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4463-4469. [paper](https://doi.org/10.24963/ijcai.2017/623)
 
 
 - **A Scalable Approach to Chasing Multiple Moving Targets with Multiple Agents.**
@@ -2496,15 +2164,15 @@
 
 
 - **Bridging the Gap between Observation and Decision Making: Goal Recognition and Flexible Resource Allocation in Dynamic Network Interdiction.**
-    > Kai Xu, Kaiming Xiao, Quanjun Yin, etc. Bridging the Gap between Observation and Decision Making: Goal Recognition and Flexible Resource Allocation in Dynamic Network Interdiction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4477-4483. [paper](https://doi.org/10.24963/ijcai.2017/625)
+    > Kai Xu, Kaiming Xiao, Quanjun Yin, et al. Bridging the Gap between Observation and Decision Making: Goal Recognition and Flexible Resource Allocation in Dynamic Network Interdiction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4477-4483. [paper](https://doi.org/10.24963/ijcai.2017/625)
 
 
 - **Dual Track Multimodal Automatic Learning through Human-Robot Interaction.**
-    > Shuqiang Jiang, Weiqing Min, Xue Li, etc. Dual Track Multimodal Automatic Learning through Human-Robot Interaction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4485-4491. [paper](https://doi.org/10.24963/ijcai.2017/626)
+    > Shuqiang Jiang, Weiqing Min, Xue Li, et al. Dual Track Multimodal Automatic Learning through Human-Robot Interaction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4485-4491. [paper](https://doi.org/10.24963/ijcai.2017/626)
 
 
 - **Locality Preserving Matching.**
-    > Jiayi Ma, Ji Zhao, Hanqi Guo, etc. Locality Preserving Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4492-4498. [paper](https://doi.org/10.24963/ijcai.2017/627)
+    > Jiayi Ma, Ji Zhao, Hanqi Guo, et al. Locality Preserving Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4492-4498. [paper](https://doi.org/10.24963/ijcai.2017/627)
 
 
 - **Salient Object Detection with Semantic Priors.**
@@ -2512,11 +2180,15 @@
 
 
 - **Temporal Grounding Graphs for Language Understanding with Accrued Visual-Linguistic Context.**
-    > Rohan Paul, Andrei Barbu, Sue Felshin, etc. Temporal Grounding Graphs for Language Understanding with Accrued Visual-Linguistic Context. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4506-4514. [paper](https://doi.org/10.24963/ijcai.2017/629)
+    > Rohan Paul, Andrei Barbu, Sue Felshin, et al. Temporal Grounding Graphs for Language Understanding with Accrued Visual-Linguistic Context. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4506-4514. [paper](https://doi.org/10.24963/ijcai.2017/629)
+
+
+- **Score Aggregation via Spectral Method.**
+    > Mingyu Xiao, Yuqing Wang. Score Aggregation via Spectral Method. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 451-457. [paper](https://doi.org/10.24963/ijcai.2017/64)
 
 
 - **Maintaining Communication in Multi-Robot Tree Coverage.**
-    > Mor Sinay, Noa Agmon, Oleg Maksimov, etc. Maintaining Communication in Multi-Robot Tree Coverage. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4515-4522. [paper](https://doi.org/10.24963/ijcai.2017/630)
+    > Mor Sinay, Noa Agmon, Oleg Maksimov, et al. Maintaining Communication in Multi-Robot Tree Coverage. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4515-4522. [paper](https://doi.org/10.24963/ijcai.2017/630)
 
 
 - **Combining Models from Multiple Sources for RGB-D Scene Recognition.**
@@ -2524,15 +2196,15 @@
 
 
 - **Fast Preprocessing for Robust Face Sketch Synthesis.**
-    > Yibing Song, Jiawei Zhang, Linchao Bao, etc. Fast Preprocessing for Robust Face Sketch Synthesis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4530-4536. [paper](https://doi.org/10.24963/ijcai.2017/632)
+    > Yibing Song, Jiawei Zhang, Linchao Bao, et al. Fast Preprocessing for Robust Face Sketch Synthesis. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4530-4536. [paper](https://doi.org/10.24963/ijcai.2017/632)
 
 
 - **Learning to Hallucinate Face Images via Component Generation and Enhancement.**
-    > Yibing Song, Jiawei Zhang, Shengfeng He, etc. Learning to Hallucinate Face Images via Component Generation and Enhancement. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4537-4543. [paper](https://doi.org/10.24963/ijcai.2017/633)
+    > Yibing Song, Jiawei Zhang, Shengfeng He, et al. Learning to Hallucinate Face Images via Component Generation and Enhancement. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4537-4543. [paper](https://doi.org/10.24963/ijcai.2017/633)
 
 
 - **Cross-Granularity Graph Inference for Semantic Video Object Segmentation.**
-    > Huiling Wang, Tinghuai Wang, Ke Chen, etc. Cross-Granularity Graph Inference for Semantic Video Object Segmentation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4544-4550. [paper](https://doi.org/10.24963/ijcai.2017/634)
+    > Huiling Wang, Tinghuai Wang, Ke Chen, et al. Cross-Granularity Graph Inference for Semantic Video Object Segmentation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4544-4550. [paper](https://doi.org/10.24963/ijcai.2017/634)
 
 
 - **Is My Object in This Video? Reconstruction-based Object Search in Videos.**
@@ -2551,16 +2223,20 @@
     > Madison Clark-Turner, Christopher Amato. COG-DICE: An Algorithm for Solving Continuous-Observation Dec-POMDPs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4573-4579. [paper](https://doi.org/10.24963/ijcai.2017/638)
 
 
+- **Agent Design Consistency Checking via Planning.**
+    > Nitin Yadav, John Thangarajah, Sebastian Sardiña. Agent Design Consistency Checking via Planning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 458-464. [paper](https://doi.org/10.24963/ijcai.2017/65)
+
+
 - **Fair and Efficient Social Choice in Dynamic Settings.**
     > Rupert Freeman, Seyed Majid Zahedi, Vincent Conitzer. Fair and Efficient Social Choice in Dynamic Settings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4580-4587. [paper](https://doi.org/10.24963/ijcai.2017/639)
 
 
 - **Incremental Decision Making Under Risk with the Weighted Expected Utility Model.**
-    > Hugo Gilbert, Nawal Benabbou, Patrice Perny, etc. Incremental Decision Making Under Risk with the Weighted Expected Utility Model. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4588-4594. [paper](https://doi.org/10.24963/ijcai.2017/640)
+    > Hugo Gilbert, Nawal Benabbou, Patrice Perny, et al. Incremental Decision Making Under Risk with the Weighted Expected Utility Model. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4588-4594. [paper](https://doi.org/10.24963/ijcai.2017/640)
 
 
 - **Coarse-to-Fine Lifted MAP Inference in Computer Vision.**
-    > Haroun Habeeb, Ankit Anand, Mausam, etc. Coarse-to-Fine Lifted MAP Inference in Computer Vision. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4595-4602. [paper](https://doi.org/10.24963/ijcai.2017/641)
+    > Haroun Habeeb, Ankit Anand, Mausam, et al. Coarse-to-Fine Lifted MAP Inference in Computer Vision. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4595-4602. [paper](https://doi.org/10.24963/ijcai.2017/641)
 
 
 - **Variational Mixtures of Gaussian Processes for Classification.**
@@ -2572,7 +2248,7 @@
 
 
 - **Efficient Inference for Untied MLNs.**
-    > Somdeb Sarkhel, Deepak Venugopal, Nicholas Ruozzi, etc. Efficient Inference for Untied MLNs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4617-4624. [paper](https://doi.org/10.24963/ijcai.2017/644)
+    > Somdeb Sarkhel, Deepak Venugopal, Nicholas Ruozzi, et al. Efficient Inference for Untied MLNs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4617-4624. [paper](https://doi.org/10.24963/ijcai.2017/644)
 
 
 - **Order Statistics for Probabilistic Graphical Models.**
@@ -2584,11 +2260,15 @@
 
 
 - **XOR-Sampling for Network Design with Correlated Stochastic Events.**
-    > Xiaojian Wu, Yexiang Xue, Bart Selman, etc. XOR-Sampling for Network Design with Correlated Stochastic Events. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4640-4647. [paper](https://doi.org/10.24963/ijcai.2017/647)
+    > Xiaojian Wu, Yexiang Xue, Bart Selman, et al. XOR-Sampling for Network Design with Correlated Stochastic Events. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4640-4647. [paper](https://doi.org/10.24963/ijcai.2017/647)
 
 
 - **Robust Quadratic Programming for Price Optimization.**
     > Akihiro Yabe, Shinji Ito, Ryohei Fujimaki. Robust Quadratic Programming for Price Optimization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4648-4654. [paper](https://doi.org/10.24963/ijcai.2017/648)
+
+
+- **How to Form Winning Coalitions in Mixed Human-Computer Settings.**
+    > Yair Zick, Kobi Gal, Yoram Bachrach, et al. How to Form Winning Coalitions in Mixed Human-Computer Settings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 465-471. [paper](https://doi.org/10.24963/ijcai.2017/66)
 
 
 - **Single-Image 3D Scene Parsing Using Geometric Commonsense.**
@@ -2596,11 +2276,11 @@
 
 
 - **Dynamic Programming Bipartite Belief Propagation For Hyper Graph Matching.**
-    > Zhen Zhang, Julian J. McAuley, Yong Li, etc. Dynamic Programming Bipartite Belief Propagation For Hyper Graph Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4662-4668. [paper](https://doi.org/10.24963/ijcai.2017/650)
+    > Zhen Zhang, Julian J. McAuley, Yong Li, et al. Dynamic Programming Bipartite Belief Propagation For Hyper Graph Matching. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4662-4668. [paper](https://doi.org/10.24963/ijcai.2017/650)
 
 
 - **Approximating Discrete Probability Distribution of Image Emotions by Multi-Modal Features Fusion.**
-    > Sicheng Zhao, Guiguang Ding, Yue Gao, etc. Approximating Discrete Probability Distribution of Image Emotions by Multi-Modal Features Fusion. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4669-4675. [paper](https://doi.org/10.24963/ijcai.2017/651)
+    > Sicheng Zhao, Guiguang Ding, Yue Gao, et al. Approximating Discrete Probability Distribution of Image Emotions by Multi-Modal Features Fusion. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4669-4675. [paper](https://doi.org/10.24963/ijcai.2017/651)
 
 
 - **Plato&apos;s Cave in the Dempster-Shafer land-the Link between Pignistic and Plausibility Transformations.**
@@ -2608,7 +2288,7 @@
 
 
 - **When Will Negotiation Agents Be Able to Represent Us? The Challenges and Opportunities for Autonomous Negotiators.**
-    > Tim Baarslag, Michael Kaisers, Enrico H. Gerding, etc. When Will Negotiation Agents Be Able to Represent Us? The Challenges and Opportunities for Autonomous Negotiators. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4684-4690. [paper](https://doi.org/10.24963/ijcai.2017/653)
+    > Tim Baarslag, Michael Kaisers, Enrico H. Gerding, et al. When Will Negotiation Agents Be Able to Represent Us? The Challenges and Opportunities for Autonomous Negotiators. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4684-4690. [paper](https://doi.org/10.24963/ijcai.2017/653)
 
 
 - **Algorithmic Bias in Autonomous Systems.**
@@ -2620,15 +2300,19 @@
 
 
 - **Reinforcement Learning with a Corrupted Reward Channel.**
-    > Tom Everitt, Victoria Krakovna, Laurent Orseau, etc. Reinforcement Learning with a Corrupted Reward Channel. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4705-4713. [paper](https://doi.org/10.24963/ijcai.2017/656)
+    > Tom Everitt, Victoria Krakovna, Laurent Orseau, et al. Reinforcement Learning with a Corrupted Reward Channel. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4705-4713. [paper](https://doi.org/10.24963/ijcai.2017/656)
 
 
 - **A Goal Reasoning Agent for Controlling UAVs in Beyond-Visual-Range Air Combat.**
-    > Michael W. Floyd, Justin Karneeb, Philip Moore, etc. A Goal Reasoning Agent for Controlling UAVs in Beyond-Visual-Range Air Combat. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4714-4721. [paper](https://doi.org/10.24963/ijcai.2017/657)
+    > Michael W. Floyd, Justin Karneeb, Philip Moore, et al. A Goal Reasoning Agent for Controlling UAVs in Beyond-Visual-Range Air Combat. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4714-4721. [paper](https://doi.org/10.24963/ijcai.2017/657)
 
 
 - **On Automating the Doctrine of Double Effect.**
     > Naveen Sundar Govindarajulu, Selmer Bringsjord. On Automating the Doctrine of Double Effect. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4722-4730. [paper](https://doi.org/10.24963/ijcai.2017/658)
+
+
+- **Estimating the size of search trees by sampling with domain knowledge.**
+    > Gleb Belov, Samuel Esler, Dylan Fernando, et al. Estimating the size of search trees by sampling with domain knowledge. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 473-479. [paper](https://doi.org/10.24963/ijcai.2017/67)
 
 
 - **Achieving Coordination in Multi-Agent Systems by Stable Local Conventions under Community Networks.**
@@ -2640,11 +2324,11 @@
 
 
 - **Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning.**
-    > Rowan McAllister, Yarin Gal, Alex Kendall, etc. Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4745-4753. [paper](https://doi.org/10.24963/ijcai.2017/661)
+    > Rowan McAllister, Yarin Gal, Alex Kendall, et al. Concrete Problems for Autonomous Vehicle Safety: Advantages of Bayesian Deep Learning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4745-4753. [paper](https://doi.org/10.24963/ijcai.2017/661)
 
 
 - **Should Robots be Obedient?**
-    > Smitha Milli, Dylan Hadfield-Menell, Anca D. Dragan, etc. Should Robots be Obedient? in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4754-4760. [paper](https://doi.org/10.24963/ijcai.2017/662)
+    > Smitha Milli, Dylan Hadfield-Menell, Anca D. Dragan, et al. Should Robots be Obedient? in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4754-4760. [paper](https://doi.org/10.24963/ijcai.2017/662)
 
 
 - **Privacy and Autonomous Systems.**
@@ -2656,7 +2340,7 @@
 
 
 - **Rationalisation of Profiles of Abstract Argumentation Frameworks: Extended Abstract.**
-    > Stéphane Airiau, Elise Bonzon, Ulle Endriss, etc. Rationalisation of Profiles of Abstract Argumentation Frameworks: Extended Abstract. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4776-4780. [paper](https://doi.org/10.24963/ijcai.2017/665)
+    > Stéphane Airiau, Elise Bonzon, Ulle Endriss, et al. Rationalisation of Profiles of Abstract Argumentation Frameworks: Extended Abstract. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4776-4780. [paper](https://doi.org/10.24963/ijcai.2017/665)
 
 
 - **Unsatisfiable Core Shrinking for Anytime Answer Set Optimization.**
@@ -2673,6 +2357,10 @@
 
 - **Open-World Probabilistic Databases: An Abridged Report.**
     > Ismail Ilkan Ceylan, Adnan Darwiche, Guy Van den Broeck. Open-World Probabilistic Databases: An Abridged Report. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4796-4800. [paper](https://doi.org/10.24963/ijcai.2017/669)
+
+
+- **An Admissible HTN Planning Heuristic.**
+    > Pascal Bercher, Gregor Behnke, Daniel Höller, et al. An Admissible HTN Planning Heuristic. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 480-488. [paper](https://doi.org/10.24963/ijcai.2017/68)
 
 
 - **Efficient Techniques for Crowdsourced Top-k Lists.**
@@ -2696,11 +2384,11 @@
 
 
 - **Enhancing Crowdworkers&apos; Vigilance.**
-    > Avshalom Elmalech, David Sarne, Esther David, etc. Enhancing Crowdworkers&apos; Vigilance. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4826-4830. [paper](https://doi.org/10.24963/ijcai.2017/675)
+    > Avshalom Elmalech, David Sarne, Esther David, et al. Enhancing Crowdworkers&apos; Vigilance. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4826-4830. [paper](https://doi.org/10.24963/ijcai.2017/675)
 
 
 - **Lessons from the Amazon Picking Challenge: Four Aspects of Building Robotic Systems.**
-    > Clemens Eppner, Sebastian Höfer, Rico Jonschkowski, etc. Lessons from the Amazon Picking Challenge: Four Aspects of Building Robotic Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4831-4835. [paper](https://doi.org/10.24963/ijcai.2017/676)
+    > Clemens Eppner, Sebastian Höfer, Rico Jonschkowski, et al. Lessons from the Amazon Picking Challenge: Four Aspects of Building Robotic Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4831-4835. [paper](https://doi.org/10.24963/ijcai.2017/676)
 
 
 - **Lexicons on Demand: Neural Word Embeddings for Large-Scale Text Analysis.**
@@ -2708,7 +2396,7 @@
 
 
 - **Which is the Fairest (Rent Division) of Them All? [Extended Abstract].**
-    > Ya&apos;akov (Kobi) Gal, Moshe Mash, Ariel D. Procaccia, etc. Which is the Fairest (Rent Division) of Them All? [Extended Abstract]. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4841-4843. [paper](https://doi.org/10.24963/ijcai.2017/678)
+    > Ya&apos;akov (Kobi) Gal, Moshe Mash, Ariel D. Procaccia, et al. Which is the Fairest (Rent Division) of Them All? [Extended Abstract]. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4841-4843. [paper](https://doi.org/10.24963/ijcai.2017/678)
 
 
 - **Using Constraint Programming to solve a Cryptanalytic Problem.**
@@ -2716,7 +2404,7 @@
 
 
 - **Multi-Type Activity Recognition from a Robot&apos;s Viewpoint.**
-    > Ilaria Gori, J. K. Aggarwal, Larry H. Matthies, etc. Multi-Type Activity Recognition from a Robot&apos;s Viewpoint. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4849-4853. [paper](https://doi.org/10.24963/ijcai.2017/680)
+    > Ilaria Gori, J. K. Aggarwal, Larry H. Matthies, et al. Multi-Type Activity Recognition from a Robot&apos;s Viewpoint. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4849-4853. [paper](https://doi.org/10.24963/ijcai.2017/680)
 
 
 - **Model Accuracy and Runtime Tradeoff in Distributed Deep Learning: A Systematic Study.**
@@ -2732,7 +2420,7 @@
 
 
 - **Summary: Multi-Agent Path Finding with Kinematic Constraints.**
-    > Wolfgang Hönig, T. K. Satish Kumar, Liron Cohen, etc. Summary: Multi-Agent Path Finding with Kinematic Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4869-4873. [paper](https://doi.org/10.24963/ijcai.2017/684)
+    > Wolfgang Hönig, T. K. Satish Kumar, Liron Cohen, et al. Summary: Multi-Agent Path Finding with Kinematic Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4869-4873. [paper](https://doi.org/10.24963/ijcai.2017/684)
 
 
 - **Learning and Applying Case Adaptation Rules for Classification: An Ensemble Approach.**
@@ -2740,15 +2428,19 @@
 
 
 - **An End-to-End System for Accomplishing Tasks with Modular Robots: Perspectives for the AI community.**
-    > Gangyuan Jing, Tarik Tosun, Mark Yim, etc. An End-to-End System for Accomplishing Tasks with Modular Robots: Perspectives for the AI community. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4879-4883. [paper](https://doi.org/10.24963/ijcai.2017/686)
+    > Gangyuan Jing, Tarik Tosun, Mark Yim, et al. An End-to-End System for Accomplishing Tasks with Modular Robots: Perspectives for the AI community. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4879-4883. [paper](https://doi.org/10.24963/ijcai.2017/686)
 
 
 - **Blockedness in Propositional Logic: Are You Satisfied With Your Neighborhood?**
-    > Benjamin Kiesl, Martina Seidl, Hans Tompits, etc. Blockedness in Propositional Logic: Are You Satisfied With Your Neighborhood? in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4884-4888. [paper](https://doi.org/10.24963/ijcai.2017/687)
+    > Benjamin Kiesl, Martina Seidl, Hans Tompits, et al. Blockedness in Propositional Logic: Are You Satisfied With Your Neighborhood? in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4884-4888. [paper](https://doi.org/10.24963/ijcai.2017/687)
 
 
 - **On Thompson Sampling and Asymptotic Optimality.**
-    > Jan Leike, Tor Lattimore, Laurent Orseau, etc. On Thompson Sampling and Asymptotic Optimality. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4889-4893. [paper](https://doi.org/10.24963/ijcai.2017/688)
+    > Jan Leike, Tor Lattimore, Laurent Orseau, et al. On Thompson Sampling and Asymptotic Optimality. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4889-4893. [paper](https://doi.org/10.24963/ijcai.2017/688)
+
+
+- **Front-to-End Bidirectional Heuristic Search with Near-Optimal Node Expansions.**
+    > Jingwei Chen, Robert C. Holte, Sandra Zilles, et al. Front-to-End Bidirectional Heuristic Search with Near-Optimal Node Expansions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 489-495. [paper](https://doi.org/10.24963/ijcai.2017/69)
 
 
 - **A SAT Approach to Branchwidth.**
@@ -2759,12 +2451,16 @@
     > Viktor Losing, Barbara Hammer, Heiko Wersing. Self-Adjusting Memory: How to Deal with Diverse Drift Types. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4899-4903. [paper](https://doi.org/10.24963/ijcai.2017/690)
 
 
+- **Efficient Computation of Extensions for Dynamic Abstract Argumentation Frameworks: An Incremental Approach.**
+    > Gianvincenzo Alfano, Sergio Greco, Francesco Parisi. Efficient Computation of Extensions for Dynamic Abstract Argumentation Frameworks: An Incremental Approach. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 49-55. [paper](https://doi.org/10.24963/ijcai.2017/8)
+
+
 - **Competence Guided Model for Casebase Maintenance.**
     > Ditty Mathew, Sutanu Chakraborti. Competence Guided Model for Casebase Maintenance. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4904-4908. [paper](https://doi.org/10.24963/ijcai.2017/691)
 
 
 - **The Many Benefits of Annotator Rationales for Relevance Judgments.**
-    > Tyler McDonnell, Mücahid Kutlu, Tamer Elsayed, etc. The Many Benefits of Annotator Rationales for Relevance Judgments. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4909-4913. [paper](https://doi.org/10.24963/ijcai.2017/692)
+    > Tyler McDonnell, Mücahid Kutlu, Tamer Elsayed, et al. The Many Benefits of Annotator Rationales for Relevance Judgments. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4909-4913. [paper](https://doi.org/10.24963/ijcai.2017/692)
 
 
 - **Dynamical System-Based Motion Planning for Multi-Arm Systems: Reaching for Moving Objects.**
@@ -2780,7 +2476,7 @@
 
 
 - **Grounding Abstract Spatial Concepts for Language Interaction with Robots.**
-    > Rohan Paul, Jacob Arkin, Nicholas Roy, etc. Grounding Abstract Spatial Concepts for Language Interaction with Robots. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4929-4933. [paper](https://doi.org/10.24963/ijcai.2017/696)
+    > Rohan Paul, Jacob Arkin, Nicholas Roy, et al. Grounding Abstract Spatial Concepts for Language Interaction with Robots. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4929-4933. [paper](https://doi.org/10.24963/ijcai.2017/696)
 
 
 - **Adapting Deep Network Features to Capture Psychological Representations: An Abridged Report.**
@@ -2788,23 +2484,27 @@
 
 
 - **Evaluating Market User Interfaces for Electric Vehicle Charging using Bid2Charge.**
-    > Sebastian Stein, Enrico H. Gerding, Adrian Nedea, etc. Evaluating Market User Interfaces for Electric Vehicle Charging using Bid2Charge. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4939-4943. [paper](https://doi.org/10.24963/ijcai.2017/698)
+    > Sebastian Stein, Enrico H. Gerding, Adrian Nedea, et al. Evaluating Market User Interfaces for Electric Vehicle Charging using Bid2Charge. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4939-4943. [paper](https://doi.org/10.24963/ijcai.2017/698)
 
 
 - **Local Topic Discovery via Boosted Ensemble of Nonnegative Matrix Factorization.**
-    > Sangho Suh, Jaegul Choo, Joonseok Lee, etc. Local Topic Discovery via Boosted Ensemble of Nonnegative Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4944-4948. [paper](https://doi.org/10.24963/ijcai.2017/699)
+    > Sangho Suh, Jaegul Choo, Joonseok Lee, et al. Local Topic Discovery via Boosted Ensemble of Nonnegative Matrix Factorization. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4944-4948. [paper](https://doi.org/10.24963/ijcai.2017/699)
 
 
 - **Value Iteration Networks.**
-    > Aviv Tamar, Yi Wu, Garrett Thomas, etc. Value Iteration Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4949-4953. [paper](https://doi.org/10.24963/ijcai.2017/700)
+    > Aviv Tamar, Yi Wu, Garrett Thomas, et al. Value Iteration Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4949-4953. [paper](https://doi.org/10.24963/ijcai.2017/700)
 
 
 - **I-dual: Solving Constrained SSPs via Heuristic Search in the Dual Space.**
-    > Felipe W. Trevizan, Sylvie Thiébaux, Pedro Henrique Santana, etc. I-dual: Solving Constrained SSPs via Heuristic Search in the Dual Space. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4954-4958. [paper](https://doi.org/10.24963/ijcai.2017/701)
+    > Felipe W. Trevizan, Sylvie Thiébaux, Pedro Henrique Santana, et al. I-dual: Solving Constrained SSPs via Heuristic Search in the Dual Space. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4954-4958. [paper](https://doi.org/10.24963/ijcai.2017/701)
 
 
 - **Maximizing Awareness about HIV in Social Networks of Homeless Youth with Limited Information.**
-    > Amulya Yadav, Hau Chan, Albert Xin Jiang, etc. Maximizing Awareness about HIV in Social Networks of Homeless Youth with Limited Information. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4959-4963. [paper](https://doi.org/10.24963/ijcai.2017/702)
+    > Amulya Yadav, Hau Chan, Albert Xin Jiang, et al. Maximizing Awareness about HIV in Social Networks of Homeless Youth with Limited Information. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4959-4963. [paper](https://doi.org/10.24963/ijcai.2017/702)
+
+
+- **Compromise-free Pathfinding on a Navigation Mesh.**
+    > Michael Cui, Daniel Damir Harabor, Alban Grastien. Compromise-free Pathfinding on a Navigation Mesh. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 496-502. [paper](https://doi.org/10.24963/ijcai.2017/70)
 
 
 - **Robust Multilingual Named Entity Recognition with Shallow Semi-supervised Features (Extended Abstract).**
@@ -2812,11 +2512,11 @@
 
 
 - **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures (Extended Abstract).**
-    > Raffaella Bernardi, Ruket Çakici, Desmond Elliott, etc. Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4970-4974. [paper](https://doi.org/10.24963/ijcai.2017/704)
+    > Raffaella Bernardi, Ruket Çakici, Desmond Elliott, et al. Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4970-4974. [paper](https://doi.org/10.24963/ijcai.2017/704)
 
 
 - **A New Semantics for Overriding in Description Logics (Extended Abstract).**
-    > Piero A. Bonatti, Marco Faella, Iliana M. Petrova, etc. A New Semantics for Overriding in Description Logics (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4975-4979. [paper](https://doi.org/10.24963/ijcai.2017/705)
+    > Piero A. Bonatti, Marco Faella, Iliana M. Petrova, et al. A New Semantics for Overriding in Description Logics (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4975-4979. [paper](https://doi.org/10.24963/ijcai.2017/705)
 
 
 - **On Minimum Representations of Matched Formulas (Extended Abstract).**
@@ -2824,11 +2524,11 @@
 
 
 - **Efficient Mechanism Design for Online Scheduling (Extended Abstract).**
-    > Xujin Chen, Xiaodong Hu, Tie-Yan Liu, etc. Efficient Mechanism Design for Online Scheduling (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4985-4989. [paper](https://doi.org/10.24963/ijcai.2017/707)
+    > Xujin Chen, Xiaodong Hu, Tie-Yan Liu, et al. Efficient Mechanism Design for Online Scheduling (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4985-4989. [paper](https://doi.org/10.24963/ijcai.2017/707)
 
 
 - **Bayesian Network Structure Learning with Integer Programming: Polytopes, Facets and Complexity (Extended Abstract).**
-    > James Cussens, Matti Järvisalo, Janne H. Korhonen, etc. Bayesian Network Structure Learning with Integer Programming: Polytopes, Facets and Complexity (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4990-4994. [paper](https://doi.org/10.24963/ijcai.2017/708)
+    > James Cussens, Matti Järvisalo, Janne H. Korhonen, et al. Bayesian Network Structure Learning with Integer Programming: Polytopes, Facets and Complexity (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 4990-4994. [paper](https://doi.org/10.24963/ijcai.2017/708)
 
 
 - **Coherent Predictive Inference under Exchangeability with Imprecise Probabilities (Extended Abstract).**
@@ -2840,7 +2540,7 @@
 
 
 - **Computer Models Solving Intelligence Test Problems: Progress and Implications (Extended Abstract).**
-    > José Hernández-Orallo, Fernando Martínez-Plumed, Ute Schmid, etc. Computer Models Solving Intelligence Test Problems: Progress and Implications (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5005-5009. [paper](https://doi.org/10.24963/ijcai.2017/711)
+    > José Hernández-Orallo, Fernando Martínez-Plumed, Ute Schmid, et al. Computer Models Solving Intelligence Test Problems: Progress and Implications (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5005-5009. [paper](https://doi.org/10.24963/ijcai.2017/711)
 
 
 - **New Canonical Representations by Augmenting OBDDs with Conjunctive Decomposition (Extended Abstract).**
@@ -2852,15 +2552,19 @@
 
 
 - **On Redundant Topological Constraints (Extended Abstract).**
-    > Sanjiang Li, Zhiguo Long, Weiming Liu, etc. On Redundant Topological Constraints (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5020-5024. [paper](https://doi.org/10.24963/ijcai.2017/714)
+    > Sanjiang Li, Zhiguo Long, Weiming Liu, et al. On Redundant Topological Constraints (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5020-5024. [paper](https://doi.org/10.24963/ijcai.2017/714)
 
 
 - **AutoFolio: An Automatically Configured Algorithm Selector (Extended Abstract).**
-    > Marius Lindauer, Frank Hutter, Holger H. Hoos, etc. AutoFolio: An Automatically Configured Algorithm Selector (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5025-5029. [paper](https://doi.org/10.24963/ijcai.2017/715)
+    > Marius Lindauer, Frank Hutter, Holger H. Hoos, et al. AutoFolio: An Automatically Configured Algorithm Selector (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5025-5029. [paper](https://doi.org/10.24963/ijcai.2017/715)
+
+
+- **A Random Model for Argumentation Framework: Phase Transitions, Empirical Hardness, and Heuristics.**
+    > Yong Gao. A Random Model for Argumentation Framework: Phase Transitions, Empirical Hardness, and Heuristics. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 503-509. [paper](https://doi.org/10.24963/ijcai.2017/71)
 
 
 - **CCEHC: An Efficient Local Search Algorithm for Weighted Partial Maximum Satisfiability (Extended Abstract).**
-    > Chuan Luo, Shaowei Cai, Kaile Su, etc. CCEHC: An Efficient Local Search Algorithm for Weighted Partial Maximum Satisfiability (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5030-5034. [paper](https://doi.org/10.24963/ijcai.2017/716)
+    > Chuan Luo, Shaowei Cai, Kaile Su, et al. CCEHC: An Efficient Local Search Algorithm for Weighted Partial Maximum Satisfiability (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5030-5034. [paper](https://doi.org/10.24963/ijcai.2017/716)
 
 
 - **Approximate Value Iteration with Temporally Extended Actions (Extended Abstract).**
@@ -2876,7 +2580,7 @@
 
 
 - **News Across Languages - Cross-Lingual Document Similarity and Event Tracking (Extended Abstract).**
-    > Jan Rupnik, Andrej Muhic, Gregor Leban, etc. News Across Languages - Cross-Lingual Document Similarity and Event Tracking (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5050-5054. [paper](https://doi.org/10.24963/ijcai.2017/720)
+    > Jan Rupnik, Andrej Muhic, Gregor Leban, et al. News Across Languages - Cross-Lingual Document Similarity and Event Tracking (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5050-5054. [paper](https://doi.org/10.24963/ijcai.2017/720)
 
 
 - **Generating Models of a Matched Formula With a Polynomial Delay (Extended Abstract).**
@@ -2900,7 +2604,7 @@
 
 
 - **Robots in Retirement Homes: Applying Off-the-Shelf Planning and Scheduling to a Team of Assistive Robots (Extended Abstract).**
-    > Tony T. Tran, Tiago Stegun Vaquero, Goldie Nejat, etc. Robots in Retirement Homes: Applying Off-the-Shelf Planning and Scheduling to a Team of Assistive Robots (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5080-5084. [paper](https://doi.org/10.24963/ijcai.2017/726)
+    > Tony T. Tran, Tiago Stegun Vaquero, Goldie Nejat, et al. Robots in Retirement Homes: Applying Off-the-Shelf Planning and Scheduling to a Team of Assistive Robots (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5080-5084. [paper](https://doi.org/10.24963/ijcai.2017/726)
 
 
 - **Exploiting Causality for Selective Belief Filtering in Dynamic Bayesian Networks (Extended Abstract).**
@@ -2913,6 +2617,10 @@
 
 - **Text Rewriting Improves Semantic Role Labeling (Extended Abstract).**
     > Kristian Woodsend, Mirella Lapata. Text Rewriting Improves Semantic Role Labeling (Extended Abstract). in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5095-5099. [paper](https://doi.org/10.24963/ijcai.2017/729)
+
+
+- **Online Bridged Pruning for Real-Time Search with Arbitrary Lookaheads.**
+    > Carlos Hernández, Adi Botea, Jorge A. Baier, et al. Online Bridged Pruning for Real-Time Search with Arbitrary Lookaheads. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 510-516. [paper](https://doi.org/10.24963/ijcai.2017/72)
 
 
 - **POPPONENT: Highly accurate, individually and socially efficient opponent preference model in bilateral multi issue negotiations (Extended Abstract).**
@@ -2973,6 +2681,10 @@
 
 - **Learning Multi-faceted Knowledge Graph Embeddings for Natural Language Processing.**
     > Muhao Chen, Carlo Zaniolo. Learning Multi-faceted Knowledge Graph Embeddings for Natural Language Processing. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5169-5170. [paper](https://doi.org/10.24963/ijcai.2017/744)
+
+
+- **A Reduction based Method for Coloring Very Large Graphs.**
+    > Jinkun Lin, Shaowei Cai, Chuan Luo, et al. A Reduction based Method for Coloring Very Large Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 517-523. [paper](https://doi.org/10.24963/ijcai.2017/73)
 
 
 - **Understanding and Measuring Collective Intelligence Across Different Cognitive Systems: An Information-Theoretic Approach.**
@@ -3096,11 +2808,15 @@
 
 
 - **A Goal-Oriented Meaning-based Statistical Multi-Step Math Word Problem Solver with Understanding, Reasoning and Explanation.**
-    > Chao-Chun Liang, Yu-Shiang Wong, Yi-Chung Lin, etc. A Goal-Oriented Meaning-based Statistical Multi-Step Math Word Problem Solver with Understanding, Reasoning and Explanation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5235-5237. [paper](https://doi.org/10.24963/ijcai.2017/775)
+    > Chao-Chun Liang, Yu-Shiang Wong, Yi-Chung Lin, et al. A Goal-Oriented Meaning-based Statistical Multi-Step Math Word Problem Solver with Understanding, Reasoning and Explanation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5235-5237. [paper](https://doi.org/10.24963/ijcai.2017/775)
 
 
 - **Automated Planning for Urban Traffic Management.**
     > Thomas Leo McCluskey, Mauro Vallati, Santiago Franco. Automated Planning for Urban Traffic Management. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5238-5240. [paper](https://doi.org/10.24963/ijcai.2017/776)
+
+
+- **The Mixing of Markov Chains on Linear Extensions in Practice.**
+    > Topi Talvitie, Teppo Mikael Niinimäki, Mikko Koivisto. The Mixing of Markov Chains on Linear Extensions in Practice. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 524-530. [paper](https://doi.org/10.24963/ijcai.2017/74)
 
 
 - **Speech-based Medical Decision Support in VR using a Deep Neural Network (Demonstration).**
@@ -3108,7 +2824,7 @@
 
 
 - **Real-Time UAV Maneuvering via Automated Planning in Simulations.**
-    > Miquel Ramírez, Michael Papasimeon, Lyndon Benke, etc. Real-Time UAV Maneuvering via Automated Planning in Simulations. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5243-5245. [paper](https://doi.org/10.24963/ijcai.2017/778)
+    > Miquel Ramírez, Michael Papasimeon, Lyndon Benke, et al. Real-Time UAV Maneuvering via Automated Planning in Simulations. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5243-5245. [paper](https://doi.org/10.24963/ijcai.2017/778)
 
 
 - **Limbo: A Reasoning System for Limited Belief.**
@@ -3120,4 +2836,288 @@
 
 
 - **Become Popular in SNS: Tag Recommendation using FolkPopularityRank to Enhance Social Popularity.**
-    > Toshihiko Yamasaki, Yiwei Zhang, Jiani Hu, etc. Become Popular in SNS: Tag Recommendation using FolkPopularityRank to Enhance Social Popularity. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5252-5253. [paper](https://doi.org/10.24963/ijcai.2017/781)
+    > Toshihiko Yamasaki, Yiwei Zhang, Jiani Hu, et al. Become Popular in SNS: Tag Recommendation using FolkPopularityRank to Enhance Social Popularity. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 5252-5253. [paper](https://doi.org/10.24963/ijcai.2017/781)
+
+
+- **Generating Hard Random Boolean Formulas and Disjunctive Logic Programs.**
+    > Giovanni Amendola, Francesco Ricca, Miroslaw Truszczynski. Generating Hard Random Boolean Formulas and Disjunctive Logic Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 532-538. [paper](https://doi.org/10.24963/ijcai.2017/75)
+
+
+- **Stochastic Constraint Programming with And-Or Branch-and-Bound.**
+    > Behrouz Babaki, Tias Guns, Luc De Raedt. Stochastic Constraint Programming with And-Or Branch-and-Bound. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 539-545. [paper](https://doi.org/10.24963/ijcai.2017/76)
+
+
+- **Scalable Constraint-based Virtual Data Center Allocation.**
+    > Sam Bayless, Nodir Kodirov, Ivan Beschastnikh, et al. Scalable Constraint-based Virtual Data Center Allocation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 546-554. [paper](https://doi.org/10.24963/ijcai.2017/77)
+
+
+- **Compact MDDs for Pseudo-Boolean Constraints with At-Most-One Relations in Resource-Constrained Scheduling Problems.**
+    > Miquel Bofill, Jordi Coll, Josep Suy, et al. Compact MDDs for Pseudo-Boolean Constraints with At-Most-One Relations in Resource-Constrained Scheduling Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 555-562. [paper](https://doi.org/10.24963/ijcai.2017/78)
+
+
+- **Acceptability Semantics for Weighted Argumentation Frameworks.**
+    > Leila Amgoud, Jonathan Ben-Naim, Dragan Doder, et al. Acceptability Semantics for Weighted Argumentation Frameworks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 56-62. [paper](https://doi.org/10.24963/ijcai.2017/9)
+
+
+- **Relaxed Exists-Step Plans in Planning as SMT.**
+    > Miquel Bofill, Joan Espasa, Mateu Villaret. Relaxed Exists-Step Plans in Planning as SMT. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 563-570. [paper](https://doi.org/10.24963/ijcai.2017/79)
+
+
+- **From Decimation to Local Search and Back: A New Approach to MaxSAT.**
+    > Shaowei Cai, Chuan Luo, Haochen Zhang. From Decimation to Local Search and Back: A New Approach to MaxSAT. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 571-577. [paper](https://doi.org/10.24963/ijcai.2017/80)
+
+
+- **On the Kernelization of Global Constraints.**
+    > Clément Carbonnel, Emmanuel Hebrard. On the Kernelization of Global Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 578-584. [paper](https://doi.org/10.24963/ijcai.2017/81)
+
+
+- **The DNA Word Design Problem: A New Constraint Model and New Results.**
+    > Michael Codish, Michael Frank, Vitaly Lagoon. The DNA Word Design Problem: A New Constraint Model and New Results. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 585-591. [paper](https://doi.org/10.24963/ijcai.2017/82)
+
+
+- **Learning-Based Abstractions for Nonlinear Constraint Solving.**
+    > Sumanth Dathathri, Nikos Aréchiga, Sicun Gao, et al. Learning-Based Abstractions for Nonlinear Constraint Solving. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 592-599. [paper](https://doi.org/10.24963/ijcai.2017/83)
+
+
+- **The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas.**
+    > Jeffrey M. Dudek, Kuldeep S. Meel, Moshe Y. Vardi. The Hard Problems Are Almost Everywhere For Random CNF-XOR Formulas. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 600-606. [paper](https://doi.org/10.24963/ijcai.2017/84)
+
+
+- **Solving Integer Linear Programs with a Small Number of Global Variables and Constraints.**
+    > Pavel Dvorák, Eduard Eiben, Robert Ganian, et al. Solving Integer Linear Programs with a Small Number of Global Variables and Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 607-613. [paper](https://doi.org/10.24963/ijcai.2017/85)
+
+
+- **Personnel Scheduling as Satisfiability Modulo Theories.**
+    > Christoph Erkinger, Nysret Musliu. Personnel Scheduling as Satisfiability Modulo Theories. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 614-621. [paper](https://doi.org/10.24963/ijcai.2017/86)
+
+
+- **Restart and Random Walk in Local Search for Maximum Vertex Weight Cliques with Evaluations in Clustering Aggregation.**
+    > Yi Fan, Nan Li, Chengqian Li, et al. Restart and Random Walk in Local Search for Maximum Vertex Weight Cliques with Evaluations in Clustering Aggregation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 622-630. [paper](https://doi.org/10.24963/ijcai.2017/87)
+
+
+- **Measuring the Intensity of Attacks in Argumentation Graphs with Shapley Value.**
+    > Leila Amgoud, Jonathan Ben-Naim, Srdjan Vesic. Measuring the Intensity of Attacks in Argumentation Graphs with Shapley Value. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 63-69. [paper](https://doi.org/10.24963/ijcai.2017/10)
+
+
+- **Finding Robust Solutions to Stable Marriage.**
+    > Begum Genc, Mohamed Siala, Barry O&apos;Sullivan, et al. Finding Robust Solutions to Stable Marriage. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 631-637. [paper](https://doi.org/10.24963/ijcai.2017/88)
+
+
+- **Locality in Random SAT Instances.**
+    > Jesús Giráldez-Cru, Jordi Levy. Locality in Random SAT Instances. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 638-644. [paper](https://doi.org/10.24963/ijcai.2017/89)
+
+
+- **A Core-Guided Approach to Learning Optimal Causal Graphs.**
+    > Antti Hyttinen, Paul Saikko, Matti Järvisalo. A Core-Guided Approach to Learning Optimal Causal Graphs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 645-651. [paper](https://doi.org/10.24963/ijcai.2017/90)
+
+
+- **Cardinality Encodings for Graph Optimization Problems.**
+    > Alexey Ignatiev, António Morgado, João Marques-Silva. Cardinality Encodings for Graph Optimization Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 652-658. [paper](https://doi.org/10.24963/ijcai.2017/91)
+
+
+- **Learning to Run Heuristics in Tree Search.**
+    > Elias B. Khalil, Bistra Dilkina, George L. Nemhauser, et al. Learning to Run Heuristics in Tree Search. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 659-666. [paper](https://doi.org/10.24963/ijcai.2017/92)
+
+
+- **An Improved Decision-DNNF Compiler.**
+    > Jean-Marie Lagniez, Pierre Marquis. An Improved Decision-DNNF Compiler. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 667-673. [paper](https://doi.org/10.24963/ijcai.2017/93)
+
+
+- **A Recursive Shortcut for CEGAR: Application To The Modal Logic K Satisfiability Problem.**
+    > Jean-Marie Lagniez, Daniel Le Berre, Tiago de Lima, et al. A Recursive Shortcut for CEGAR: Application To The Modal Logic K Satisfiability Problem. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 674-680. [paper](https://doi.org/10.24963/ijcai.2017/94)
+
+
+- **Automatic Synthesis of Smart Table Constraints by Abstraction of Table Constraints.**
+    > Baudouin Le Charlier, Minh Thanh Khong, Christophe Lecoutre, et al. Automatic Synthesis of Smart Table Constraints by Abstraction of Table Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 681-687. [paper](https://doi.org/10.24963/ijcai.2017/95)
+
+
+- **Solving Stochastic Boolean Satisfiability under Random-Exist Quantification.**
+    > Nian-Ze Lee, Yen-Shi Wang, Jie-Hong R. Jiang. Solving Stochastic Boolean Satisfiability under Random-Exist Quantification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 688-694. [paper](https://doi.org/10.24963/ijcai.2017/96)
+
+
+- **Enhancing Campaign Design in Crowdfunding: A Product Supply Optimization Perspective.**
+    > Qi Liu, Guifeng Wang, Hongke Zhao, et al. Enhancing Campaign Design in Crowdfunding: A Product Supply Optimization Perspective. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 695-702. [paper](https://doi.org/10.24963/ijcai.2017/97)
+
+
+- **An Abstraction-Refinement Methodology for Reasoning about Network Games.**
+    > Guy Avni, Shibashis Guha, Orna Kupferman. An Abstraction-Refinement Methodology for Reasoning about Network Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 70-76. [paper](https://doi.org/10.24963/ijcai.2017/11)
+
+
+- **An Effective Learnt Clause Minimization Approach for CDCL SAT Solvers.**
+    > Mao Luo, Chu-Min Li, Fan Xiao, et al. An Effective Learnt Clause Minimization Approach for CDCL SAT Solvers. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 703-711. [paper](https://doi.org/10.24963/ijcai.2017/98)
+
+
+- **A Partitioning Algorithm for Maximum Common Subgraph Problems.**
+    > Ciaran McCreesh, Patrick Prosser, James Trimble. A Partitioning Algorithm for Maximum Common Subgraph Problems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 712-719. [paper](https://doi.org/10.24963/ijcai.2017/99)
+
+
+- **Efficient Weighted Model Integration via SMT-Based Predicate Abstraction.**
+    > Paolo Morettin, Andrea Passerini, Roberto Sebastiani. Efficient Weighted Model Integration via SMT-Based Predicate Abstraction. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 720-728. [paper](https://doi.org/10.24963/ijcai.2017/100)
+
+
+- **Constraint Games revisited.**
+    > Anthony Palmieri, Arnaud Lallouet. Constraint Games revisited. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 729-735. [paper](https://doi.org/10.24963/ijcai.2017/101)
+
+
+- **On Neighborhood Singleton Consistencies.**
+    > Anastasia Paparrizou, Kostas Stergiou. On Neighborhood Singleton Consistencies. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 736-742. [paper](https://doi.org/10.24963/ijcai.2017/102)
+
+
+- **Temporal Planning with Clock-Based SMT Encodings.**
+    > Jussi Rintanen. Temporal Planning with Clock-Based SMT Encodings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 743-749. [paper](https://doi.org/10.24963/ijcai.2017/103)
+
+
+- **Nonlinear Hybrid Planning with Deep Net Learned Transition Models and Mixed-Integer Linear Programming.**
+    > Buser Say, Ga Wu, Yu Qing Zhou, et al. Nonlinear Hybrid Planning with Deep Net Learned Transition Models and Mixed-Integer Linear Programming. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 750-756. [paper](https://doi.org/10.24963/ijcai.2017/104)
+
+
+- **Player Movement Models for Video Game Level Generation.**
+    > Sam Snodgrass, Santiago Ontañón. Player Movement Models for Video Game Level Generation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 757-763. [paper](https://doi.org/10.24963/ijcai.2017/105)
+
+
+- **On the Computational Complexity of Gossip Protocols.**
+    > Krzysztof R. Apt, Eryk Kopczynski, Dominik Wojtczak. On the Computational Complexity of Gossip Protocols. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 765-771. [paper](https://doi.org/10.24963/ijcai.2017/106)
+
+
+- **Pareto Optimal Allocation under Uncertain Preferences.**
+    > Haris Aziz, Ronald de Haan, Baharak Rastegari. Pareto Optimal Allocation under Uncertain Preferences. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 77-83. [paper](https://doi.org/10.24963/ijcai.2017/12)
+
+
+- **Epistemic-entrenchment Characterization of Parikh&apos;s Axiom.**
+    > Theofanis I. Aravanis, Pavlos Peppas, Mary-Anne Williams. Epistemic-entrenchment Characterization of Parikh&apos;s Axiom. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 772-778. [paper](https://doi.org/10.24963/ijcai.2017/107)
+
+
+- **Weakening Covert Networks by Minimizing Inverse Geodesic Length.**
+    > Haris Aziz, Serge Gaspers, Kamran Najeebullah. Weakening Covert Networks by Minimizing Inverse Geodesic Length. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 779-785. [paper](https://doi.org/10.24963/ijcai.2017/108)
+
+
+- **Query Rewriting for DL-Lite with n-ary Concrete Domains.**
+    > Franz Baader, Stefan Borgwardt, Marcel Lippmann. Query Rewriting for DL-Lite with n-ary Concrete Domains. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 786-792. [paper](https://doi.org/10.24963/ijcai.2017/109)
+
+
+- **Answering Conjunctive Regular Path Queries over Guarded Existential Rules.**
+    > Jean-François Baget, Meghyn Bienvenu, Marie-Laure Mugnier, et al. Answering Conjunctive Regular Path Queries over Guarded Existential Rules. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 793-799. [paper](https://doi.org/10.24963/ijcai.2017/110)
+
+
+- **A General Notion of Equivalence for Abstract Argumentation.**
+    > Ringo Baumann, Wolfgang Dvorák, Thomas Linsbichler, et al. A General Notion of Equivalence for Abstract Argumentation. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 800-806. [paper](https://doi.org/10.24963/ijcai.2017/111)
+
+
+- **A Study of Unrestricted Abstract Argumentation Frameworks.**
+    > Ringo Baumann, Christof Spanring. A Study of Unrestricted Abstract Argumentation Frameworks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 807-813. [paper](https://doi.org/10.24963/ijcai.2017/112)
+
+
+- **A Model for Accountable Ordinal Sorting.**
+    > Khaled Belahcène, Christophe Labreuche, Nicolas Maudet, et al. A Model for Accountable Ordinal Sorting. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 814-820. [paper](https://doi.org/10.24963/ijcai.2017/113)
+
+
+- **Dynamic Logic for Data-aware Systems: Decidability Results.**
+    > Francesco Belardinelli, Andreas Herzig. Dynamic Logic for Data-aware Systems: Decidability Results. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 821-827. [paper](https://doi.org/10.24963/ijcai.2017/114)
+
+
+- **Reasoning about Probabilities in Unbounded First-Order Dynamical Domains.**
+    > Vaishak Belle, Gerhard Lakemeyer. Reasoning about Probabilities in Unbounded First-Order Dynamical Domains. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 828-836. [paper](https://doi.org/10.24963/ijcai.2017/115)
+
+
+- **Reformulating Queries: Theory and Practice.**
+    > Michael Benedikt, Egor V. Kostylev, Fabio Mogavero, et al. Reformulating Queries: Theory and Practice. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 837-843. [paper](https://doi.org/10.24963/ijcai.2017/116)
+
+
+- **The Condorcet Principle for Multiwinner Elections: From Shortlisting to Proportionality.**
+    > Haris Aziz, Edith Elkind, Piotr Faliszewski, et al. The Condorcet Principle for Multiwinner Elections: From Shortlisting to Proportionality. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 84-90. [paper](https://doi.org/10.24963/ijcai.2017/13)
+
+
+- **Ontology-Mediated Query Answering for Key-Value Stores.**
+    > Meghyn Bienvenu, Pierre Bourhis, Marie-Laure Mugnier, et al. Ontology-Mediated Query Answering for Key-Value Stores. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 844-851. [paper](https://doi.org/10.24963/ijcai.2017/117)
+
+
+- **The Impact of Treewidth on ASP Grounding and Solving.**
+    > Bernhard Bliem, Marius Moldovan, Michael Morak, et al. The Impact of Treewidth on ASP Grounding and Solving. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 852-858. [paper](https://doi.org/10.24963/ijcai.2017/118)
+
+
+- **Safe Inductions: An Algebraic Study.**
+    > Bart Bogaerts, Joost Vennekens, Marc Denecker. Safe Inductions: An Algebraic Study. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 859-865. [paper](https://doi.org/10.24963/ijcai.2017/119)
+
+
+- **Semantics for Active Integrity Constraints Using Approximation Fixpoint Theory.**
+    > Bart Bogaerts, Luís Cruz-Filipe. Semantics for Active Integrity Constraints Using Approximation Fixpoint Theory. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 866-872. [paper](https://doi.org/10.24963/ijcai.2017/120)
+
+
+- **Generalized Planning: Non-Deterministic Abstractions and Trajectory Constraints.**
+    > Blai Bonet, Giuseppe De Giacomo, Hector Geffner, et al. Generalized Planning: Non-Deterministic Abstractions and Trajectory Constraints. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 873-879. [paper](https://doi.org/10.24963/ijcai.2017/121)
+
+
+- **Making Cross Products and Guarded Ontology Languages Compatible.**
+    > Pierre Bourhis, Michael Morak, Andreas Pieris. Making Cross Products and Guarded Ontology Languages Compatible. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 880-886. [paper](https://doi.org/10.24963/ijcai.2017/122)
+
+
+- **On Coalitional Manipulation for Multiwinner Elections: Shortlisting.**
+    > Robert Bredereck, Andrzej Kaczmarczyk, Rolf Niedermeier. On Coalitional Manipulation for Multiwinner Elections: Shortlisting. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 887-893. [paper](https://doi.org/10.24963/ijcai.2017/123)
+
+
+- **Manipulating Opinion Diffusion in Social Networks.**
+    > Robert Bredereck, Edith Elkind. Manipulating Opinion Diffusion in Social Networks. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 894-900. [paper](https://doi.org/10.24963/ijcai.2017/124)
+
+
+- **Strong Inconsistency in Nonmonotonic Reasoning.**
+    > Gerhard Brewka, Matthias Thimm, Markus Ulbricht. Strong Inconsistency in Nonmonotonic Reasoning. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 901-907. [paper](https://doi.org/10.24963/ijcai.2017/125)
+
+
+- **Classical Generalized Probabilistic Satisfiability.**
+    > Carlos Caleiro, Filipe Casal, Andreia Mordido. Classical Generalized Probabilistic Satisfiability. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 908-914. [paper](https://doi.org/10.24963/ijcai.2017/126)
+
+
+- **Verification of Broadcasting Multi-Agent Systems against an Epistemic Strategy Logic.**
+    > Francesco Belardinelli, Alessio Lomuscio, Aniello Murano, et al. Verification of Broadcasting Multi-Agent Systems against an Epistemic Strategy Logic. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 91-97. [paper](https://doi.org/10.24963/ijcai.2017/14)
+
+
+- **Budget-Constrained Dynamics in Multiagent Systems.**
+    > Rui Cao, Pavel Naumov. Budget-Constrained Dynamics in Multiagent Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 915-921. [paper](https://doi.org/10.24963/ijcai.2017/127)
+
+
+- **Restricted Chase (Non)Termination for Existential Rules with Disjunctions.**
+    > David Carral, Irina Dragoste, Markus Krötzsch. Restricted Chase (Non)Termination for Existential Rules with Disjunctions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 922-928. [paper](https://doi.org/10.24963/ijcai.2017/128)
+
+
+- **Belief Change in a Preferential Non-monotonic Framework.**
+    > Giovanni Casini, Thomas Andreas Meyer. Belief Change in a Preferential Non-monotonic Framework. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 929-935. [paper](https://doi.org/10.24963/ijcai.2017/129)
+
+
+- **An Algorithm for Constructing and Solving Imperfect Recall Abstractions of Large Extensive-Form Games.**
+    > Jiri Cermak, Branislav Bosanský, Viliam Lisý. An Algorithm for Constructing and Solving Imperfect Recall Abstractions of Large Extensive-Form Games. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 936-942. [paper](https://doi.org/10.24963/ijcai.2017/130)
+
+
+- **Query Answering in Ontologies under Preference Rankings.**
+    > Ismail Ilkan Ceylan, Thomas Lukasiewicz, Rafael Peñaloza, et al. Query Answering in Ontologies under Preference Rankings. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 943-949. [paper](https://doi.org/10.24963/ijcai.2017/131)
+
+
+- **Most Probable Explanations for Probabilistic Database Queries.**
+    > Ismail Ilkan Ceylan, Stefan Borgwardt, Thomas Lukasiewicz. Most Probable Explanations for Probabilistic Database Queries. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 950-956. [paper](https://doi.org/10.24963/ijcai.2017/132)
+
+
+- **Learning from Ontology Streams with Semantic Concept Drift.**
+    > Jiaoyan Chen, Freddy Lécué, Jeff Z. Pan, et al. Learning from Ontology Streams with Semantic Concept Drift. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 957-963. [paper](https://doi.org/10.24963/ijcai.2017/133)
+
+
+- **Discriminative Dictionary Learning With Ranking Metric Embedded for Person Re-Identification.**
+    > De Cheng, Xiaojun Chang, Li Liu, et al. Discriminative Dictionary Learning With Ranking Metric Embedded for Person Re-Identification. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 964-970. [paper](https://doi.org/10.24963/ijcai.2017/134)
+
+
+- **Handling non-local dead-ends in Agent Planning Programs.**
+    > Lukás Chrpa, Nir Lipovetzky, Sebastian Sardiña. Handling non-local dead-ends in Agent Planning Programs. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 971-978. [paper](https://doi.org/10.24963/ijcai.2017/135)
+
+
+- **Inferring Implicit Event Locations from Context with Distributional Similarities.**
+    > Jin-Woo Chung, Wonsuk Yang, Jinseon You, et al. Inferring Implicit Event Locations from Context with Distributional Similarities. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 979-985. [paper](https://doi.org/10.24963/ijcai.2017/136)
+
+
+- **Parameterised Verification of Data-aware Multi-Agent Systems.**
+    > Francesco Belardinelli, Panagiotis Kouvaros, Alessio Lomuscio. Parameterised Verification of Data-aware Multi-Agent Systems. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 98-104. [paper](https://doi.org/10.24963/ijcai.2017/15)
+
+
+- **Temporal Sequences of Qualitative Information: Reasoning about the Topology of Constant-Size Moving Regions.**
+    > Quentin Cohen-Solal, Maroua Bouzid, Alexandre Niveau. Temporal Sequences of Qualitative Information: Reasoning about the Topology of Constant-Size Moving Regions. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 986-992. [paper](https://doi.org/10.24963/ijcai.2017/137)
+
+
+- **On Querying Incomplete Information in Databases under Bag Semantics.**
+    > Marco Console, Paolo Guagliardo, Leonid Libkin. On Querying Incomplete Information in Databases under Bag Semantics. in Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017(IJCAI' 17). 993-999. [paper](https://doi.org/10.24963/ijcai.2017/138)

@@ -2,7 +2,7 @@
 
 declare -A CONF=(
 'aaai' 'db/conf/aaai/aaai~~~~.bht'
-'clikm' 'db/conf/cikm/cikm~~~~.bht'
+'cikm' 'db/conf/cikm/cikm~~~~.bht'
 'cvpr' 'db/conf/cvpr/cvpr~~~~.bht'
 'cvprw' 'db/conf/cvpr/cvpr~~~~w.bht'
 'iclr' 'db/conf/iclr/iclr~~~~.bht'

@@ -3,518 +3,6 @@
     > Susan T. Dumais. Putting searchers into search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1-2. [paper](https://doi.org/10.1145/2600428.2617557)
 
 
-- **Modelling interaction with economic models of search.**
-    > Leif Azzopardi. Modelling interaction with economic models of search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 3-12. [paper](https://doi.org/10.1145/2600428.2609574)
-
-
-- **Query-performance prediction: setting the expectations straight.**
-    > Fiana Raiber, Oren Kurland. Query-performance prediction: setting the expectations straight. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 13-22. [paper](https://doi.org/10.1145/2600428.2609581)
-
-
-- **Hypothesis testing for the risk-sensitive evaluation of retrieval systems.**
-    > Bekir Taner Dinçer, Craig Macdonald, Iadh Ounis. Hypothesis testing for the risk-sensitive evaluation of retrieval systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 23-32. [paper](https://doi.org/10.1145/2600428.2609625)
-
-
-- **Temporal feedback for tweet search with non-parametric density estimation.**
-    > Miles Efron, Jimmy Lin, Jiyin He, etc. Temporal feedback for tweet search with non-parametric density estimation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 33-42. [paper](https://doi.org/10.1145/2600428.2609575)
-
-
-- **Fine-grained location extraction from tweets with temporal awareness.**
-    > Chenliang Li, Aixin Sun. Fine-grained location extraction from tweets with temporal awareness. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 43-52. [paper](https://doi.org/10.1145/2600428.2609582)
-
-
-- **Collaborative personalized Twitter search with topic-language models.**
-    > Jan Vosecky, Kenneth Wai-Ting Leung, Wilfred Ng. Collaborative personalized Twitter search with topic-language models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 53-62. [paper](https://doi.org/10.1145/2600428.2609584)
-
-
-- **Gaussian process factorization machines for context-aware recommendations.**
-    > Trung V. Nguyen, Alexandros Karatzoglou, Linas Baltrunas. Gaussian process factorization machines for context-aware recommendations. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 63-72. [paper](https://doi.org/10.1145/2600428.2609623)
-
-
-- **Addressing cold start in recommender systems: a semi-supervised co-training algorithm.**
-    > Mi Zhang, Jie Tang, Xuchen Zhang, etc. Addressing cold start in recommender systems: a semi-supervised co-training algorithm. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 73-82. [paper](https://doi.org/10.1145/2600428.2609599)
-
-
-- **Explicit factor models for explainable recommendation based on phrase-level sentiment analysis.**
-    > Yongfeng Zhang, Guokun Lai, Min Zhang, etc. Explicit factor models for explainable recommendation based on phrase-level sentiment analysis. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 83-92. [paper](https://doi.org/10.1145/2600428.2609579)
-
-
-- **Context-aware web search abandonment prediction.**
-    > Yang Song, Xiaolin Shi, Ryen White, etc. Context-aware web search abandonment prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 93-102. [paper](https://doi.org/10.1145/2600428.2609604)
-
-
-- **Impact of response latency on user behavior in web search.**
-    > Ioannis Arapakis, Xiao Bai, Berkant Barla Cambazoglu. Impact of response latency on user behavior in web search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 103-112. [paper](https://doi.org/10.1145/2600428.2609627)
-
-
-- **Towards better measurement of attention and satisfaction in mobile search.**
-    > Dmitry Lagun, Chih-Hung Hsieh, Dale Webster, etc. Towards better measurement of attention and satisfaction in mobile search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 113-122. [paper](https://doi.org/10.1145/2600428.2609631)
-
-
-- **Modeling action-level satisfaction for search task satisfaction prediction.**
-    > Hongning Wang, Yang Song, Ming-Wei Chang, etc. Modeling action-level satisfaction for search task satisfaction prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 123-132. [paper](https://doi.org/10.1145/2600428.2609607)
-
-
-- **Circumlocution in diagnostic medical queries.**
-    > Isabelle Stanton, Samuel Ieong, Nina Mishra. Circumlocution in diagnostic medical queries. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 133-142. [paper](https://doi.org/10.1145/2600428.2609589)
-
-
-- **Interactions between health searchers and search engines.**
-    > Georg P. Schoenherr, Ryen W. White. Interactions between health searchers and search engines. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 143-152. [paper](https://doi.org/10.1145/2600428.2609602)
-
-
-- **Evaluation of machine-learning protocols for technology-assisted review in electronic discovery.**
-    > Gordon V. Cormack, Maura R. Grossman. Evaluation of machine-learning protocols for technology-assisted review in electronic discovery. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 153-162. [paper](https://doi.org/10.1145/2600428.2609601)
-
-
-- **ReQ-ReC: high recall retrieval with query pooling and interactive classification.**
-    > Cheng Li, Yue Wang, Paul Resnick, etc. ReQ-ReC: high recall retrieval with query pooling and interactive classification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 163-172. [paper](https://doi.org/10.1145/2600428.2609618)
-
-
-- **Supervised hashing with latent factor models.**
-    > Peichao Zhang, Wei Zhang, Wu-Jun Li, etc. Supervised hashing with latent factor models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 173-182. [paper](https://doi.org/10.1145/2600428.2609600)
-
-
-- **Preference preserving hashing for efficient recommendation.**
-    > Zhiwei Zhang, Qifan Wang, Lingyun Ruan, etc. Preference preserving hashing for efficient recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 183-192. [paper](https://doi.org/10.1145/2600428.2609578)
-
-
-- **Load balancing for partition-based similarity search.**
-    > Xun Tang, Maha Alabduljalil, Xin Jin, etc. Load balancing for partition-based similarity search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 193-202. [paper](https://doi.org/10.1145/2600428.2609624)
-
-
-- **Estimating global statistics for unstructured P2P search in the presence of adversarial peers.**
-    > Sami Richardson, Ingemar J. Cox. Estimating global statistics for unstructured P2P search in the presence of adversarial peers. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 203-212. [paper](https://doi.org/10.1145/2600428.2609567)
-
-
-- **Hierarchical multi-label classification of social text streams.**
-    > Zhaochun Ren, Maria-Hendrike Peetz, Shangsong Liang, etc. Hierarchical multi-label classification of social text streams. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 213-222. [paper](https://doi.org/10.1145/2600428.2609595)
-
-
-- **An adaptive teleportation random walk model for learning social tag relevance.**
-    > Xiaofei Zhu, Wolfgang Nejdl, Mihai Georgescu. An adaptive teleportation random walk model for learning social tag relevance. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 223-232. [paper](https://doi.org/10.1145/2600428.2609556)
-
-
-- **Predicting the popularity of web 2.0 items based on user comments.**
-    > Xiangnan He, Ming Gao, Min-Yen Kan, etc. Predicting the popularity of web 2.0 items based on user comments. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 233-242. [paper](https://doi.org/10.1145/2600428.2609558)
-
-
-- **Recommending social media content to community owners.**
-    > Inbal Ronen, Ido Guy, Elad Kravi, etc. Recommending social media content to community owners. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 243-252. [paper](https://doi.org/10.1145/2600428.2609596)
-
-
-- **Predictive parallelization: taming tail latencies in web search.**
-    > Myeongjae Jeon, Saehoon Kim, Seung-won Hwang, etc. Predictive parallelization: taming tail latencies in web search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 253-262. [paper](https://doi.org/10.1145/2600428.2609572)
-
-
-- **Skewed partial bitvectors for list intersection.**
-    > Andrew Kane, Frank Wm. Tompa. Skewed partial bitvectors for list intersection. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 263-272. [paper](https://doi.org/10.1145/2600428.2609609)
-
-
-- **Partitioned Elias-Fano indexes.**
-    > Giuseppe Ottaviano, Rossano Venturini. Partitioned Elias-Fano indexes. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 273-282. [paper](https://doi.org/10.1145/2600428.2609615)
-
-
-- **Principled dictionary pruning for low-memory corpus compression.**
-    > Jiancong Tong, Anthony Wirth, Justin Zobel. Principled dictionary pruning for low-memory corpus compression. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 283-292. [paper](https://doi.org/10.1145/2600428.2609576)
-
-
-- **Learning for search result diversification.**
-    > Yadong Zhu, Yanyan Lan, Jiafeng Guo, etc. Learning for search result diversification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 293-302. [paper](https://doi.org/10.1145/2600428.2609634)
-
-
-- **Fusion helps diversification.**
-    > Shangsong Liang, Zhaochun Ren, Maarten de Rijke. Fusion helps diversification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 303-312. [paper](https://doi.org/10.1145/2600428.2609561)
-
-
-- **Utilizing relevance feedback in fusion-based retrieval.**
-    > Ella Rabinovich, Ofri Rom, Oren Kurland. Utilizing relevance feedback in fusion-based retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 313-322. [paper](https://doi.org/10.1145/2600428.2609573)
-
-
-- **A simple term frequency transformation model for effective pseudo relevance feedback.**
-    > Zheng Ye, Jimmy Xiangji Huang. A simple term frequency transformation model for effective pseudo relevance feedback. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 323-332. [paper](https://doi.org/10.1145/2600428.2609636)
-
-
-- **Seeking simplicity in search user interfaces.**
-    > Marti A. Hearst. Seeking simplicity in search user interfaces. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 333-334. [paper](https://doi.org/10.1145/2600428.2617558)
-
-
-- **Who is the barbecue king of texas?: a geo-spatial approach to finding local experts on twitter.**
-    > Zhiyuan Cheng, James Caverlee, Himanshu Barthwal, etc. Who is the barbecue king of texas?: a geo-spatial approach to finding local experts on twitter. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 335-344. [paper](https://doi.org/10.1145/2600428.2609580)
-
-
-- **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.**
-    > Longke Hu, Aixin Sun, Yong Liu. Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 345-354. [paper](https://doi.org/10.1145/2600428.2609593)
-
-
-- **Processing spatial keyword query as a top-k aggregation query.**
-    > Dongxiang Zhang, Chee-Yong Chan, Kian-Lee Tan. Processing spatial keyword query as a top-k aggregation query. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 355-364. [paper](https://doi.org/10.1145/2600428.2609562)
-
-
-- **Entity query feature expansion using knowledge base links.**
-    > Jeffrey Dalton, Laura Dietz, James Allan. Entity query feature expansion using knowledge base links. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 365-374. [paper](https://doi.org/10.1145/2600428.2609628)
-
-
-- **QUADS: question answering for decision support.**
-    > Zi Yang, Ying Li, James Cai, etc. QUADS: question answering for decision support. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 375-384. [paper](https://doi.org/10.1145/2600428.2609606)
-
-
-- **Topic labeled text classification: a weakly supervised approach.**
-    > Swapnil Hingmire, Sutanu Chakraborti. Topic labeled text classification: a weakly supervised approach. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 385-394. [paper](https://doi.org/10.1145/2600428.2609565)
-
-
-- **Discriminative coupled dictionary hashing for fast cross-media retrieval.**
-    > Zhou Yu, Fei Wu, Yi Yang, etc. Discriminative coupled dictionary hashing for fast cross-media retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 395-404. [paper](https://doi.org/10.1145/2600428.2609563)
-
-
-- **Active hashing with joint data example and tag selection.**
-    > Qifan Wang, Luo Si, Zhiwei Zhang, etc. Active hashing with joint data example and tag selection. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 405-414. [paper](https://doi.org/10.1145/2600428.2609590)
-
-
-- **Latent semantic sparse hashing for cross-modal similarity search.**
-    > Jile Zhou, Guiguang Ding, Yuchen Guo. Latent semantic sparse hashing for cross-modal similarity search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 415-424. [paper](https://doi.org/10.1145/2600428.2609610)
-
-
-- **Predicting term-relevance from brain signals.**
-    > Manuel J. A. Eugster, Tuukka Ruotsalo, Michiel M. A. Spapé, etc. Predicting term-relevance from brain signals. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 425-434. [paper](https://doi.org/10.1145/2600428.2609594)
-
-
-- **Multidimensional relevance modeling via psychometrics and crowdsourcing.**
-    > Yinglong Zhang, Jin Zhang, Matthew Lease, etc. Multidimensional relevance modeling via psychometrics and crowdsourcing. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 435-444. [paper](https://doi.org/10.1145/2600428.2609577)
-
-
-- **Learning user reformulation behavior for query auto-completion.**
-    > Jyun-Yu Jiang, Yen-Yu Ke, Pao-Yu Chien, etc. Learning user reformulation behavior for query auto-completion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 445-454. [paper](https://doi.org/10.1145/2600428.2609614)
-
-
-- **A two-dimensional click model for query auto-completion.**
-    > Yanen Li, Anlei Dong, Hongning Wang, etc. A two-dimensional click model for query auto-completion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 455-464. [paper](https://doi.org/10.1145/2600428.2609571)
-
-
-- **On measuring social friend interest similarities in recommender systems.**
-    > Hao Ma. On measuring social friend interest similarities in recommender systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 465-474. [paper](https://doi.org/10.1145/2600428.2609635)
-
-
-- **IMRank: influence maximization via finding self-consistent ranking.**
-    > Suqi Cheng, Huawei Shen, Junming Huang, etc. IMRank: influence maximization via finding self-consistent ranking. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 475-484. [paper](https://doi.org/10.1145/2600428.2609592)
-
-
-- **User-driven system-mediated collaborative information retrieval.**
-    > Laure Soulier, Chirag Shah, Lynda Tamine. User-driven system-mediated collaborative information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 485-494. [paper](https://doi.org/10.1145/2600428.2609598)
-
-
-- **SearchPanel: framing complex search needs.**
-    > Pernilla Qvarfordt, Simon Tretter, Gene Golovchinsky, etc. SearchPanel: framing complex search needs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 495-504. [paper](https://doi.org/10.1145/2600428.2609620)
-
-
-- **Cohort modeling for enhanced personalized search.**
-    > Jinyun Yan, Wei Chu, Ryen W. White. Cohort modeling for enhanced personalized search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 505-514. [paper](https://doi.org/10.1145/2600428.2609617)
-
-
-- **Characterizing multi-click search behavior and the risks and opportunities of changing results during use.**
-    > Chia-Jung Lee, Jaime Teevan, Sebastian de la Chica. Characterizing multi-click search behavior and the risks and opportunities of changing results during use. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 515-524. [paper](https://doi.org/10.1145/2600428.2609588)
-
-
-- **The data revolution: how companies are transforming with big data.**
-    > Hugh E. Williams. The data revolution: how companies are transforming with big data. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 525-526. [paper](https://doi.org/10.1145/2600428.2617559)
-
-
-- **Learning similarity functions for topic detection in online reputation monitoring.**
-    > Damiano Spina, Julio Gonzalo, Enrique Amigó. Learning similarity functions for topic detection in online reputation monitoring. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 527-536. [paper](https://doi.org/10.1145/2600428.2609621)
-
-
-- **Predicting trending messages and diffusion participants in microblogging network.**
-    > Jingwen Bian, Yang Yang, Tat-Seng Chua. Predicting trending messages and diffusion participants in microblogging network. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 537-546. [paper](https://doi.org/10.1145/2600428.2609616)
-
-
-- **Leveraging knowledge across media for spammer detection in microblogging.**
-    > Xia Hu, Jiliang Tang, Huan Liu. Leveraging knowledge across media for spammer detection in microblogging. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 547-556. [paper](https://doi.org/10.1145/2600428.2609632)
-
-
-- **Using information scent and need for cognition to understand online search behavior.**
-    > Wan-Ching Wu, Diane Kelly, Avneesh Sud. Using information scent and need for cognition to understand online search behavior. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 557-566. [paper](https://doi.org/10.1145/2600428.2609626)
-
-
-- **Discrimination between tasks with user activity patterns during information search.**
-    > Michael J. Cole, Chathra Hendahewa, Nicholas J. Belkin, etc. Discrimination between tasks with user activity patterns during information search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 567-576. [paper](https://doi.org/10.1145/2600428.2609591)
-
-
-- **Investigating users&apos; query formulations for cognitive search intents.**
-    > Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, etc. Investigating users&apos; query formulations for cognitive search intents. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 577-586. [paper](https://doi.org/10.1145/2600428.2609566)
-
-
-- **Win-win search: dual-agent stochastic game in session search.**
-    > Jiyun Luo, Sicong Zhang, Hui Yang. Win-win search: dual-agent stochastic game in session search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 587-596. [paper](https://doi.org/10.1145/2600428.2609629)
-
-
-- **Injecting user models and time into precision via Markov chains.**
-    > Marco Ferrante, Nicola Ferro, Maria Maistro. Injecting user models and time into precision via Markov chains. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 597-606. [paper](https://doi.org/10.1145/2600428.2609637)
-
-
-- **Searching, browsing, and clicking in a search session: changes in user behavior by task and over time.**
-    > Jiepu Jiang, Daqing He, James Allan. Searching, browsing, and clicking in a search session: changes in user behavior by task and over time. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 607-616. [paper](https://doi.org/10.1145/2600428.2609633)
-
-
-- **Coarse-to-fine review selection via supervised joint aspect and sentiment model.**
-    > Zhen Hai, Gao Cong, Kuiyu Chang, etc. Coarse-to-fine review selection via supervised joint aspect and sentiment model. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 617-626. [paper](https://doi.org/10.1145/2600428.2609570)
-
-
-- **Cross-domain and cross-category emotion tagging for comments of online news.**
-    > Ying Zhang, Ning Zhang, Luo Si, etc. Cross-domain and cross-category emotion tagging for comments of online news. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 627-636. [paper](https://doi.org/10.1145/2600428.2609587)
-
-
-- **Economically-efficient sentiment stream analysis.**
-    > Roberto Lourenço de Oliveira Jr., Adriano Veloso, Adriano C. M. Pereira, etc. Economically-efficient sentiment stream analysis. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 637-646. [paper](https://doi.org/10.1145/2600428.2609612)
-
-
-- **New and improved: modeling versions to improve app recommendation.**
-    > Jovian Lin, Kazunari Sugiyama, Min-Yen Kan, etc. New and improved: modeling versions to improve app recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 647-656. [paper](https://doi.org/10.1145/2600428.2609560)
-
-
-- **Bundle recommendation in ecommerce.**
-    > Tao Zhu, Patrick Harrington, Junjun Li, etc. Bundle recommendation in ecommerce. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 657-666. [paper](https://doi.org/10.1145/2600428.2609603)
-
-
-- **Does product recommendation meet its waterloo in unexplored categories?: no, price comes to help.**
-    > Jia Chen, Qin Jin, Shiwan Zhao, etc. Does product recommendation meet its waterloo in unexplored categories?: no, price comes to help. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 667-676. [paper](https://doi.org/10.1145/2600428.2609608)
-
-
-- **Query expansion for mixed-script information retrieval.**
-    > Parth Gupta, Kalika Bali, Rafael E. Banchs, etc. Query expansion for mixed-script information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 677-686. [paper](https://doi.org/10.1145/2600428.2609622)
-
-
-- **Retrieval of similar chess positions.**
-    > Debasis Ganguly, Johannes Leveling, Gareth J. F. Jones. Retrieval of similar chess positions. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 687-696. [paper](https://doi.org/10.1145/2600428.2609605)
-
-
-- **A mathematics retrieval system for formulae in layout presentations.**
-    > Xiaoyan Lin, Liangcai Gao, Xuan Hu, etc. A mathematics retrieval system for formulae in layout presentations. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 697-706. [paper](https://doi.org/10.1145/2600428.2609611)
-
-
-- **The knowing camera 2: recognizing and annotating places-of-interest in smartphone photos.**
-    > Pai Peng, Lidan Shou, Ke Chen, etc. The knowing camera 2: recognizing and annotating places-of-interest in smartphone photos. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 707-716. [paper](https://doi.org/10.1145/2600428.2609557)
-
-
-- **Click-through-based cross-view learning for image search.**
-    > Yingwei Pan, Ting Yao, Tao Mei, etc. Click-through-based cross-view learning for image search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 717-726. [paper](https://doi.org/10.1145/2600428.2609568)
-
-
-- **Learning to personalize trending image search suggestion.**
-    > Chun-Che Wu, Tao Mei, Winston H. Hsu, etc. Learning to personalize trending image search suggestion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 727-736. [paper](https://doi.org/10.1145/2600428.2609569)
-
-
-- **PRISM: concept-preserving social image search results summarization.**
-    > Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun. PRISM: concept-preserving social image search results summarization. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 737-746. [paper](https://doi.org/10.1145/2600428.2609586)
-
-
-- **Time-critical search.**
-    > Nina Mishra, Ryen W. White, Samuel Ieong, etc. Time-critical search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 747-756. [paper](https://doi.org/10.1145/2600428.2609613)
-
-
-- **Learning temporal-dependent ranking models.**
-    > Miguel Costa, Francisco M. Couto, Mário J. Silva. Learning temporal-dependent ranking models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 757-766. [paper](https://doi.org/10.1145/2600428.2609619)
-
-
-- **Web page segmentation with structured prediction and its application in web page classification.**
-    > Lidong Bing, Rui Guo, Wai Lam, etc. Web page segmentation with structured prediction and its application in web page classification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 767-776. [paper](https://doi.org/10.1145/2600428.2609630)
-
-
-- **Query log driven web search results clustering.**
-    > José G. Moreno, Gaël Dias, Guillaume Cleuziou. Query log driven web search results clustering. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 777-786. [paper](https://doi.org/10.1145/2600428.2609583)
-
-
-- **CTSUM: extracting more certain summaries for news articles.**
-    > Xiaojun Wan, Jianmin Zhang. CTSUM: extracting more certain summaries for news articles. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 787-796. [paper](https://doi.org/10.1145/2600428.2609559)
-
-
-- **Continuous word embeddings for detecting local text reuses at the semantic level.**
-    > Qi Zhang, Jihua Kang, Jin Qian, etc. Continuous word embeddings for detecting local text reuses at the semantic level. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 797-806. [paper](https://doi.org/10.1145/2600428.2609597)
-
-
-- **CiteSight: supporting contextual citation recommendation using differential search.**
-    > Avishay Livne, Vivek Gokuladas, Jaime Teevan, etc. CiteSight: supporting contextual citation recommendation using differential search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 807-816. [paper](https://doi.org/10.1145/2600428.2609585)
-
-
-- **Cross-language context-aware citation recommendation in scientific articles.**
-    > Xuewei Tang, Xiaojun Wan, Xun Zhang. Cross-language context-aware citation recommendation in scientific articles. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 817-826. [paper](https://doi.org/10.1145/2600428.2609564)
-
-
-- **Search result diversification via data fusion.**
-    > Shengli Wu, Chunlan Huang. Search result diversification via data fusion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 827-830. [paper](https://doi.org/10.1145/2600428.2609451)
-
-
-- **Hashtag recommendation for hyperlinked tweets.**
-    > Surendra Sedhai, Aixin Sun. Hashtag recommendation for hyperlinked tweets. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 831-834. [paper](https://doi.org/10.1145/2600428.2609452)
-
-
-- **Personalized document re-ranking based on Bayesian probabilistic matrix factorization.**
-    > Fei Cai, Shangsong Liang, Maarten de Rijke. Personalized document re-ranking based on Bayesian probabilistic matrix factorization. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 835-838. [paper](https://doi.org/10.1145/2600428.2609453)
-
-
-- **Using the cross-entropy method to re-rank search results.**
-    > Haggai Roitman, Shay Hummel, Oren Kurland. Using the cross-entropy method to re-rank search results. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 839-842. [paper](https://doi.org/10.1145/2600428.2609454)
-
-
-- **Computing and applying topic-level user interactions in microblog recommendation.**
-    > Xiao Lu, Peng Li, Hongyuan Ma, etc. Computing and applying topic-level user interactions in microblog recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 843-846. [paper](https://doi.org/10.1145/2600428.2609455)
-
-
-- **Towards context-aware search with right click.**
-    > Aixin Sun, Chii-Hian Lou. Towards context-aware search with right click. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 847-850. [paper](https://doi.org/10.1145/2600428.2609456)
-
-
-- **Rendering expressions to improve accuracy of relevance assessment for math search.**
-    > Matthias S. Reichenbach, Anurag Agarwal, Richard Zanibbi. Rendering expressions to improve accuracy of relevance assessment for math search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 851-854. [paper](https://doi.org/10.1145/2600428.2609457)
-
-
-- **Exploring recommendations in internet of things.**
-    > Lina Yao, Quan Z. Sheng, Anne H. H. Ngu, etc. Exploring recommendations in internet of things. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 855-858. [paper](https://doi.org/10.1145/2600428.2609458)
-
-
-- **Sig-SR: SimRank search over singular graphs.**
-    > Weiren Yu, Julie A. McCann. Sig-SR: SimRank search over singular graphs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 859-862. [paper](https://doi.org/10.1145/2600428.2609459)
-
-
-- **Old dogs are great at new tricks: column stores for ir prototyping.**
-    > Hannes Mühleisen, Thaer Samar, Jimmy Lin, etc. Old dogs are great at new tricks: column stores for ir prototyping. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 863-866. [paper](https://doi.org/10.1145/2600428.2609460)
-
-
-- **The role of network distance in linkedin people search.**
-    > Shih-Wen Huang, Daniel Tunkelang, Karrie Karahalios. The role of network distance in linkedin people search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 867-870. [paper](https://doi.org/10.1145/2600428.2609461)
-
-
-- **Latent community discovery through enterprise user search query modeling.**
-    > Kevin M. Carter, Rajmonda S. Caceres, Ben Priest. Latent community discovery through enterprise user search query modeling. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 871-874. [paper](https://doi.org/10.1145/2600428.2609462)
-
-
-- **Examining collaborative query reformulation: a case of travel information searching.**
-    > Abu Shamim Mohammad Arif, Jia Tina Du, Ivan Lee. Examining collaborative query reformulation: a case of travel information searching. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 875-878. [paper](https://doi.org/10.1145/2600428.2609463)
-
-
-- **Influential nodes selection: a data reconstruction perspective.**
-    > Zhefeng Wang, Hao Wang, Qi Liu, etc. Influential nodes selection: a data reconstruction perspective. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 879-882. [paper](https://doi.org/10.1145/2600428.2609464)
-
-
-- **A fusion approach to cluster labeling.**
-    > Haggai Roitman, Shay Hummel, Michal Shmueli-Scheuer. A fusion approach to cluster labeling. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 883-886. [paper](https://doi.org/10.1145/2600428.2609465)
-
-
-- **Evaluating the effort involved in relevance assessments for images.**
-    > Martin Halvey, Robert Villa. Evaluating the effort involved in relevance assessments for images. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 887-890. [paper](https://doi.org/10.1145/2600428.2609466)
-
-
-- **Diversifying query suggestions based on query documents.**
-    > Youngho Kim, W. Bruce Croft. Diversifying query suggestions based on query documents. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 891-894. [paper](https://doi.org/10.1145/2600428.2609467)
-
-
-- **Comparing client and server dwell time estimates for click-level satisfaction prediction.**
-    > Youngho Kim, Ahmed Hassan Awadallah, Ryen W. White, etc. Comparing client and server dwell time estimates for click-level satisfaction prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 895-898. [paper](https://doi.org/10.1145/2600428.2609468)
-
-
-- **Score-safe term-dependency processing with hybrid indexes.**
-    > Matthias Petri, Alistair Moffat, J. Shane Culpepper. Score-safe term-dependency processing with hybrid indexes. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 899-902. [paper](https://doi.org/10.1145/2600428.2609469)
-
-
-- **Co-training on authorship attribution with very fewlabeled examples: methods vs. views.**
-    > Tieyun Qian, Bing Liu, Ming Zhong, etc. Co-training on authorship attribution with very fewlabeled examples: methods vs. views. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 903-906. [paper](https://doi.org/10.1145/2600428.2609470)
-
-
-- **Probabilistic text modeling with orthogonalized topics.**
-    > Enpeng Yao, Guoqing Zheng, Ou Jin, etc. Probabilistic text modeling with orthogonalized topics. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 907-910. [paper](https://doi.org/10.1145/2600428.2609471)
-
-
-- **Evaluating non-deterministic retrieval systems.**
-    > Gaya K. Jayasinghe, William Webber, Mark Sanderson, etc. Evaluating non-deterministic retrieval systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 911-914. [paper](https://doi.org/10.1145/2600428.2609472)
-
-
-- **Extending test collection pools without manual runs.**
-    > Gaya K. Jayasinghe, William Webber, Mark Sanderson, etc. Extending test collection pools without manual runs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 915-918. [paper](https://doi.org/10.1145/2600428.2609473)
-
-
-- **The search duel: a response to a strong ranker.**
-    > Peter Izsak, Fiana Raiber, Oren Kurland, etc. The search duel: a response to a strong ranker. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 919-922. [paper](https://doi.org/10.1145/2600428.2609474)
-
-
-- **Modeling the evolution of product entities.**
-    > Priya Radhakrishnan, Manish Gupta, Vasudeva Varma. Modeling the evolution of product entities. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 923-926. [paper](https://doi.org/10.1145/2600428.2609475)
-
-
-- **Predicting bursts and popularity of hashtags in real-time.**
-    > Shoubin Kong, Qiaozhu Mei, Ling Feng, etc. Predicting bursts and popularity of hashtags in real-time. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 927-930. [paper](https://doi.org/10.1145/2600428.2609476)
-
-
-- **Probabilistic ensemble learning for vietnamese word segmentation.**
-    > Wuying Liu, Li Lin. Probabilistic ensemble learning for vietnamese word segmentation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 931-934. [paper](https://doi.org/10.1145/2600428.2609477)
-
-
-- **Improving unsupervised query segmentation using parts-of-speech sequence information.**
-    > Rishiraj Saha Roy, Yogarshi Vyas, Niloy Ganguly, etc. Improving unsupervised query segmentation using parts-of-speech sequence information. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 935-938. [paper](https://doi.org/10.1145/2600428.2609478)
-
-
-- **Building a query log via crowdsourcing.**
-    > Omar Alonso, Maria Stone. Building a query log via crowdsourcing. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 939-942. [paper](https://doi.org/10.1145/2600428.2609479)
-
-
-- **Web search without &apos;stupid&apos; results.**
-    > Aleksandra Lomakina, Nikita Povarov, Pavel Serdyukov. Web search without &apos;stupid&apos; results. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 943-946. [paper](https://doi.org/10.1145/2600428.2609480)
-
-
-- **Discovering real-world use cases for a multimodal math search interface.**
-    > Keita Del Valle Wangari, Richard Zanibbi, Anurag Agarwal. Discovering real-world use cases for a multimodal math search interface. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 947-950. [paper](https://doi.org/10.1145/2600428.2609481)
-
-
-- **Improving search personalisation with dynamic group formation.**
-    > Thanh Tien Vu, Dawei Song, Alistair Willis, etc. Improving search personalisation with dynamic group formation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 951-954. [paper](https://doi.org/10.1145/2600428.2609482)
-
-
-- **Detection of abnormal profiles on group attacks in recommender systems.**
-    > Wei Zhou, Yun Sing Koh, Junhao Wen, etc. Detection of abnormal profiles on group attacks in recommender systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 955-958. [paper](https://doi.org/10.1145/2600428.2609483)
-
-
-- **On run diversity in Evaluation as a Service.**
-    > Ellen M. Voorhees, Jimmy Lin, Miles Efron. On run diversity in Evaluation as a Service. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 959-962. [paper](https://doi.org/10.1145/2600428.2609484)
-
-
-- **Evaluating answer passages using summarization measures.**
-    > Mostafa Keikha, Jae Hyun Park, W. Bruce Croft. Evaluating answer passages using summarization measures. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 963-966. [paper](https://doi.org/10.1145/2600428.2609485)
-
-
-- **Analyzing bias in CQA-based expert finding test sets.**
-    > Reyyan Yeniterzi, Jamie Callan. Analyzing bias in CQA-based expert finding test sets. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 967-970. [paper](https://doi.org/10.1145/2600428.2609486)
-
-
-- **Understanding negation and family history to improve clinical information retrieval.**
-    > Bevan Koopman, Guido Zuccon. Understanding negation and family history to improve clinical information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 971-974. [paper](https://doi.org/10.1145/2600428.2609487)
-
-
-- **Modeling dual role preferences for trust-aware recommendation.**
-    > Weilong Yao, Jing He, Guangyan Huang, etc. Modeling dual role preferences for trust-aware recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 975-978. [paper](https://doi.org/10.1145/2600428.2609488)
-
-
-- **Mouse movement during relevance judging: implications for determining user attention.**
-    > Mark D. Smucker, Xiaoyu Sunny Guo, Andrew Toulis. Mouse movement during relevance judging: implications for determining user attention. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 979-982. [paper](https://doi.org/10.1145/2600428.2609489)
-
-
-- **PAAP: prefetch-aware admission policies for query results cache in web search engines.**
-    > Hongyuan Ma, Wei Liu, Bingjie Wei, etc. PAAP: prefetch-aware admission policies for query results cache in web search engines. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 983-986. [paper](https://doi.org/10.1145/2600428.2609490)
-
-
-- **User geospatial context for music recommendation in microblogs.**
-    > Markus Schedl, Andreu Vall, Katayoun Farrahi. User geospatial context for music recommendation in microblogs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 987-990. [paper](https://doi.org/10.1145/2600428.2609491)
-
-
-- **Compositional data analysis (CoDA) approaches to distance in information retrieval.**
-    > Paul Thomas, David Lovell. Compositional data analysis (CoDA) approaches to distance in information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 991-994. [paper](https://doi.org/10.1145/2600428.2609492)
-
-
-- **Group latent factor model for recommendation with multiple user behaviors.**
-    > Jian Cheng, Ting Yuan, Jinqiao Wang, etc. Group latent factor model for recommendation with multiple user behaviors. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 995-998. [paper](https://doi.org/10.1145/2600428.2609493)
-
-
-- **Hashing with List-Wise learning to rank.**
-    > Zhou Yu, Fei Wu, Yin Zhang, etc. Hashing with List-Wise learning to rank. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 999-1002. [paper](https://doi.org/10.1145/2600428.2609494)
-
-
 - **A burstiness-aware approach for document dating.**
     > Dimitrios Kotsakos, Theodoros Lappas, Dimitrios Kotzias, etc. A burstiness-aware approach for document dating. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1003-1006. [paper](https://doi.org/10.1145/2600428.2609495)
 
@@ -541,6 +29,10 @@
 
 - **Do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification.**
     > Yongfeng Zhang, Haochen Zhang, Min Zhang, etc. Do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1027-1030. [paper](https://doi.org/10.1145/2600428.2609501)
+
+
+- **Impact of response latency on user behavior in web search.**
+    > Ioannis Arapakis, Xiao Bai, Berkant Barla Cambazoglu. Impact of response latency on user behavior in web search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 103-112. [paper](https://doi.org/10.1145/2600428.2609627)
 
 
 - **Random subspace for binary codes learning in large scale image retrieval.**
@@ -643,6 +135,10 @@
     > Andrea Ceroni, Nam Khanh Tran, Nattiya Kanhabua, etc. Bridging temporal context gaps using time-aware re-contextualization. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1127-1130. [paper](https://doi.org/10.1145/2600428.2609526)
 
 
+- **Towards better measurement of attention and satisfaction in mobile search.**
+    > Dmitry Lagun, Chih-Hung Hsieh, Dale Webster, etc. Towards better measurement of attention and satisfaction in mobile search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 113-122. [paper](https://doi.org/10.1145/2600428.2609631)
+
+
 - **An enhanced context-sensitive proximity model for probabilistic information retrieval.**
     > Jiashu Zhao, Jimmy Xiangji Huang. An enhanced context-sensitive proximity model for probabilistic information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1131-1134. [paper](https://doi.org/10.1145/2600428.2609527)
 
@@ -743,6 +239,10 @@
     > Ihab Al Kabary, Heiko Schuldt. Enhancing sketch-based sport video retrieval by suggesting relevant motion paths. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1227-1230. [paper](https://doi.org/10.1145/2600428.2609551)
 
 
+- **Modeling action-level satisfaction for search task satisfaction prediction.**
+    > Hongning Wang, Yang Song, Ming-Wei Chang, etc. Modeling action-level satisfaction for search task satisfaction prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 123-132. [paper](https://doi.org/10.1145/2600428.2609607)
+
+
 - **Dynamic location models.**
     > Vanessa Murdock. Dynamic location models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1231-1234. [paper](https://doi.org/10.1145/2600428.2609552)
 
@@ -812,7 +312,7 @@
 
 
 - **An interactive interface for visualizing events on Twitter.**
-    > Andrew James McMinn, Daniel Tsvetkov, Tsvetan Yordanov, etc. An interactive interface for visualizing events on Twitter. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1271-1272. [paper](https://doi.org/10.1145/2600428.2611189)
+    > Andrew James McMinn, Daniel Tsvetkov, Tsvetan R. Yordanov, etc. An interactive interface for visualizing events on Twitter. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1271-1272. [paper](https://doi.org/10.1145/2600428.2611189)
 
 
 - **ExperTime: tracking expertise over time.**
@@ -913,3 +413,503 @@
 
 - **SIGIR 2014 workshop on temporal, social and spatially-aware information access (#TAIA2014).**
     > Fernando Diaz, Claudia Hauff, Vanessa Murdock, etc. SIGIR 2014 workshop on temporal, social and spatially-aware information access (#TAIA2014). in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 1298. [paper](https://doi.org/10.1145/2600428.2600740)
+
+
+- **Query-performance prediction: setting the expectations straight.**
+    > Fiana Raiber, Oren Kurland. Query-performance prediction: setting the expectations straight. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 13-22. [paper](https://doi.org/10.1145/2600428.2609581)
+
+
+- **Circumlocution in diagnostic medical queries.**
+    > Isabelle Stanton, Samuel Ieong, Nina Mishra. Circumlocution in diagnostic medical queries. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 133-142. [paper](https://doi.org/10.1145/2600428.2609589)
+
+
+- **Interactions between health searchers and search engines.**
+    > Georg P. Schoenherr, Ryen W. White. Interactions between health searchers and search engines. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 143-152. [paper](https://doi.org/10.1145/2600428.2609602)
+
+
+- **Evaluation of machine-learning protocols for technology-assisted review in electronic discovery.**
+    > Gordon V. Cormack, Maura R. Grossman. Evaluation of machine-learning protocols for technology-assisted review in electronic discovery. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 153-162. [paper](https://doi.org/10.1145/2600428.2609601)
+
+
+- **ReQ-ReC: high recall retrieval with query pooling and interactive classification.**
+    > Cheng Li, Yue Wang, Paul Resnick, etc. ReQ-ReC: high recall retrieval with query pooling and interactive classification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 163-172. [paper](https://doi.org/10.1145/2600428.2609618)
+
+
+- **Supervised hashing with latent factor models.**
+    > Peichao Zhang, Wei Zhang, Wu-Jun Li, etc. Supervised hashing with latent factor models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 173-182. [paper](https://doi.org/10.1145/2600428.2609600)
+
+
+- **Preference preserving hashing for efficient recommendation.**
+    > Zhiwei Zhang, Qifan Wang, Lingyun Ruan, etc. Preference preserving hashing for efficient recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 183-192. [paper](https://doi.org/10.1145/2600428.2609578)
+
+
+- **Load balancing for partition-based similarity search.**
+    > Xun Tang, Maha Alabduljalil, Xin Jin, etc. Load balancing for partition-based similarity search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 193-202. [paper](https://doi.org/10.1145/2600428.2609624)
+
+
+- **Estimating global statistics for unstructured P2P search in the presence of adversarial peers.**
+    > Sami Richardson, Ingemar J. Cox. Estimating global statistics for unstructured P2P search in the presence of adversarial peers. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 203-212. [paper](https://doi.org/10.1145/2600428.2609567)
+
+
+- **Hierarchical multi-label classification of social text streams.**
+    > Zhaochun Ren, Maria-Hendrike Peetz, Shangsong Liang, etc. Hierarchical multi-label classification of social text streams. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 213-222. [paper](https://doi.org/10.1145/2600428.2609595)
+
+
+- **An adaptive teleportation random walk model for learning social tag relevance.**
+    > Xiaofei Zhu, Wolfgang Nejdl, Mihai Georgescu. An adaptive teleportation random walk model for learning social tag relevance. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 223-232. [paper](https://doi.org/10.1145/2600428.2609556)
+
+
+- **Hypothesis testing for the risk-sensitive evaluation of retrieval systems.**
+    > Bekir Taner Dinçer, Craig Macdonald, Iadh Ounis. Hypothesis testing for the risk-sensitive evaluation of retrieval systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 23-32. [paper](https://doi.org/10.1145/2600428.2609625)
+
+
+- **Predicting the popularity of web 2.0 items based on user comments.**
+    > Xiangnan He, Ming Gao, Min-Yen Kan, etc. Predicting the popularity of web 2.0 items based on user comments. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 233-242. [paper](https://doi.org/10.1145/2600428.2609558)
+
+
+- **Recommending social media content to community owners.**
+    > Inbal Ronen, Ido Guy, Elad Kravi, etc. Recommending social media content to community owners. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 243-252. [paper](https://doi.org/10.1145/2600428.2609596)
+
+
+- **Predictive parallelization: taming tail latencies in web search.**
+    > Myeongjae Jeon, Saehoon Kim, Seung-won Hwang, etc. Predictive parallelization: taming tail latencies in web search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 253-262. [paper](https://doi.org/10.1145/2600428.2609572)
+
+
+- **Skewed partial bitvectors for list intersection.**
+    > Andrew Kane, Frank Wm. Tompa. Skewed partial bitvectors for list intersection. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 263-272. [paper](https://doi.org/10.1145/2600428.2609609)
+
+
+- **Partitioned Elias-Fano indexes.**
+    > Giuseppe Ottaviano, Rossano Venturini. Partitioned Elias-Fano indexes. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 273-282. [paper](https://doi.org/10.1145/2600428.2609615)
+
+
+- **Principled dictionary pruning for low-memory corpus compression.**
+    > Jiancong Tong, Anthony Wirth, Justin Zobel. Principled dictionary pruning for low-memory corpus compression. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 283-292. [paper](https://doi.org/10.1145/2600428.2609576)
+
+
+- **Learning for search result diversification.**
+    > Yadong Zhu, Yanyan Lan, Jiafeng Guo, etc. Learning for search result diversification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 293-302. [paper](https://doi.org/10.1145/2600428.2609634)
+
+
+- **Modelling interaction with economic models of search.**
+    > Leif Azzopardi. Modelling interaction with economic models of search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 3-12. [paper](https://doi.org/10.1145/2600428.2609574)
+
+
+- **Fusion helps diversification.**
+    > Shangsong Liang, Zhaochun Ren, Maarten de Rijke. Fusion helps diversification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 303-312. [paper](https://doi.org/10.1145/2600428.2609561)
+
+
+- **Utilizing relevance feedback in fusion-based retrieval.**
+    > Ella Rabinovich, Ofri Rom, Oren Kurland. Utilizing relevance feedback in fusion-based retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 313-322. [paper](https://doi.org/10.1145/2600428.2609573)
+
+
+- **A simple term frequency transformation model for effective pseudo relevance feedback.**
+    > Zheng Ye, Jimmy Xiangji Huang. A simple term frequency transformation model for effective pseudo relevance feedback. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 323-332. [paper](https://doi.org/10.1145/2600428.2609636)
+
+
+- **Temporal feedback for tweet search with non-parametric density estimation.**
+    > Miles Efron, Jimmy Lin, Jiyin He, etc. Temporal feedback for tweet search with non-parametric density estimation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 33-42. [paper](https://doi.org/10.1145/2600428.2609575)
+
+
+- **Seeking simplicity in search user interfaces.**
+    > Marti A. Hearst. Seeking simplicity in search user interfaces. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 333-334. [paper](https://doi.org/10.1145/2600428.2617558)
+
+
+- **Who is the barbecue king of texas?: a geo-spatial approach to finding local experts on twitter.**
+    > Zhiyuan Cheng, James Caverlee, Himanshu Barthwal, etc. Who is the barbecue king of texas?: a geo-spatial approach to finding local experts on twitter. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 335-344. [paper](https://doi.org/10.1145/2600428.2609580)
+
+
+- **Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction.**
+    > Longke Hu, Aixin Sun, Yong Liu. Your neighbors affect your ratings: on geographical neighborhood influence to rating prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 345-354. [paper](https://doi.org/10.1145/2600428.2609593)
+
+
+- **Processing spatial keyword query as a top-k aggregation query.**
+    > Dongxiang Zhang, Chee-Yong Chan, Kian-Lee Tan. Processing spatial keyword query as a top-k aggregation query. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 355-364. [paper](https://doi.org/10.1145/2600428.2609562)
+
+
+- **Entity query feature expansion using knowledge base links.**
+    > Jeffrey Dalton, Laura Dietz, James Allan. Entity query feature expansion using knowledge base links. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 365-374. [paper](https://doi.org/10.1145/2600428.2609628)
+
+
+- **QUADS: question answering for decision support.**
+    > Zi Yang, Ying Li, James Cai, etc. QUADS: question answering for decision support. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 375-384. [paper](https://doi.org/10.1145/2600428.2609606)
+
+
+- **Topic labeled text classification: a weakly supervised approach.**
+    > Swapnil Hingmire, Sutanu Chakraborti. Topic labeled text classification: a weakly supervised approach. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 385-394. [paper](https://doi.org/10.1145/2600428.2609565)
+
+
+- **Discriminative coupled dictionary hashing for fast cross-media retrieval.**
+    > Zhou Yu, Fei Wu, Yi Yang, etc. Discriminative coupled dictionary hashing for fast cross-media retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 395-404. [paper](https://doi.org/10.1145/2600428.2609563)
+
+
+- **Active hashing with joint data example and tag selection.**
+    > Qifan Wang, Luo Si, Zhiwei Zhang, etc. Active hashing with joint data example and tag selection. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 405-414. [paper](https://doi.org/10.1145/2600428.2609590)
+
+
+- **Latent semantic sparse hashing for cross-modal similarity search.**
+    > Jile Zhou, Guiguang Ding, Yuchen Guo. Latent semantic sparse hashing for cross-modal similarity search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 415-424. [paper](https://doi.org/10.1145/2600428.2609610)
+
+
+- **Predicting term-relevance from brain signals.**
+    > Manuel J. A. Eugster, Tuukka Ruotsalo, Michiel M. A. Spapé, etc. Predicting term-relevance from brain signals. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 425-434. [paper](https://doi.org/10.1145/2600428.2609594)
+
+
+- **Fine-grained location extraction from tweets with temporal awareness.**
+    > Chenliang Li, Aixin Sun. Fine-grained location extraction from tweets with temporal awareness. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 43-52. [paper](https://doi.org/10.1145/2600428.2609582)
+
+
+- **Multidimensional relevance modeling via psychometrics and crowdsourcing.**
+    > Yinglong Zhang, Jin Zhang, Matthew Lease, etc. Multidimensional relevance modeling via psychometrics and crowdsourcing. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 435-444. [paper](https://doi.org/10.1145/2600428.2609577)
+
+
+- **Learning user reformulation behavior for query auto-completion.**
+    > Jyun-Yu Jiang, Yen-Yu Ke, Pao-Yu Chien, etc. Learning user reformulation behavior for query auto-completion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 445-454. [paper](https://doi.org/10.1145/2600428.2609614)
+
+
+- **A two-dimensional click model for query auto-completion.**
+    > Yanen Li, Anlei Dong, Hongning Wang, etc. A two-dimensional click model for query auto-completion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 455-464. [paper](https://doi.org/10.1145/2600428.2609571)
+
+
+- **On measuring social friend interest similarities in recommender systems.**
+    > Hao Ma. On measuring social friend interest similarities in recommender systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 465-474. [paper](https://doi.org/10.1145/2600428.2609635)
+
+
+- **IMRank: influence maximization via finding self-consistent ranking.**
+    > Suqi Cheng, Huawei Shen, Junming Huang, etc. IMRank: influence maximization via finding self-consistent ranking. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 475-484. [paper](https://doi.org/10.1145/2600428.2609592)
+
+
+- **User-driven system-mediated collaborative information retrieval.**
+    > Laure Soulier, Chirag Shah, Lynda Tamine. User-driven system-mediated collaborative information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 485-494. [paper](https://doi.org/10.1145/2600428.2609598)
+
+
+- **SearchPanel: framing complex search needs.**
+    > Pernilla Qvarfordt, Simon Tretter, Gene Golovchinsky, etc. SearchPanel: framing complex search needs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 495-504. [paper](https://doi.org/10.1145/2600428.2609620)
+
+
+- **Cohort modeling for enhanced personalized search.**
+    > Jinyun Yan, Wei Chu, Ryen W. White. Cohort modeling for enhanced personalized search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 505-514. [paper](https://doi.org/10.1145/2600428.2609617)
+
+
+- **Characterizing multi-click search behavior and the risks and opportunities of changing results during use.**
+    > Chia-Jung Lee, Jaime Teevan, Sebastian de la Chica. Characterizing multi-click search behavior and the risks and opportunities of changing results during use. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 515-524. [paper](https://doi.org/10.1145/2600428.2609588)
+
+
+- **The data revolution: how companies are transforming with big data.**
+    > Hugh E. Williams. The data revolution: how companies are transforming with big data. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 525-526. [paper](https://doi.org/10.1145/2600428.2617559)
+
+
+- **Learning similarity functions for topic detection in online reputation monitoring.**
+    > Damiano Spina, Julio Gonzalo, Enrique Amigó. Learning similarity functions for topic detection in online reputation monitoring. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 527-536. [paper](https://doi.org/10.1145/2600428.2609621)
+
+
+- **Collaborative personalized Twitter search with topic-language models.**
+    > Jan Vosecky, Kenneth Wai-Ting Leung, Wilfred Ng. Collaborative personalized Twitter search with topic-language models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 53-62. [paper](https://doi.org/10.1145/2600428.2609584)
+
+
+- **Predicting trending messages and diffusion participants in microblogging network.**
+    > Jingwen Bian, Yang Yang, Tat-Seng Chua. Predicting trending messages and diffusion participants in microblogging network. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 537-546. [paper](https://doi.org/10.1145/2600428.2609616)
+
+
+- **Leveraging knowledge across media for spammer detection in microblogging.**
+    > Xia Hu, Jiliang Tang, Huan Liu. Leveraging knowledge across media for spammer detection in microblogging. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 547-556. [paper](https://doi.org/10.1145/2600428.2609632)
+
+
+- **Using information scent and need for cognition to understand online search behavior.**
+    > Wan-Ching Wu, Diane Kelly, Avneesh Sud. Using information scent and need for cognition to understand online search behavior. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 557-566. [paper](https://doi.org/10.1145/2600428.2609626)
+
+
+- **Discrimination between tasks with user activity patterns during information search.**
+    > Michael J. Cole, Chathra Hendahewa, Nicholas J. Belkin, etc. Discrimination between tasks with user activity patterns during information search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 567-576. [paper](https://doi.org/10.1145/2600428.2609591)
+
+
+- **Investigating users&apos; query formulations for cognitive search intents.**
+    > Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, etc. Investigating users&apos; query formulations for cognitive search intents. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 577-586. [paper](https://doi.org/10.1145/2600428.2609566)
+
+
+- **Win-win search: dual-agent stochastic game in session search.**
+    > Jiyun Luo, Sicong Zhang, Hui Yang. Win-win search: dual-agent stochastic game in session search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 587-596. [paper](https://doi.org/10.1145/2600428.2609629)
+
+
+- **Injecting user models and time into precision via Markov chains.**
+    > Marco Ferrante, Nicola Ferro, Maria Maistro. Injecting user models and time into precision via Markov chains. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 597-606. [paper](https://doi.org/10.1145/2600428.2609637)
+
+
+- **Searching, browsing, and clicking in a search session: changes in user behavior by task and over time.**
+    > Jiepu Jiang, Daqing He, James Allan. Searching, browsing, and clicking in a search session: changes in user behavior by task and over time. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 607-616. [paper](https://doi.org/10.1145/2600428.2609633)
+
+
+- **Coarse-to-fine review selection via supervised joint aspect and sentiment model.**
+    > Zhen Hai, Gao Cong, Kuiyu Chang, etc. Coarse-to-fine review selection via supervised joint aspect and sentiment model. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 617-626. [paper](https://doi.org/10.1145/2600428.2609570)
+
+
+- **Cross-domain and cross-category emotion tagging for comments of online news.**
+    > Ying Zhang, Ning Zhang, Luo Si, etc. Cross-domain and cross-category emotion tagging for comments of online news. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 627-636. [paper](https://doi.org/10.1145/2600428.2609587)
+
+
+- **Gaussian process factorization machines for context-aware recommendations.**
+    > Trung V. Nguyen, Alexandros Karatzoglou, Linas Baltrunas. Gaussian process factorization machines for context-aware recommendations. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 63-72. [paper](https://doi.org/10.1145/2600428.2609623)
+
+
+- **Economically-efficient sentiment stream analysis.**
+    > Roberto Lourenço de Oliveira Jr., Adriano Veloso, Adriano C. M. Pereira, etc. Economically-efficient sentiment stream analysis. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 637-646. [paper](https://doi.org/10.1145/2600428.2609612)
+
+
+- **New and improved: modeling versions to improve app recommendation.**
+    > Jovian Lin, Kazunari Sugiyama, Min-Yen Kan, etc. New and improved: modeling versions to improve app recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 647-656. [paper](https://doi.org/10.1145/2600428.2609560)
+
+
+- **Bundle recommendation in ecommerce.**
+    > Tao Zhu, Patrick Harrington, Junjun Li, etc. Bundle recommendation in ecommerce. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 657-666. [paper](https://doi.org/10.1145/2600428.2609603)
+
+
+- **Does product recommendation meet its waterloo in unexplored categories?: no, price comes to help.**
+    > Jia Chen, Qin Jin, Shiwan Zhao, etc. Does product recommendation meet its waterloo in unexplored categories?: no, price comes to help. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 667-676. [paper](https://doi.org/10.1145/2600428.2609608)
+
+
+- **Query expansion for mixed-script information retrieval.**
+    > Parth Gupta, Kalika Bali, Rafael E. Banchs, etc. Query expansion for mixed-script information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 677-686. [paper](https://doi.org/10.1145/2600428.2609622)
+
+
+- **Retrieval of similar chess positions.**
+    > Debasis Ganguly, Johannes Leveling, Gareth J. F. Jones. Retrieval of similar chess positions. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 687-696. [paper](https://doi.org/10.1145/2600428.2609605)
+
+
+- **A mathematics retrieval system for formulae in layout presentations.**
+    > Xiaoyan Lin, Liangcai Gao, Xuan Hu, etc. A mathematics retrieval system for formulae in layout presentations. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 697-706. [paper](https://doi.org/10.1145/2600428.2609611)
+
+
+- **The knowing camera 2: recognizing and annotating places-of-interest in smartphone photos.**
+    > Pai Peng, Lidan Shou, Ke Chen, etc. The knowing camera 2: recognizing and annotating places-of-interest in smartphone photos. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 707-716. [paper](https://doi.org/10.1145/2600428.2609557)
+
+
+- **Click-through-based cross-view learning for image search.**
+    > Yingwei Pan, Ting Yao, Tao Mei, etc. Click-through-based cross-view learning for image search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 717-726. [paper](https://doi.org/10.1145/2600428.2609568)
+
+
+- **Learning to personalize trending image search suggestion.**
+    > Chun-Che Wu, Tao Mei, Winston H. Hsu, etc. Learning to personalize trending image search suggestion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 727-736. [paper](https://doi.org/10.1145/2600428.2609569)
+
+
+- **Addressing cold start in recommender systems: a semi-supervised co-training algorithm.**
+    > Mi Zhang, Jie Tang, Xuchen Zhang, etc. Addressing cold start in recommender systems: a semi-supervised co-training algorithm. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 73-82. [paper](https://doi.org/10.1145/2600428.2609599)
+
+
+- **PRISM: concept-preserving social image search results summarization.**
+    > Boon-Siew Seah, Sourav S. Bhowmick, Aixin Sun. PRISM: concept-preserving social image search results summarization. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 737-746. [paper](https://doi.org/10.1145/2600428.2609586)
+
+
+- **Time-critical search.**
+    > Nina Mishra, Ryen W. White, Samuel Ieong, etc. Time-critical search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 747-756. [paper](https://doi.org/10.1145/2600428.2609613)
+
+
+- **Learning temporal-dependent ranking models.**
+    > Miguel Costa, Francisco M. Couto, Mário J. Silva. Learning temporal-dependent ranking models. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 757-766. [paper](https://doi.org/10.1145/2600428.2609619)
+
+
+- **Web page segmentation with structured prediction and its application in web page classification.**
+    > Lidong Bing, Rui Guo, Wai Lam, etc. Web page segmentation with structured prediction and its application in web page classification. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 767-776. [paper](https://doi.org/10.1145/2600428.2609630)
+
+
+- **Query log driven web search results clustering.**
+    > José G. Moreno, Gaël Dias, Guillaume Cleuziou. Query log driven web search results clustering. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 777-786. [paper](https://doi.org/10.1145/2600428.2609583)
+
+
+- **CTSUM: extracting more certain summaries for news articles.**
+    > Xiaojun Wan, Jianmin Zhang. CTSUM: extracting more certain summaries for news articles. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 787-796. [paper](https://doi.org/10.1145/2600428.2609559)
+
+
+- **Continuous word embeddings for detecting local text reuses at the semantic level.**
+    > Qi Zhang, Jihua Kang, Jin Qian, etc. Continuous word embeddings for detecting local text reuses at the semantic level. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 797-806. [paper](https://doi.org/10.1145/2600428.2609597)
+
+
+- **CiteSight: supporting contextual citation recommendation using differential search.**
+    > Avishay Livne, Vivek Gokuladas, Jaime Teevan, etc. CiteSight: supporting contextual citation recommendation using differential search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 807-816. [paper](https://doi.org/10.1145/2600428.2609585)
+
+
+- **Cross-language context-aware citation recommendation in scientific articles.**
+    > Xuewei Tang, Xiaojun Wan, Xun Zhang. Cross-language context-aware citation recommendation in scientific articles. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 817-826. [paper](https://doi.org/10.1145/2600428.2609564)
+
+
+- **Search result diversification via data fusion.**
+    > Shengli Wu, Chunlan Huang. Search result diversification via data fusion. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 827-830. [paper](https://doi.org/10.1145/2600428.2609451)
+
+
+- **Explicit factor models for explainable recommendation based on phrase-level sentiment analysis.**
+    > Yongfeng Zhang, Guokun Lai, Min Zhang, etc. Explicit factor models for explainable recommendation based on phrase-level sentiment analysis. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 83-92. [paper](https://doi.org/10.1145/2600428.2609579)
+
+
+- **Hashtag recommendation for hyperlinked tweets.**
+    > Surendra Sedhai, Aixin Sun. Hashtag recommendation for hyperlinked tweets. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 831-834. [paper](https://doi.org/10.1145/2600428.2609452)
+
+
+- **Personalized document re-ranking based on Bayesian probabilistic matrix factorization.**
+    > Fei Cai, Shangsong Liang, Maarten de Rijke. Personalized document re-ranking based on Bayesian probabilistic matrix factorization. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 835-838. [paper](https://doi.org/10.1145/2600428.2609453)
+
+
+- **Using the cross-entropy method to re-rank search results.**
+    > Haggai Roitman, Shay Hummel, Oren Kurland. Using the cross-entropy method to re-rank search results. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 839-842. [paper](https://doi.org/10.1145/2600428.2609454)
+
+
+- **Computing and applying topic-level user interactions in microblog recommendation.**
+    > Xiao Lu, Peng Li, Hongyuan Ma, etc. Computing and applying topic-level user interactions in microblog recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 843-846. [paper](https://doi.org/10.1145/2600428.2609455)
+
+
+- **Towards context-aware search with right click.**
+    > Aixin Sun, Chii-Hian Lou. Towards context-aware search with right click. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 847-850. [paper](https://doi.org/10.1145/2600428.2609456)
+
+
+- **Rendering expressions to improve accuracy of relevance assessment for math search.**
+    > Matthias S. Reichenbach, Anurag Agarwal, Richard Zanibbi. Rendering expressions to improve accuracy of relevance assessment for math search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 851-854. [paper](https://doi.org/10.1145/2600428.2609457)
+
+
+- **Exploring recommendations in internet of things.**
+    > Lina Yao, Quan Z. Sheng, Anne H. H. Ngu, etc. Exploring recommendations in internet of things. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 855-858. [paper](https://doi.org/10.1145/2600428.2609458)
+
+
+- **Sig-SR: SimRank search over singular graphs.**
+    > Weiren Yu, Julie A. McCann. Sig-SR: SimRank search over singular graphs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 859-862. [paper](https://doi.org/10.1145/2600428.2609459)
+
+
+- **Old dogs are great at new tricks: column stores for ir prototyping.**
+    > Hannes Mühleisen, Thaer Samar, Jimmy Lin, etc. Old dogs are great at new tricks: column stores for ir prototyping. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 863-866. [paper](https://doi.org/10.1145/2600428.2609460)
+
+
+- **The role of network distance in linkedin people search.**
+    > Shih-Wen Huang, Daniel Tunkelang, Karrie Karahalios. The role of network distance in linkedin people search. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 867-870. [paper](https://doi.org/10.1145/2600428.2609461)
+
+
+- **Latent community discovery through enterprise user search query modeling.**
+    > Kevin M. Carter, Rajmonda Sulo Caceres, Ben Priest. Latent community discovery through enterprise user search query modeling. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 871-874. [paper](https://doi.org/10.1145/2600428.2609462)
+
+
+- **Examining collaborative query reformulation: a case of travel information searching.**
+    > Abu Shamim Mohammad Arif, Jia Tina Du, Ivan Lee. Examining collaborative query reformulation: a case of travel information searching. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 875-878. [paper](https://doi.org/10.1145/2600428.2609463)
+
+
+- **Influential nodes selection: a data reconstruction perspective.**
+    > Zhefeng Wang, Hao Wang, Qi Liu, etc. Influential nodes selection: a data reconstruction perspective. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 879-882. [paper](https://doi.org/10.1145/2600428.2609464)
+
+
+- **A fusion approach to cluster labeling.**
+    > Haggai Roitman, Shay Hummel, Michal Shmueli-Scheuer. A fusion approach to cluster labeling. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 883-886. [paper](https://doi.org/10.1145/2600428.2609465)
+
+
+- **Evaluating the effort involved in relevance assessments for images.**
+    > Martin Halvey, Robert Villa. Evaluating the effort involved in relevance assessments for images. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 887-890. [paper](https://doi.org/10.1145/2600428.2609466)
+
+
+- **Diversifying query suggestions based on query documents.**
+    > Youngho Kim, W. Bruce Croft. Diversifying query suggestions based on query documents. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 891-894. [paper](https://doi.org/10.1145/2600428.2609467)
+
+
+- **Comparing client and server dwell time estimates for click-level satisfaction prediction.**
+    > Youngho Kim, Ahmed Hassan Awadallah, Ryen W. White, etc. Comparing client and server dwell time estimates for click-level satisfaction prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 895-898. [paper](https://doi.org/10.1145/2600428.2609468)
+
+
+- **Score-safe term-dependency processing with hybrid indexes.**
+    > Matthias Petri, Alistair Moffat, J. Shane Culpepper. Score-safe term-dependency processing with hybrid indexes. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 899-902. [paper](https://doi.org/10.1145/2600428.2609469)
+
+
+- **Co-training on authorship attribution with very fewlabeled examples: methods vs. views.**
+    > Tieyun Qian, Bing Liu, Ming Zhong, etc. Co-training on authorship attribution with very fewlabeled examples: methods vs. views. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 903-906. [paper](https://doi.org/10.1145/2600428.2609470)
+
+
+- **Probabilistic text modeling with orthogonalized topics.**
+    > Enpeng Yao, Guoqing Zheng, Ou Jin, etc. Probabilistic text modeling with orthogonalized topics. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 907-910. [paper](https://doi.org/10.1145/2600428.2609471)
+
+
+- **Evaluating non-deterministic retrieval systems.**
+    > Gaya K. Jayasinghe, William Webber, Mark Sanderson, etc. Evaluating non-deterministic retrieval systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 911-914. [paper](https://doi.org/10.1145/2600428.2609472)
+
+
+- **Extending test collection pools without manual runs.**
+    > Gaya K. Jayasinghe, William Webber, Mark Sanderson, etc. Extending test collection pools without manual runs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 915-918. [paper](https://doi.org/10.1145/2600428.2609473)
+
+
+- **The search duel: a response to a strong ranker.**
+    > Peter Izsak, Fiana Raiber, Oren Kurland, etc. The search duel: a response to a strong ranker. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 919-922. [paper](https://doi.org/10.1145/2600428.2609474)
+
+
+- **Modeling the evolution of product entities.**
+    > Priya Radhakrishnan, Manish Gupta, Vasudeva Varma. Modeling the evolution of product entities. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 923-926. [paper](https://doi.org/10.1145/2600428.2609475)
+
+
+- **Predicting bursts and popularity of hashtags in real-time.**
+    > Shoubin Kong, Qiaozhu Mei, Ling Feng, etc. Predicting bursts and popularity of hashtags in real-time. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 927-930. [paper](https://doi.org/10.1145/2600428.2609476)
+
+
+- **Context-aware web search abandonment prediction.**
+    > Yang Song, Xiaolin Shi, Ryen White, etc. Context-aware web search abandonment prediction. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 93-102. [paper](https://doi.org/10.1145/2600428.2609604)
+
+
+- **Probabilistic ensemble learning for vietnamese word segmentation.**
+    > Wuying Liu, Li Lin. Probabilistic ensemble learning for vietnamese word segmentation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 931-934. [paper](https://doi.org/10.1145/2600428.2609477)
+
+
+- **Improving unsupervised query segmentation using parts-of-speech sequence information.**
+    > Rishiraj Saha Roy, Yogarshi Vyas, Niloy Ganguly, etc. Improving unsupervised query segmentation using parts-of-speech sequence information. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 935-938. [paper](https://doi.org/10.1145/2600428.2609478)
+
+
+- **Building a query log via crowdsourcing.**
+    > Omar Alonso, Maria Stone. Building a query log via crowdsourcing. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 939-942. [paper](https://doi.org/10.1145/2600428.2609479)
+
+
+- **Web search without &apos;stupid&apos; results.**
+    > Aleksandra Lomakina, Nikita Povarov, Pavel Serdyukov. Web search without &apos;stupid&apos; results. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 943-946. [paper](https://doi.org/10.1145/2600428.2609480)
+
+
+- **Discovering real-world use cases for a multimodal math search interface.**
+    > Keita Del Valle Wangari, Richard Zanibbi, Anurag Agarwal. Discovering real-world use cases for a multimodal math search interface. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 947-950. [paper](https://doi.org/10.1145/2600428.2609481)
+
+
+- **Improving search personalisation with dynamic group formation.**
+    > Thanh Tien Vu, Dawei Song, Alistair Willis, etc. Improving search personalisation with dynamic group formation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 951-954. [paper](https://doi.org/10.1145/2600428.2609482)
+
+
+- **Detection of abnormal profiles on group attacks in recommender systems.**
+    > Wei Zhou, Yun Sing Koh, Junhao Wen, etc. Detection of abnormal profiles on group attacks in recommender systems. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 955-958. [paper](https://doi.org/10.1145/2600428.2609483)
+
+
+- **On run diversity in Evaluation as a Service.**
+    > Ellen M. Voorhees, Jimmy Lin, Miles Efron. On run diversity in Evaluation as a Service. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 959-962. [paper](https://doi.org/10.1145/2600428.2609484)
+
+
+- **Evaluating answer passages using summarization measures.**
+    > Mostafa Keikha, Jae Hyun Park, W. Bruce Croft. Evaluating answer passages using summarization measures. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 963-966. [paper](https://doi.org/10.1145/2600428.2609485)
+
+
+- **Analyzing bias in CQA-based expert finding test sets.**
+    > Reyyan Yeniterzi, Jamie Callan. Analyzing bias in CQA-based expert finding test sets. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 967-970. [paper](https://doi.org/10.1145/2600428.2609486)
+
+
+- **Understanding negation and family history to improve clinical information retrieval.**
+    > Bevan Koopman, Guido Zuccon. Understanding negation and family history to improve clinical information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 971-974. [paper](https://doi.org/10.1145/2600428.2609487)
+
+
+- **Modeling dual role preferences for trust-aware recommendation.**
+    > Weilong Yao, Jing He, Guangyan Huang, etc. Modeling dual role preferences for trust-aware recommendation. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 975-978. [paper](https://doi.org/10.1145/2600428.2609488)
+
+
+- **Mouse movement during relevance judging: implications for determining user attention.**
+    > Mark D. Smucker, Xiaoyu Sunny Guo, Andrew Toulis. Mouse movement during relevance judging: implications for determining user attention. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 979-982. [paper](https://doi.org/10.1145/2600428.2609489)
+
+
+- **PAAP: prefetch-aware admission policies for query results cache in web search engines.**
+    > Hongyuan Ma, Wei Liu, Bingjie Wei, etc. PAAP: prefetch-aware admission policies for query results cache in web search engines. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 983-986. [paper](https://doi.org/10.1145/2600428.2609490)
+
+
+- **User geospatial context for music recommendation in microblogs.**
+    > Markus Schedl, Andreu Vall, Katayoun Farrahi. User geospatial context for music recommendation in microblogs. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 987-990. [paper](https://doi.org/10.1145/2600428.2609491)
+
+
+- **Compositional data analysis (CoDA) approaches to distance in information retrieval.**
+    > Paul Thomas, David Lovell. Compositional data analysis (CoDA) approaches to distance in information retrieval. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 991-994. [paper](https://doi.org/10.1145/2600428.2609492)
+
+
+- **Group latent factor model for recommendation with multiple user behaviors.**
+    > Jian Cheng, Ting Yuan, Jinqiao Wang, etc. Group latent factor model for recommendation with multiple user behaviors. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 995-998. [paper](https://doi.org/10.1145/2600428.2609493)
+
+
+- **Hashing with List-Wise learning to rank.**
+    > Zhou Yu, Fei Wu, Yin Zhang, etc. Hashing with List-Wise learning to rank. in The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014(SIGIR' 14). 999-1002. [paper](https://doi.org/10.1145/2600428.2609494)
